@@ -10,7 +10,7 @@ description: >-
   óptima. Contiene una proporción equilibrada de proteína y grasa para mantener
   la masa muscular magra, una combinación de antioxidantes naturales y vitaminas
   E y C
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/blue-sloth.webp
 default_original_image: >-
   images/a52c13c4-3190-416e-92ec-3d845c70bb70.2c26eca18b877fa5f212bbc71b9c85c0.webp
 featured: true
