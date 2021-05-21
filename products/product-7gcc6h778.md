@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 price: '455'
-order: 0
+order: 2
 featured: false
 seo:
   title: ''
