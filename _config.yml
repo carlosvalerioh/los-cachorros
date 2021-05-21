@@ -42,3 +42,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://modern-sycamore-7fe64.netlify.app'
