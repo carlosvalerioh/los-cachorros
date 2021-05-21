@@ -34,6 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
+title: ' Pro Plan Senior Razas Medianas y Grandes Active Mind 13 kg'
 ---
 
 # Curabitur eu tempor
