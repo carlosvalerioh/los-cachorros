@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '985'
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/plant3-lg.jpg
