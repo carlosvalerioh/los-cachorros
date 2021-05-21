@@ -19,7 +19,7 @@ main_menu:
   - title: CATALOGO
     url: /store
     style: link
-  - title: About
+  - title: SOBRE NOSOTROS
     url: /about
     style: link
   - title: FAQ
