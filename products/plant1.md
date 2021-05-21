@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '1,275'
-title: Pro Plan Senior Raza Active Mind 13 kg
+title: Pro Plan Senior Razas Medianas y Grandes Active Mind 13 kg
 description: >-
   Provee nutrición de avanzada para proteger a los perros mayores de 7 años,
   manteniéndolos sanos y activos. Formulado con fuentes naturales de
