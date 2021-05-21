@@ -7,4 +7,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: category
+title: ALIMENTO
 ---
