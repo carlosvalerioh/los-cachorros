@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: ACCESORIOS
 layout: category
 order: 2
 seo:
