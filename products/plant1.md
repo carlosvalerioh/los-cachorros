@@ -4,9 +4,12 @@ id: '1'
 price: '1,275'
 title: Pro Plan Senior Raza Active Mind 13 kg
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Provee nutrición de avanzada para proteger a los perros mayores de 7 años,
+  manteniéndolos sanos y activos. Formulado con fuentes naturales de
+  glucosamina, que ayudan a mantener las articulaciones sanas y una movilidad
+  óptima. Contiene una proporción equilibrada de proteína y grasa para mantener
+  la masa muscular magra, una combinación de antioxidantes naturales y vitaminas
+  E y C
 default_thumbnail_image: images/plant1.jpg
 default_original_image: >-
   images/a52c13c4-3190-416e-92ec-3d845c70bb70.2c26eca18b877fa5f212bbc71b9c85c0.webp
