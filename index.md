@@ -14,7 +14,7 @@ sections:
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
-      - title: CATALOGO COMPLETO
+      - title: CATALOGO
         url: /store
         arrow: true
         style: primary
