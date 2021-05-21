@@ -1,6 +1,5 @@
 ---
 id: lorem-ipsum
-description: lorem-ipsum
 price: '455'
 order: 0
 featured: false
