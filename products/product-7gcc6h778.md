@@ -21,6 +21,7 @@ description: >-
   combinación de antioxidantes naturales y vitaminas E y C. Conoce el plan de
   nutrición de última generación que está revolucionando la forma de alimentar y
   proteger a los perros.
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
