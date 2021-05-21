@@ -13,6 +13,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DSC02377-1.jpg
 default_original_image: images/DSC02383-1.jpg
+title: Pro Plan Senior Raza med/gde active mind  3 kg
 ---
 ## Lorem ipsum
 
