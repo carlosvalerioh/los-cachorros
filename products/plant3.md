@@ -7,7 +7,6 @@ default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
-category: category/cactuses.md
 seo:
   title: Curabitur eu tempor
   description: 'Nulla non pretium metus, vitae finibus lectus'
