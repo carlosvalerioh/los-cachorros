@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '1,275'
 title: Pro Plan Senior Raza Active Mind 13 kg
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
