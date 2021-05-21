@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/karsten-winegeart-NE0XGVKTmcA-unsplash.jpg
+    background_image: images/green-paprika.jpg
     background_image_opacity: 65
     content: >
       # Los Cachorros
