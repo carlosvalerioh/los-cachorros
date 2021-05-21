@@ -12,7 +12,7 @@ seo:
 layout: product
 default_thumbnail_image: images/122215-1.jpg
 default_original_image: images/clever-birch.jpg
-title: Pro Plan Senior Razas Pequeñas Active Mind  3 Kg
+title: Pro Plan Senior Razas Pequeñas Active Mind  3 kg
 description: >-
   Pro Plan Optiage prolonga la vitalidad de tu perro mayor de 7 años al
   brindarle una nutrición avanzada que le ayudará a retrasar los signos de
