@@ -13,7 +13,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DSC02377-1.jpg
 default_original_image: images/DSC02383-1.jpg
-title: Pro Plan Senior Razas Mediana y Grandes Active mind  3 kg
+title: Pro Plan Senior Razas Mediana y Grandes Active Mind  3 kg
 ---
 ## Lorem ipsum
 
