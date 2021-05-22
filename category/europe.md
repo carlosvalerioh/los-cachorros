@@ -1,7 +1,7 @@
 ---
 title: Plants from Europe
 layout: category
-order: 2
+order: 0
 seo:
   title: Plants from Europe
   description: This is the store page
