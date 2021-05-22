@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '455'
 title: ' Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg'
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/104579-1.jpg
