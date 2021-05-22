@@ -1,6 +1,6 @@
 ---
 layout: category
-order: 0
+order: 2
 seo:
   title: Big plants
   description: This is the store page
