@@ -4,7 +4,7 @@ id: '2'
 price: '99.00'
 title: ' Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg'
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: category/cactuses.md
