@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '985'
-description: 'SKU: PA1175 <br>'
+description: 'SKU: PA1175 <br> '
 default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/104579-1.jpg
 featured: true
