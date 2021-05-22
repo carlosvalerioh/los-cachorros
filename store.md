@@ -50,5 +50,4 @@ seo:
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
-page_css_class: TODOS LOS PRODUCTOS
 ---
