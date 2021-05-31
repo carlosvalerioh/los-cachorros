@@ -19,6 +19,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/bigplants.md
+default_thumbnail_image: images/61btu8biG2L._AC_SS450_.jpg
 ---
 ## Lorem ipsum
 
