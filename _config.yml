@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 favicon: images/violet-chestnut.png
-logo_dark: images/LOGO-LOS-CACHORROS-BLANCO.png
+logo_dark: images/Los-Cachorros-negro.png
 logo_light: images/marvelous-mahogany.png
 hamburger_background_image: images/noun_Dog_3587160-5.png
 bg_image_primary: images/photo-1583511655826-05700d52f4d9.jpg
