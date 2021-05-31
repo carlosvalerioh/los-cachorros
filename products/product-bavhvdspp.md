@@ -18,6 +18,7 @@ description: >-
   esenciales y minerales, como cobre y selenio, para el mantenimiento de una
   piel sana, que sirve como la primera barrera protectora para cachorros.
 default_thumbnail_image: images/104575-1.jpg
+default_original_image: images/green-sparrow.jpg
 ---
 ## Lorem ipsum
 
