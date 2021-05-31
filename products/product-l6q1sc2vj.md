@@ -8,7 +8,7 @@ description: >-
   proteínas, ideal para perros sensibles. Conoce el plan de nutrición de última
   generación que está revolucionando la forma de alimentar y proteger a los
   perros.
-price: lorem-ipsum
+price: '440'
 order: 0
 featured: false
 seo:
