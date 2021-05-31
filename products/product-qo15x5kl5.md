@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 price: '1,515'
+default_thumbnail_image: images/Pro Plan Cachorro Raza mediana.jpg
 ---
 ## Lorem ipsum
 
