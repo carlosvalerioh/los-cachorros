@@ -33,6 +33,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant6-lg.jpg
       relativeUrl: true
+title: Pro Plan Senior Raza pequeña active mind  7.5 kg
 ---
 
 # Donec finibus
