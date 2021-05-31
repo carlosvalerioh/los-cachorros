@@ -13,6 +13,7 @@ seo:
 layout: product
 price: '910'
 category: category/bigplants.md
+default_original_image: images/adulto-rp-75kg_2.jpg
 ---
 ## Lorem ipsum
 
