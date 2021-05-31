@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan  Adulto raza pequeña delicate structure   3 kg
+title: Pro Plan  Adulto raza pequeña delicate structure 3 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
