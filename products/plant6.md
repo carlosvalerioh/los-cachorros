@@ -33,7 +33,7 @@ seo:
       value: images/plant6-lg.jpg
       relativeUrl: true
 title: Pro Plan Senior Raza pequeña active mind  7.5 kg
-description: '<br> SKU:PA11RP75 <br>'
+description: '<br> SKU:PA11RP75 <br> '
 ---
 
 # Donec finibus
