@@ -32,6 +32,7 @@ sections:
       - products/product-3v08kbwh6.md
       - products/product-zuta2mf7z.md
       - products/product-7gcc6h778.md
+      - products/product-06trcln66.md
       - products/product-jdlfxcngj.md
       - products/product-geg6gxmvo.md
       - products/plant3.md
