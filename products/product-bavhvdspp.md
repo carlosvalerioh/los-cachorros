@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 description: >-
-  SKU:PA13RP75 <br> Pro Plan Sensitive Skin para cachorro brinda una nutrición
+  SKU:PA1413 <br> Pro Plan Sensitive Skin para cachorro brinda una nutrición
   superior, sus croquetas minimizan el riesgo de irritación de la piel asociada
   con la sensibilidad alimentaria. Contiene ácidos grasos Omega 3 y 6, vitaminas
   esenciales y minerales, como cobre y selenio, para el mantenimiento de una
