@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Adulto Raza grande 13 kg
-description: 'SKU:'
+description: 'SKU:PA8RG13'
 order: 0
 featured: false
 seo:
