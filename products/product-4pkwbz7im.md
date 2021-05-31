@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan  Adulto performance todas las razas 13 kg
-description: lorem-ipsum
+description: 'SKU:'
 price: lorem-ipsum
 order: 0
 featured: false
