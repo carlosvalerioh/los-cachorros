@@ -22,6 +22,7 @@ seo:
 layout: product
 default_original_image: images/Pro Plan Cachorro Raza mediana.jpg
 default_thumbnail_image: images/Pro Plan Cachorro Raza mediana.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
