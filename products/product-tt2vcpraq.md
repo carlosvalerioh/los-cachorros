@@ -20,6 +20,7 @@ layout: product
 price: '1,225'
 category: category/bigplants.md
 default_thumbnail_image: images/6.OPTIHEALTH-ADULTO-RG1.png
+default_original_image: images/6.OPTIHEALTH-ADULTO-RG1.png
 ---
 ## Lorem ipsum
 
