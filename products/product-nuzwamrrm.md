@@ -10,7 +10,7 @@ description: >-
   calostro y proteínas de la carne fresca de pollo, altamente digeribles para
   estimular el desarrollo de un sistema inmunológico fuerte, protege a los
   cachorros contra patógenos y enfermedades.
-price: lorem-ipsum
+price: '960'
 order: 0
 featured: false
 seo:
