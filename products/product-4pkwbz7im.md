@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Adulto performance todas las razas 13 kg
+title: Pro Plan Adulto performance <br> todas las razas 13 kg
 description: >-
   SKU:PAPER13  Pro Plan Optipower Performance es el alimento que le brindará a
   tu perro una nutrición avanzada que le ayudará mantenerse fuerte y lleno de
