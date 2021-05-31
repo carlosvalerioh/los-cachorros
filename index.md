@@ -34,6 +34,7 @@ sections:
       - products/product-qvfigkykv.md
       - products/plant5.md
       - products/plant7.md
+      - products/product-bavhvdspp.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
