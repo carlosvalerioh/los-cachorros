@@ -20,6 +20,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/pro04783_7501072204783_pp_perro_adult_all_performance_bulto_15_f_sk.jpg
+default_original_image: images/charming-chili.jpg
 ---
 ## Lorem ipsum
 
