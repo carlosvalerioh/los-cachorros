@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '6'
-price: '100.00'
+price: '1,005.00'
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/122215-1.jpg
 default_original_image: images/plant6-lg.jpg
