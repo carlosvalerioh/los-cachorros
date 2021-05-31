@@ -30,6 +30,7 @@ sections:
       - products/product-2lfevmrkz.md
       - products/product-7gcc6h778.md
       - products/plant3.md
+      - products/product-qvfigkykv.md
       - products/plant5.md
       - products/plant7.md
   - type: featured_categories_section
