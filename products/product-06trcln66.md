@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: lPro Plan Adulto Raza pequeña  3.5 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
