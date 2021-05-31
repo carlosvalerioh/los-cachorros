@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: lPro Plan Adulto Raza pequeña 3.5 kg
-description: 'SKU:'
+description: 'SKU:PA8RP35 <br> '
 price: '490'
 order: 0
 featured: false
