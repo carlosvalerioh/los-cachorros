@@ -17,6 +17,7 @@ description: >-
   con la sensibilidad alimentaria. Contiene ácidos grasos Omega 3 y 6, vitaminas
   esenciales y minerales, como cobre y selenio, para el mantenimiento de una
   piel sana, que sirve como la primera barrera protectora para cachorros.
+default_thumbnail_image: images/104575-1.jpg
 ---
 ## Lorem ipsum
 
