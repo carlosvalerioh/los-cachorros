@@ -9,7 +9,7 @@ description: >-
   que sacian el apetito manteniendo a los perros satisfechos. Contiene 20% menos
   calorías, que un alimento de mantenimiento para perros adultos, para facilitar
   el adelgazamiento en forma saludable. Nosotros compartimos tu pasión y siempre
-  buscaremos nuevas formas de mejorar la vida de tu mascota.  
+  buscaremos nuevas formas de mejorar la vida de tu mascota.
 price: '450'
 order: 0
 featured: false
