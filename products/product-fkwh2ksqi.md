@@ -1,7 +1,6 @@
 ---
 id: lorem-ipsum
 title: Pro Plan  Adulto raza pequeña exigent 3 kg
-description: lorem-ipsum
 price: '500'
 order: 0
 featured: false
