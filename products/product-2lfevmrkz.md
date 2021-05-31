@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/61btu8biG2L._AC_SS450_.jpg
 default_original_image: images/61btu8biG2L._AC_SS450_.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
