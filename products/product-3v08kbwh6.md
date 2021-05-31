@@ -9,8 +9,7 @@ description: >-
   cuidado no tiene límites. Contiene ácidos grasos Omega 6 y vitamina A, que
   sumados a ácidos grasos Omega 3 y minerales, promueven una piel flexible y un
   pelaje resistente y brillante, actuando como la primera línea de defensa que
-  tiene un perro contra amenazas externas. Nosotros compartimos tu pasión y
-  siempre buscaremos nuevas formas de mejorar la vida de tu mascota
+  tiene un perro contra amenazas externas.
 price: '455'
 order: 0
 featured: false
