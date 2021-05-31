@@ -21,6 +21,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/bigplants.md
+default_thumbnail_image: images/maroon-squid.jpg
 ---
 ## Lorem ipsum
 
