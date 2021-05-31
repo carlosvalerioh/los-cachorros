@@ -9,7 +9,7 @@ description: >-
   el apetito manteniendo a los perros satisfechos. Contiene 20% menos calorías,
   que un alimento de mantenimiento para perros adultos, para facilitar el
   adelgazamiento en forma saludable. Nosotros compartimos tu pasión y siempre
-  buscaremos nuevas formas de mejorar la vida de tu mascota.  <br>  Beneficios
+  buscaremos nuevas formas de mejorar la vida de tu mascota.  <br> Beneficios
   <br>  Facilita una perdida de peso saludable al contener 20% menos de
   calorías. Alto contenido proteico para mantener la masa muscular. Fibras
   balanceadas para satisfacer el apetito. Antioxidantes para proteger la salud
