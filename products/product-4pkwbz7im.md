@@ -9,7 +9,7 @@ description: >-
   preparado para un envejecimiento saludable. Formulado con EPA, un ácido graso
   Omega 3 y fuentes naturales de glucosamina, para ayudar a mantener
   articulaciones sanas.
-price: lorem-ipsum
+price: '1,470'
 order: 0
 featured: false
 seo:
