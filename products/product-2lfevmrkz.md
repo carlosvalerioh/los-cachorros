@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Salmon Adulto raza mediana/grande sensitive skin   13 kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: 'lorem-ipsu1,564'
 order: 0
 featured: false
 seo:
