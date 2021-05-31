@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Cachorro Raza grande  3.5 kg
 description: >-
-  SKU:PA9RG13 <br> Debido a su calidad nutricional, este alimento le permitirá a
+  SKU:PA9RG35 <br> Debido a su calidad nutricional, este alimento le permitirá a
   tu cachorro mantener un estilo de vida enérgico y un adecuado crecimiento. Sus
   ingredientes de calidad aportan al cuidado integral de su salud y contribuyen
   al desarrollo de sus huesos, músculos y órganos. Además, cuenta con un
