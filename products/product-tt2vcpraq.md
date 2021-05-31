@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 price: '1,225'
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
