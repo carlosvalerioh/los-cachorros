@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Adulto Raza pequeña  3.5 kg.jpg
+default_original_image: images/spectacular-moon.jpg
 ---
 ## Lorem ipsum
 
