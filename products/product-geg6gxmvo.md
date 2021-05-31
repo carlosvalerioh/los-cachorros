@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/104575-1.jpg
+default_original_image: images/104575-1.jpg
 ---
 ## Lorem ipsum
 
