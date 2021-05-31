@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Salmon Cachorro sensitive skin todas las razas 13 kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,565'
 order: 0
 featured: false
 seo:
