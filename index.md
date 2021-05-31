@@ -26,6 +26,7 @@ sections:
     featured_products:
       - products/plant1.md
       - products/product-f89y55qp5.md
+      - products/product-l6q1sc2vj.md
       - products/product-2lfevmrkz.md
       - products/product-7gcc6h778.md
       - products/plant3.md
