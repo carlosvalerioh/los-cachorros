@@ -35,6 +35,7 @@ sections:
       - products/product-jdlfxcngj.md
       - products/product-geg6gxmvo.md
       - products/plant3.md
+      - products/product-tt2vcpraq.md
       - products/product-qvfigkykv.md
       - products/plant5.md
       - products/plant7.md
