@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Salmon Adulto raza pequeña sensitive skin 3 kg.jpg
 default_original_image: images/Pro Plan Salmon Adulto raza pequeña sensitive skin 3 kg.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
