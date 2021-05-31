@@ -8,7 +8,7 @@ description: >-
   proteínas, ideal para perros sensibles. Conoce el plan de nutrición de última
   generación que está revolucionando la forma de alimentar y proteger a los
   perros.
-price: 'lorem-ipsu1,565'
+price: '1,565'
 order: 0
 featured: false
 seo:
