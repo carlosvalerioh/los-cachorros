@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Adulto Raza pequeña 7.5 kg
-description: 'SKU:'
+description: 'SKU:PA8RP75 <br> '
 order: 0
 featured: false
 seo:
