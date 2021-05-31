@@ -1,7 +1,13 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Salmon Adulto raza pequeña sensitive skin   3 kg
-description: ' Pro Plan Sensitive Skin para perro raza pequeña brinda una nutrición superior, sus croquetas minimizan el riesgo de irritación de la piel asociada con la sensibilidad alimentaria. Contiene salmón, rico en ácidos grasos Omega 3 y 6, para la belleza y la salud en general. Conoce el plan de nutrición de última generación que está revolucionando la forma de alimentar y proteger a los perros.'
+description: >-
+  SKU:PA1313 <btr Pro Plan Sensitive Skin para perro raza pequeña brinda una
+  nutrición superior, sus croquetas minimizan el riesgo de irritación de la piel
+  asociada con la sensibilidad alimentaria. Contiene salmón, rico en ácidos
+  grasos Omega 3 y 6, para la belleza y la salud en general. Conoce el plan de
+  nutrición de última generación que está revolucionando la forma de alimentar y
+  proteger a los perros.
 price: '450'
 order: 0
 featured: false
