@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Adulto Raza pequeña  3.5 kg.jpg
 default_original_image: images/spectacular-moon.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
