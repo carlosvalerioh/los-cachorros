@@ -18,6 +18,7 @@ description: >-
   paladares más exigentes disfrutarán. Incluye selenio, beta-glucanos,
   antioxidantes vitales y vitaminas para estimular el sistema inmunológico,
   proporcionando así un buen estado de salud general. 
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
