@@ -33,7 +33,14 @@ seo:
       value: images/plant6-lg.jpg
       relativeUrl: true
 title: Pro Plan Senior Raza pequeña active mind  7.5 kg
-description: '<br> SKU:PA11RP75 <br> '
+description: >-
+  <br> SKU:PA11RP75 <br> Pro Plan Optiage prolonga la vitalidad de tu perro
+  mayor de 7 años al brindarle una nutrición avanzada que le ayudará a retrasar
+  los signos de envejecimiento manteniéndolo sano y activo. Croquetas con una
+  proporción equilibrada de proteína y grasa para mantener la masa muscular
+  magra, una combinación de antioxidantes naturales y vitaminas E y C. Conoce el
+  plan de nutrición de última generación que está revolucionando la forma de
+  alimentar y proteger a los perros.
 ---
 
 # Donec finibus
