@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Light Adulto reduced calorie  todas las razas 3 kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: $450
 order: 0
 featured: false
 seo:
