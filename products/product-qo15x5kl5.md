@@ -13,6 +13,7 @@ seo:
 layout: product
 price: '1,515'
 default_thumbnail_image: images/Pro Plan Cachorro Raza mediana.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
