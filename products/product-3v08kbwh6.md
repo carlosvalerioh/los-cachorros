@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Adulto Raza mediana 3 kg
-description: 'SKU:'
+description: 'SKU:PA 83 <br>'
 price: '455'
 order: 0
 featured: false
