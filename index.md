@@ -50,6 +50,7 @@ sections:
       - products/product-dxcllvw61.md
       - products/product-bavhvdspp.md
       - products/product-nuzwamrrm.md
+      - products/product-26u5382y2.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
