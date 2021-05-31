@@ -4,7 +4,7 @@ id: '7'
 price: '1,440'
 title: Pro Plan Light Adulto reduced calorie  todas las razas 13 kg
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/plant7.jpg
+default_thumbnail_image: images/scientific-ant.jpg
 default_original_image: images/Pro Plan Light Adulto reduced calorie  todas las razas 13 kg.jpg
 order: 7
 category: category/bigplants.md
