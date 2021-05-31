@@ -19,6 +19,7 @@ description: >-
   antioxidantes vitales y vitaminas para estimular el sistema inmunológico,
   proporcionando así un buen estado de salud general. 
 category: category/bigplants.md
+default_thumbnail_image: images/Pro Plan  Adulto raza pequeña exigent.webp
 ---
 ## Lorem ipsum
 
