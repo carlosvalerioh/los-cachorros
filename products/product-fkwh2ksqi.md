@@ -11,7 +11,13 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-description: 'SKU:PAEX3  '
+description: >-
+  SKU:PAEX3 Pro Plan Exigent le brindará a tu perro una nutrición que mantendrá
+  su pelaje sano y brillante, además de un estado de salud óptimo y un bienestar
+  general, sus croquetas tienen un sabor único que las razas pequeñas con los
+  paladares más exigentes disfrutarán. Incluye selenio, beta-glucanos,
+  antioxidantes vitales y vitaminas para estimular el sistema inmunológico,
+  proporcionando así un buen estado de salud general. 
 ---
 ## Lorem ipsum
 
