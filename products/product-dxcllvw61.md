@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Cachorro Raza pequeña 3.5 kg
-description: lorem-ipsum
+description: 'SKU:'
 price: '515'
 order: 0
 featured: false
