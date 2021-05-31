@@ -2,7 +2,6 @@
 id: lorem-ipsum
 title: Pro Plan Adulto Raza grande 13 kg
 description: lorem-ipsum
-price: lorem-ipsum
 order: 0
 featured: false
 seo:
