@@ -20,6 +20,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/Pro Plan Cachorro Raza mediana.jpg
 ---
 ## Lorem ipsum
 
