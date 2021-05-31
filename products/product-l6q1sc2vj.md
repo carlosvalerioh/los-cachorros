@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Salmon Adulto raza mediana/grande sensitive skin  3 kg
 description: >-
-  SKU:PA1313 Pro Plan Sensitive Skin brinda una nutrición superior, sus
+  SKU:PA1313<br> Pro Plan Sensitive Skin brinda una nutrición superior, sus
   croquetas minimizan el riesgo de irritación de la piel asociada con la
   sensibilidad alimentaria. Formulado con salmón, una fuente alternativa de
   proteínas, ideal para perros sensibles. Conoce el plan de nutrición de última
