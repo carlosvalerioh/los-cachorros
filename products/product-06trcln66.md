@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lPro Plan Adulto Raza pequeña 3.5 kg
+title: Pro Plan Adulto Raza pequeña 3.5 kg
 description: >-
   SKU:PA8RP35 <br> Este alimento está especialmente formulado para perros
   adultos, ya que sus componentes de calidad aseguran una nutrición completa y
