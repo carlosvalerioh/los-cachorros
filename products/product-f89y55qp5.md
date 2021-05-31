@@ -21,7 +21,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/pleasant-amaranth.jpg
-default_original_image: images/magenta-planet.jpg
+default_original_image: images/unnamed.jpg
 category: category/bigplants.md
 ---
 ## Lorem ipsum
