@@ -20,6 +20,7 @@ description: >-
   proporcionando así un buen estado de salud general. 
 category: category/bigplants.md
 default_thumbnail_image: images/Pro Plan  Adulto raza pequeña exigent.webp
+default_original_image: images/futuristic-coriander.webp
 ---
 ## Lorem ipsum
 
