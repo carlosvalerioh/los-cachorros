@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: 'SKU: PADEL3Pro Plan  Adulto raza pequeña delicate structure 3 kg'
+title: 'SKU:PADEL3Pro Plan  Adulto raza pequeña delicate structure 3 kg'
 description: >-
   <br> Pro Plan Optifortis Delicate Structure le brindará a tu perro una
   nutrición que fortalece los huesos y dientes prolongando su calidad de vida.
