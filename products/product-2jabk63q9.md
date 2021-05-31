@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Adulto Raza mediana 7.5 kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '930'
 order: 0
 featured: false
 seo:
