@@ -14,7 +14,6 @@ seo:
 layout: product
 default_thumbnail_image: images/pleasant-amaranth.jpg
 default_original_image: images/parallel-lettuce.jpg
-category: category/category-bpkrh5wj9.md
 ---
 ## Lorem ipsum
 
