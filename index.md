@@ -38,6 +38,7 @@ sections:
       - products/product-tt2vcpraq.md
       - products/product-qvfigkykv.md
       - products/plant5.md
+      - products/product-w59xnpu8m.md
       - products/plant7.md
       - products/product-bavhvdspp.md
   - type: featured_categories_section
