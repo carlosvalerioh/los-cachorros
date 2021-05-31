@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Cachorro Raza mediana 13 kg
-description: 'SKU:'
+description: 'SKU:PA913 <br> '
 order: 0
 featured: false
 seo:
