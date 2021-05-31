@@ -14,7 +14,7 @@ description: >-
   contenido proteico para mantener la masa muscular. Fibras balanceadas para
   satisfacer el apetito. Antioxidantes para proteger la salud durante el proceso
   de pérdida de peso. Croquetas diseñadas para la fácil masticación de cualquier
-  raza
+  raza.
 price: '450'
 order: 0
 featured: false
