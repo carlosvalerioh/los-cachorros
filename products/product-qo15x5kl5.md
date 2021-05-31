@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-price: '5'
+price: '1,515'
 ---
 ## Lorem ipsum
 
