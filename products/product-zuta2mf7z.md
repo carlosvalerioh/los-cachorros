@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Adulto Raza mediana 13 kg
 description: >-
-  SKU:PA1413 <br> Pro Plan Optihealth para adulto raza mediana es el alimento
+  SKU:PA813 <br> Pro Plan Optihealth para adulto raza mediana es el alimento
   para perro ideal para proporcionar una nutrición avanzada que le ayudará
   mantenerse fuerte y lleno de vitalidad. Sus croquetas satisfacen las
   necesidades nutricionales y mantienen un bienestar general. No importa su
