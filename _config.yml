@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 favicon: images/violet-chestnut.png
 logo_dark: images/LOGO-LOS-CACHORROS-BLANCO.png
-logo_light: images/Los-Cachorros-blanco.png
+logo_light: images/marvelous-mahogany.png
 hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: images/photo-1583511655826-05700d52f4d9.jpg
 bg_image_primary_opacity: 60
