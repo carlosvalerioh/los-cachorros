@@ -14,6 +14,7 @@ layout: product
 price: '485'
 category: category/bigplants.md
 default_thumbnail_image: images/purple-coriander.jpg
+default_original_image: images/pink-goose.jpg
 ---
 ## Lorem ipsum
 
