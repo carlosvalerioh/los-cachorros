@@ -8,7 +8,7 @@ description: >-
   grasos Omega 3 y 6, para la belleza y la salud en general. Conoce el plan de
   nutrición de última generación que está revolucionando la forma de alimentar y
   proteger a los perros.
-price: lorem-ipsum
+price: '990'
 order: 0
 featured: false
 seo:
