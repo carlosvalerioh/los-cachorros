@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Cachorro Raza grande  3.5 kg
 description: lorem-ipsum
 order: 0
 featured: false
