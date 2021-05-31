@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 favicon: images/Los-Cachorros-1.png
-logo_dark: images/logo.svg
+logo_dark: images/scientific-coriander.png
 logo_light: images/Los-Cachorros-blanco.png
 hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: images/photo-1583511655826-05700d52f4d9.jpg
