@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan Cachorro Raza grande 13 kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,400'
 order: 0
 featured: false
 seo:
