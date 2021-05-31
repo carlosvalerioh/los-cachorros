@@ -21,6 +21,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
 ---
 ## Lorem ipsum
 
