@@ -20,6 +20,7 @@ layout: product
 price: '510'
 category: category/bigplants.md
 default_original_image: images/Pro Plan  Adulto raza pequeña delicate structure.jpeg
+default_thumbnail_image: images/robust-potato.jpeg
 ---
 ## Lorem ipsum
 
