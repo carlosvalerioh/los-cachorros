@@ -21,6 +21,7 @@ layout: product
 price: '830'
 default_thumbnail_image: images/Excellent adulto complete 15 kg.jpg
 default_original_image: images/superb-anemone.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
