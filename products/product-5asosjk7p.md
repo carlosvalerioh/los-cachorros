@@ -9,7 +9,6 @@ description: >-
   sistema inmunológico de tu mascota y el correcto funcionamiento de sus
   sistemas vitales. Además, contribuyen a la salud de su pelo, piel y uñas y al
   mantenimiento de sus tendones, músculos y huesos.
-price: lorem-ipsum
 order: 0
 featured: false
 seo:
