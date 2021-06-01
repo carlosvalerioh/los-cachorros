@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Excellent adulto complete 15 kg
-description: 'SKU:'
+description: 'SKU:PEXA15 '
 price: lorem-ipsum
 order: 0
 featured: false
