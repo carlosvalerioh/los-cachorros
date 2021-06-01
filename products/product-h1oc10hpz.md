@@ -7,7 +7,7 @@ description: >-
   ARROZ RAZAS PEQUEÑAS ofrece una fórmula completa que incluye aminoácidos
   esenciales, inulina, vitaminas, minerales y zeolita, aportando un óptimo
   balance nutricional y un sabor irresistible.
-price: lorem-ipsum
+price: '535'
 order: 0
 featured: false
 seo:
