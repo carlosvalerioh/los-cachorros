@@ -9,7 +9,7 @@ description: >-
   y avena, y formulado sin maíz, trigo o colores y sabores artificiales. La
   ciencia detrás de las dietas terapéuticas representa una colaboración entre
   nutricionistas, investigadores y veterinarios de Purina.
-price: lorem-ipsum
+price: '440'
 order: 0
 featured: false
 seo:
