@@ -66,6 +66,7 @@ sections:
       - products/product-w59xnpu8m.md
       - products/plant7.md
       - products/product-dxcllvw61.md
+      - products/product-la040zp0x.md
       - products/product-bavhvdspp.md
       - products/product-9spy789ab.md
       - products/product-nuzwamrrm.md
