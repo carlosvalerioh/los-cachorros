@@ -20,6 +20,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Perro EN fiber balance dry.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
