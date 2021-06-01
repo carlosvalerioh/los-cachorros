@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: Excellent adulto complete 15 kg
 price: lorem-ipsum
 order: 0
 featured: false
