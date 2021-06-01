@@ -8,7 +8,7 @@ description: >-
   mezcla de nutrientes de alta calidad que es ideal para la alimentación diaria.
   La ciencia detrás de nuestras dietas terapéuticas representa una colaboración
   entre nutricionistas, investigadores y veterinarios de Purina.
-price: lorem-ipsum
+price: '510'
 order: 0
 featured: false
 seo:
