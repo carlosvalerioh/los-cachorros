@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro DRM naturals canine dry 6 lb 2.72 kg
-description: lorem-ipsum
+description: PDRM272
 price: lorem-ipsum
 order: 0
 featured: false
