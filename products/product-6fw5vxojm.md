@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 price: '1,055'
+default_thumbnail_image: images/perpetual-kale.jpg
 ---
 ## Lorem ipsum
 
