@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 description: lorem-ipsum
-price: '26'
+price: '265'
 order: 0
 featured: false
 seo:
