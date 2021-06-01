@@ -39,6 +39,7 @@ sections:
       - products/product-fkwh2ksqi.md
       - products/product-15bx7dncs.md
       - products/product-6fuu3ef8p.md
+      - products/product-v6f28v6kj.md
       - products/product-jdlfxcngj.md
       - products/product-c0vxr0u6q.md
       - products/product-geg6gxmvo.md
