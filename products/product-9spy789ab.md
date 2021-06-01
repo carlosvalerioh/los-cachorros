@@ -8,7 +8,7 @@ description: >-
   estado de convalecencia, desde el destete. También se puede utilizar como
   auxiliar en el tratamiento de enfermedades pancreáticas y hepáticas no
   relacionadas a encefalopatía.
-price: '1,05'
+price: '1,005'
 order: 0
 featured: false
 seo:
