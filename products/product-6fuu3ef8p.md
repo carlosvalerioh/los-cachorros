@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/magical-plankton.jpg
+default_original_image: images/Pro Plan  Adulto sensitive digestion todas las razas 3.jpg
 ---
 ## Lorem ipsum
 
