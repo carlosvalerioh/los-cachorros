@@ -20,6 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Dh canine dry 6 lb 2.72 kg.jpg
 default_original_image: images/magenta-potato.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
