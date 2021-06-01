@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro EN fiber balance dry 6 lb 2.72 kg
-description: lorem-ipsum
+description: 'SKU:'
 price: lorem-ipsum
 order: 0
 featured: false
