@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro  EN low fat canine 6 lb 2.72 kg
-description: 'SKU:'
+description: 'SKU:PENLF272 <br> '
 price: lorem-ipsum
 order: 0
 featured: false
