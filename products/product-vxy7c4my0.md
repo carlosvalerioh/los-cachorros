@@ -7,7 +7,7 @@ description: >-
   edades. Fórmula para ayudar en el tratamiento de trastornos gastroentéricos o
   estado de convalecencia, desde el destete. También se puede utilizar como
   auxiliar en el tratamiento de enfermedades pancreáticas y hepáticas no
-  relacionadas a encefalopatía
+  relacionadas a encefalopatía.
 price: lorem-ipsum
 order: 0
 featured: false
