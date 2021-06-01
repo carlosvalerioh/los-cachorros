@@ -19,6 +19,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/terrific-sun.jpg
+default_original_image: images/charming-onion.jpg
 ---
 ## Lorem ipsum
 
