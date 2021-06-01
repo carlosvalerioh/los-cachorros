@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Excellent cachorro complete 15 kg
-price: lorem-ipsum
+price: '960'
 order: 0
 featured: false
 seo:
