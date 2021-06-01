@@ -7,7 +7,7 @@ description: >-
   como algunos de sus principales ingredientes, que ayudará a la formación y
   desarrollo de músculos sanos y fuertes, traduciéndose esto en una conformación
   corporal ideal y una gran vitalidad.
-price: lorem-ipsum
+price: '285'
 order: 0
 featured: false
 seo:
