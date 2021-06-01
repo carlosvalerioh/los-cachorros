@@ -51,6 +51,7 @@ sections:
       - products/product-qvfigkykv.md
       - products/product-xyu1fbdkl.md
       - products/plant5.md
+      - products/product-y6zfwpsjs.md
       - products/product-w59xnpu8m.md
       - products/plant7.md
       - products/product-dxcllvw61.md
