@@ -1,6 +1,11 @@
 ---
 id: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  SKU:PEXC35 <br> PURINA EXCELLENT® le brinda al cachorro una nutrición
+  iteligente, presenta una línea de fórmulas super premium basadas en el
+  esclusivo sistema SMART NUTRITION BY PURINA®, sistema de nutricón balanceado,
+  proporciona los suficientes nutrientes fundamentales para cumplir con todas
+  las necesidades en las diferentes etapas nutricionales de su vida.
 price: lorem-ipsum
 order: 0
 featured: false
