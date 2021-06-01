@@ -46,6 +46,7 @@ sections:
       - products/product-4s65ojswy.md
       - products/plant3.md
       - products/product-4pkwbz7im.md
+      - products/product-vxy7c4my0.md
       - products/product-tt2vcpraq.md
       - products/product-qvfigkykv.md
       - products/product-xyu1fbdkl.md
