@@ -20,6 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/terrific-sun.jpg
 default_original_image: images/charming-onion.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
