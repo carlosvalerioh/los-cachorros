@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro canine EN 6 lb us 2.72 kg
-description: 'SKU: PA1113'
+description: 'SKU: PA11'
 price: lorem-ipsum
 order: 0
 featured: false
