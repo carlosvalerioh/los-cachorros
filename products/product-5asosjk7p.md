@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Excellent adulto complete 15 kg
+title: PURINA Excellent adulto complete 15 kg
 description: >-
   SKU:PEXA15 <br>Proteína para una nutrición completaroteína para una nutrición
   completa Alimento rico en proteína animal de alto valor biológico, contiene
