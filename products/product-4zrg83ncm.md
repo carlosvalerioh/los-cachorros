@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/beige-cedar.jpg
 default_original_image: images/superb-steel.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
