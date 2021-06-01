@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/square-neptune.jpg
+default_original_image: images/cool-planet.jpg
 ---
 ## Lorem ipsum
 
