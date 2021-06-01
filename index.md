@@ -55,6 +55,7 @@ sections:
       - products/plant7.md
       - products/product-dxcllvw61.md
       - products/product-bavhvdspp.md
+      - products/product-9spy789ab.md
       - products/product-nuzwamrrm.md
   - type: featured_categories_section
     section_id: featured_categories_section
