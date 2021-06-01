@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro  EN low fat canine 6 lb 2.72 kg
-description: 'SKU:PENLF272 <br> '
+description: >-
+  SKU:PENLF272 <br> Alta digestibilidad total para la absorción de los
+  nutrientes. Bajo nivel de grasa para perros que tienen dificultades para
+  digerirlas. Contiene una fibra prebiótica que ayuda a nutrir un tracto
+  gastrointestinal saludable.
 price: lorem-ipsum
 order: 0
 featured: false
