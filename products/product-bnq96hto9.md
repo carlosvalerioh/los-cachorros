@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Excellent adulto raza pequeña.jpg
 default_original_image: images/diligent-tulip.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
