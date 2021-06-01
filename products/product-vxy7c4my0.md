@@ -4,7 +4,10 @@ title: Pro Plan Perro canine EN 6 lb us 2.72 kg
 description: >-
   SKU:PEN272 <br> Una dieta clínica para ayudar a controlar los trastornos
   intestinales y la insuficiencia pancreática exocrina en perros de todas las
-  edades.
+  edades. Fórmula para ayudar en el tratamiento de trastornos gastroentéricos o
+  estado de convalecencia, desde el destete. También se puede utilizar como
+  auxiliar en el tratamiento de enfermedades pancreáticas y hepáticas no
+  relacionadas a encefalopatía
 price: lorem-ipsum
 order: 0
 featured: false
