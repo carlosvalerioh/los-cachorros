@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Excellent adulto raza pequeña.jpg
+default_original_image: images/diligent-tulip.jpg
 ---
 ## Lorem ipsum
 
