@@ -34,6 +34,7 @@ sections:
       - products/product-wxandzf8r.md
       - products/product-h1oc10hpz.md
       - products/product-7gcc6h778.md
+      - products/product-vrm1xv97b.md
       - products/product-lcvmspiax.md
       - products/product-06trcln66.md
       - products/product-1o3uhi7at.md
