@@ -7,7 +7,7 @@ description: >-
   satisfacer todas las necesidades nutricionales de los perros. Los beneficios
   que aportan los ingredientes de calidad son los que marcan la diferencia entre
   un estado físico normal y un estado físico superior.
-price: lorem-ipsum
+price: '1,370'
 order: 0
 featured: false
 seo:
