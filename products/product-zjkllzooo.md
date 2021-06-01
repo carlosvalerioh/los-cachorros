@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Pro Plan  Adulto sensitive digestion todas las razas 10 kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,49'
 order: 0
 featured: false
 seo:
