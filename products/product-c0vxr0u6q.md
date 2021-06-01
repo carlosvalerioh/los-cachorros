@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro Dh canine dry 6 lb 2.72 kg
+title: Pro Plan Perro DH canine dry 6 lb 2.72 kg
 description: >-
   SKU:PDH272 <br> Purina Pro Plan Veterinary Diets La fórmula canina DH Dental
   Health fue desarrollada con una textura crujiente única y crujiente y se ha
