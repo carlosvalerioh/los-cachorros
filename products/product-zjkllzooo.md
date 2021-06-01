@@ -1,7 +1,9 @@
 ---
 id: lorem-ipsum
 title: Pro Plan  Adulto sensitive digestion todas las razas 10 kg
-description: 'SKU:PASD10 <br> '
+description: >-
+  SKU:PASD10 <br> Pro Plan® Sensitive Digestion Adult Todas Las Razas Fórmula
+  sin granos ni gluten. Ayuda a optimizar la digestión de tu perro.
 price: '1,415'
 order: 0
 featured: false
