@@ -6,7 +6,7 @@ description: >-
   sin granos ni gluten, ayuda a optimizar la digestión de tu perro. Fórmula sin
   granos ni gluten. Ayuda a optimizar la digestión de tu perro, yuca como fuente
   de carbohidratos, sabor superior gracias a ingredientes de alta calidad.
-price: lorem-ipsum
+price: '555'
 order: 0
 featured: false
 seo:
