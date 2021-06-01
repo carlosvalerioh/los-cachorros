@@ -21,6 +21,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Drm naturals canine dry 6 lb.jpg
 default_original_image: images/oceanic-goat.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
