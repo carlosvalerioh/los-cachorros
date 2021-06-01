@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  EN low fat canine 6 lb 2.72 kg.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
