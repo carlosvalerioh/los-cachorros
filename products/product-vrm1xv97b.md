@@ -17,6 +17,7 @@ description: >-
   como algunos de sus principales ingredientes, que ayudará a la formación y
   desarrollo de músculos sanos y fuertes, traduciéndose esto en una conformación
   corporal ideal y una gran vitalidad.
+default_thumbnail_image: images/perro-excellent-cachorro-complete-15-kg.jpg
 ---
 ## Lorem ipsum
 
