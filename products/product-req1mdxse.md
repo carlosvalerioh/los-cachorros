@@ -6,7 +6,7 @@ description: >-
   esclusivo sistema SMART NUTRITION BY PURINA®, sistema de nutricón balanceado,
   proporciona los suficientes nutrientes fundamentales para cumplir con todas
   las necesidades en las diferentes etapas nutricionales de su vida.
-price: lorem-ipsum
+price: '325'
 order: 0
 featured: false
 seo:
