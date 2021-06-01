@@ -18,6 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Pro Plan Perro Dh canine dry 6 lb 2.72 kg.jpg
 ---
 ## Lorem ipsum
 
