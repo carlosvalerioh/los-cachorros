@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: PURINA Excellent adulto complete 15 kg
 description: >-
-  SKU:PEXA15 <br>Nutrición completa  rico en proteína animal de alto valor
+  SKU:PEXA15 <br>Nutrición completa rico en proteína animal de alto valor
   biológico, contiene minerales como calcio fósforo, potasio y hierro, vitaminas
   A, D y E, fibras y ácidos grasos esenciales. Estos nutrientes favorecen el
   fortalecimiento del sistema inmunológico de tu mascota y el correcto
