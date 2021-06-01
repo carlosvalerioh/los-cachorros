@@ -20,6 +20,7 @@ layout: product
 price: '1,055'
 default_thumbnail_image: images/perpetual-kale.jpg
 default_original_image: images/robust-turtle.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
