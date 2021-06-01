@@ -5,7 +5,7 @@ description: >-
   SKU:PASD10 <br> Pro Plan® Sensitive Digestion Adult Todas Las Razas Fórmula
   sin granos ni gluten. Ayuda a optimizar la digestión de tu perro. Fórmula sin
   granos ni gluten. Ayuda a optimizar la digestión de tu perro. Yuca como fuente
-  de carbohidratos. Sabor superior gracias a ingredientes de alta calidad.
+  de carbohidratos., sabor superior gracias a ingredientes de alta calidad.
 price: '1,415'
 order: 0
 featured: false
