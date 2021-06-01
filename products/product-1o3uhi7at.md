@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 title: PURINA Excellent adulto complete 4 kg
+default_thumbnail_image: images/famous-sycamore.jpg
 ---
 ## Lorem ipsum
 
