@@ -6,7 +6,7 @@ description: >-
   nutrientes. Bajo nivel de grasa para perros que tienen dificultades para
   digerirlas. Contiene una fibra prebiótica que ayuda a nutrir un tracto
   gastrointestinal saludable.
-price: lorem-ipsum
+price: '445'
 order: 0
 featured: false
 seo:
