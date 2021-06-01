@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Pro Plan  fortiflora canine 1.06 oz us 30 sobres 1 gr.png
 ---
 ## Lorem ipsum
 
