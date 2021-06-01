@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+title: Cachorro excellent raza pequeña 3.5 kg
 ---
 ## Lorem ipsum
 
