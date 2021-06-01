@@ -20,6 +20,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Drm naturals canine dry 6 lb.jpg
+category: category/category-dubbiq6ro.md
 ---
 ## Lorem ipsum
 
