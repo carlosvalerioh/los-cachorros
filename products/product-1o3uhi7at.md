@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+title: PURINA Excellent adulto complete 20 kg
 ---
 ## Lorem ipsum
 
