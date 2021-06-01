@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: PURINA Excellent adulto complete 15 kg
+title: PURINA Excellent adulto complete 20 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
