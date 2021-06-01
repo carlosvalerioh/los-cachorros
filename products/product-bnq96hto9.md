@@ -17,6 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Excellent adulto raza pequeña.jpg
 ---
 ## Lorem ipsum
 
