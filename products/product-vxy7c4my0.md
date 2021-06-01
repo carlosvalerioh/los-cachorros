@@ -19,6 +19,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  canine EN 6 lb us 2.72 kg.jpg
+default_original_image: images/energetic-artichoke.jpg
 ---
 ## Lorem ipsum
 
