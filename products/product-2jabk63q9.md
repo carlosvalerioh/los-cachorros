@@ -14,7 +14,7 @@ price: '930'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Adulto Raza mediana 7.5 kg'
   description: ''
   robots: []
   extra: []
