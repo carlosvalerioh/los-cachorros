@@ -11,7 +11,7 @@ price: '535'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Excellent adulto raza pequeña 7.5 kg'
   description: ''
   robots: []
   extra: []
