@@ -14,7 +14,7 @@ price: '960'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Cachorro Raza pequeña 7.5 kg'
   description: ''
   robots: []
   extra: []
