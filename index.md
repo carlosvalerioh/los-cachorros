@@ -52,7 +52,6 @@ sections:
       - products/product-vxy7c4my0.md
       - products/product-tt2vcpraq.md
       - products/product-qvfigkykv.md
-      - products/product-xyu1fbdkl.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
