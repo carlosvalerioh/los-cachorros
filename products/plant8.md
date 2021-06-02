@@ -9,7 +9,7 @@ description: >-
   antioxidantes naturales, que ayudan a optimizar la digestión y a mantener
   fuertes las defensas naturales de tu gato, protegiendo su sistema inmunológico
   contra las amenazas externas.
-default_thumbnail_image: images/plant8.jpg
+default_thumbnail_image: images/Pro Plan Gato Adulto  3 kg.jpg
 default_original_image: images/plant8-lg.jpg
 order: 8
 category: category/summer.md
