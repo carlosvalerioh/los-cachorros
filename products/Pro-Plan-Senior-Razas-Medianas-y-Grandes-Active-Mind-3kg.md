@@ -11,7 +11,7 @@ description: >-
   magra, una combinación de antioxidantes naturales y vitaminas E y C.
 default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/maroon-yam.jpg
-order: 2
+order: 0
 category: category/cactuses.md
 seo:
   title: Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg
