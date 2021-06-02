@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto sterilized.jpg
+default_original_image: images/successful-broccoli.jpg
 ---
 ## Lorem ipsum
 
