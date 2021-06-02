@@ -11,7 +11,7 @@ price: '285'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Cachorro excellent 4 kg'
   description: ''
   robots: []
   extra: []
