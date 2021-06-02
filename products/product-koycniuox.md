@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Gato Adulto sterilized 3 kg
-description: lorem-ipsum
+description: >-
+  SKU:PGAES3 <br> Tecnología OptiRenal®, una mezcla exclusiva de nutrientes
+  incluyendo antioxidantes, aminoácidos y ácidos grasos omega 3 y 6 que ayudan a
+  mantener un funcionamiento renal óptimo. Altos niveles de proteínas y fibras
+  naturales además de niveles reducidos en grasas, que ayudan a reducir las
+  calorías y a mantener la condición corporal ideal.
 price: lorem-ipsum
 order: 0
 featured: false
