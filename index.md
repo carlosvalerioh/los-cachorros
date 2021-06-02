@@ -53,7 +53,6 @@ sections:
       - products/product-tt2vcpraq.md
       - products/product-qvfigkykv.md
       - products/product-xyu1fbdkl.md
-      - products/plant5.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
