@@ -10,7 +10,7 @@ price: '445'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro  EN low fat canine 6 lb 2.72 kg'
   description: ''
   robots: []
   extra: []
