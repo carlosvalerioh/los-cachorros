@@ -13,7 +13,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Cachorro Raza mediana 13 kg'
   description: ''
   robots: []
   extra: []
