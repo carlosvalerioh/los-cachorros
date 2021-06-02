@@ -14,7 +14,7 @@ price: '515'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Cachorro Raza pequeña 3.5 kg'
   description: ''
   robots: []
   extra: []
