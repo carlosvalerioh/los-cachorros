@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato Adulto  7.5 kg'
   description: ''
   robots: []
   extra: []
