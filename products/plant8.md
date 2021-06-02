@@ -14,7 +14,7 @@ default_original_image: images/caring-rabbit.jpg
 order: 8
 category: category/summer.md
 seo:
-  title: Fusce sed
+  title: Pro Plan Gato Adulto  3 kg
   description: In cursus sagittis eros non congue
   extra:
     - name: 'og:type'
