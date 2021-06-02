@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Salmon Adulto raza mediana/grande sensitive skin  3 kg
+title: Pro Plan Salmon Adulto raza mediana/grande sensitive skin 3 kg
 description: >-
   SKU:PA133 <br> Pro Plan Sensitive Skin brinda una nutrición superior, sus
   croquetas minimizan el riesgo de irritación de la piel asociada con la
