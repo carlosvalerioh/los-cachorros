@@ -13,7 +13,7 @@ price: '1,470'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Adulto performance <br> todas las razas 13 kg'
   description: ''
   robots: []
   extra: []
