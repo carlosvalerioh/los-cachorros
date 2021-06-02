@@ -11,7 +11,7 @@ price: '1,370'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Excellent cordero 20.4 kg'
   description: ''
   robots: []
   extra: []
