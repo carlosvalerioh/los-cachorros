@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-price: '1,305'
+price: '1,075'
 default_thumbnail_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
 default_original_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
 ---
