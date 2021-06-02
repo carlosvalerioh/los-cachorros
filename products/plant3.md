@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '985'
-title: Pro Plan Senior Razas Medianas y Grandes Active Mind 13 kg
+title: 
 description: >-
   SKU: PA1175 <br> Pro Plan Optiage Active Mind prolonga la vitalidad de tu
   perro mayor de 7 años al brindarle una nutrición avanzada que le ayudará a
