@@ -7,7 +7,7 @@ description: >-
   mantener un funcionamiento renal óptimo. Altos niveles de proteínas y fibras
   naturales además de niveles reducidos en grasas, que ayudan a reducir las
   calorías y a mantener la condición corporal ideal.
-price: lorem-ipsum
+price: '490'
 order: 0
 featured: false
 seo:
