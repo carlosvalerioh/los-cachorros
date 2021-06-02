@@ -17,7 +17,7 @@ featured: true
 order: 1
 category: category/bigplants.md
 seo:
-  title: Nulla suscipit
+  title: Pro Plan Senior Razas Medianas y Grandes Active Mind 13 kg
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
