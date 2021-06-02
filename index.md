@@ -37,7 +37,6 @@ sections:
       - products/product-5asosjk7p.md
       - products/product-15bx7dncs.md
       - products/product-0yw97h5fy.md
-      - products/product-6fuu3ef8p.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
