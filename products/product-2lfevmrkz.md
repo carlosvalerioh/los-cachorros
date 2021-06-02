@@ -12,7 +12,7 @@ price: '1,565'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Salmon Adulto raza mediana/grande sensitive skin   13 kg'
   description: ''
   robots: []
   extra: []
