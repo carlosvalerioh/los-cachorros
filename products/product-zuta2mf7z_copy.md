@@ -18,7 +18,7 @@ seo:
 layout: product
 price: '1,075'
 default_thumbnail_image: images/elite-paprika.jpg
-default_original_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
+default_original_image: images/oceanic-petunia.jpg
 category: category/summer.md
 ---
 ## Lorem ipsum
