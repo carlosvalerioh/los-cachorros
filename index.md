@@ -31,7 +31,6 @@ sections:
       - products/product-vrm1xv97b.md
       - products/product-lcvmspiax.md
       - products/product-06trcln66.md
-      - products/product-28lntvy4o.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
