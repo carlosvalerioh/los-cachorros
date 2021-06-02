@@ -11,7 +11,7 @@ price: '1,250'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Excellent cachorro complete 20 kg'
   description: ''
   robots: []
   extra: []
