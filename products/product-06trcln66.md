@@ -11,7 +11,7 @@ price: '490'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Adulto Raza pequeña 3.5 kg'
   description: ''
   robots: []
   extra: []
