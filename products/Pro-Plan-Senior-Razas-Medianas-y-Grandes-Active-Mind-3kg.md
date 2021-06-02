@@ -14,7 +14,7 @@ default_original_image: images/maroon-yam.jpg
 order: 2
 category: category/cactuses.md
 seo:
-  title: Integer porta
+  title: Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg
   description: Suspendisse efficitur eget erat sit amet efficitur
   extra:
     - name: 'og:type'
