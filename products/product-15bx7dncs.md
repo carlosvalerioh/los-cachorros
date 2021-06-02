@@ -14,7 +14,7 @@ price: '475'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Cachorro Raza mediana 3 kg'
   description: ''
   robots: []
   extra: []
