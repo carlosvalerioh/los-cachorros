@@ -27,7 +27,6 @@ sections:
       - products/product-7gcc6h778.md
       - products/product-1o3uhi7at.md
       - products/product-req1mdxse.md
-      - products/product-3v08kbwh6.md
       - products/product-bnq96hto9.md
       - products/product-zuta2mf7z.md
       - products/product-wxandzf8r.md
