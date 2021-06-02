@@ -14,7 +14,7 @@ default_original_image: images/104579-1.jpg
 featured: true
 order: 3
 seo:
-  title: Curabitur eu tempor
+  title:
   description: 'Nulla non pretium metus, vitae finibus lectus'
   extra:
     - name: 'og:type'
