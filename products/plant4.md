@@ -2,7 +2,7 @@
 layout: product
 id: '4'
 price: '24.99'
-title: Cras molestie
+title: Pro Plan Senior Razas Medianas y Grandes Active Mind 7.5 kg
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
 default_original_image: images/plant4-lg.jpg
