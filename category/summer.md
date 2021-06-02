@@ -1,5 +1,5 @@
 ---
-title: GATOS - PRO
+title: GATOS - PRO PLAN
 layout: category
 order: 0
 seo:
