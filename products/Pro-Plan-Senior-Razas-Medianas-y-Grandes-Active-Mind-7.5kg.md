@@ -12,7 +12,7 @@ description: >-
 default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/104579-1.jpg
 featured: true
-order: 3
+order: 0
 seo:
   title: Pro Plan Senior Razas Medianas y Grandes Active Mind 7.5 kg
   description: 'Nulla non pretium metus, vitae finibus lectus'
