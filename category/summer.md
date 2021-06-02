@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: GATOS - PRO
 layout: category
 order: 0
 seo:
