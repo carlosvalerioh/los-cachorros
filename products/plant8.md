@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '8'
-price: '1,5150'
+price: '515'
 title: Pro Plan Gato Adulto  3 kg
 description: >-
   SKU:PGA3 <br> Alimento completo y balanceado para gatos adultos de todas las
