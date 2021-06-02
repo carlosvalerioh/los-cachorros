@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto sterilized.jpg
 default_original_image: images/successful-broccoli.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
