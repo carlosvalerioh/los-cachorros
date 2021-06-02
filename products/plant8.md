@@ -10,7 +10,7 @@ description: >-
   fuertes las defensas naturales de tu gato, protegiendo su sistema inmunológico
   contra las amenazas externas.
 default_thumbnail_image: images/Pro Plan Gato Adulto  3 kg.jpg
-default_original_image: images/plant8-lg.jpg
+default_original_image: images/caring-rabbit.jpg
 order: 8
 category: category/summer.md
 seo:
