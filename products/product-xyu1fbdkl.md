@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Cachorro Raza grande  3.5 kg'
   description: ''
   robots: []
   extra: []
