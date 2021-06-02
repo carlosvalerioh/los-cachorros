@@ -5,7 +5,7 @@ price: '500'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan  Adulto raza pequeña exigent 3 kg'
   description: ''
   robots: []
   extra: []
