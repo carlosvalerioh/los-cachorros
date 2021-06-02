@@ -11,7 +11,7 @@ price: '285'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Adulto excellent raza pequeña 3.5 kg'
   description: ''
   robots: []
   extra: []
