@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Adulto Raza mediana 13 kg
+title: Pro Plan Gato Adulto  7.5 kg
 description: >-
   SKU:PA813 <br> Pro Plan Optihealth para adulto raza mediana es el alimento
   para perro ideal para proporcionar una nutrición avanzada que le ayudará
