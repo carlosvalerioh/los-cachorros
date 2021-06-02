@@ -11,7 +11,7 @@ price: '490'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato Adulto sterilized 3 kg'
   description: ''
   robots: []
   extra: []
