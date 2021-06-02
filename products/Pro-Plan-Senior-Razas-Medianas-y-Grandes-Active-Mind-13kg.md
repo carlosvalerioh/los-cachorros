@@ -14,7 +14,7 @@ default_thumbnail_image: images/104579-1.jpg
 default_original_image: >-
   images/a52c13c4-3190-416e-92ec-3d845c70bb70.2c26eca18b877fa5f212bbc71b9c85c0.webp
 featured: true
-order: 1
+order: 0
 category: category/bigplants.md
 seo:
   title: Pro Plan Senior Razas Medianas y Grandes Active Mind 13 kg
