@@ -4,8 +4,8 @@ id: '6'
 price: '1,005'
 default_thumbnail_image: images/122215-1.jpg
 default_original_image: images/122215-1.jpg
-order: 6
-category: category/bigplants.md
+order: 0
+categor: category/bigplants.md
 seo:
   title: Donec finibus
   description: Cras molestie faucibus ipsum ut vulputate
