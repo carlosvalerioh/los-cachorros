@@ -56,7 +56,6 @@ sections:
       - products/plant5.md
       - products/product-y6zfwpsjs.md
       - products/product-w59xnpu8m.md
-      - products/plant7.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
