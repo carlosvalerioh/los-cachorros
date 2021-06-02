@@ -22,7 +22,6 @@ layout: product
 price: '1,305'
 default_thumbnail_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
 default_original_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
-category: category/bigplants.md
 ---
 ## Lorem ipsum
 
