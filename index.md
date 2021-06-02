@@ -42,7 +42,6 @@ sections:
       - products/product-jdlfxcngj.md
       - products/product-6fw5vxojm.md
       - products/product-c0vxr0u6q.md
-      - products/product-geg6gxmvo.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
