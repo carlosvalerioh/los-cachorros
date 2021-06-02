@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'PURINA Excellent adulto complete 15 kg'
   description: ''
   robots: []
   extra: []
