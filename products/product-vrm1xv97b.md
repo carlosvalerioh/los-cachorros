@@ -5,7 +5,7 @@ price: '960'
 order: 960
 featured: false
 seo:
-  title: ''
+  title: 'Excellent cachorro complete 15 kg'
   description: ''
   robots: []
   extra: []
