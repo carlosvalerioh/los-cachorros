@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Cachorro Raza mediana  3 kg
+title: Pro Plan Cachorro Raza mediana 3 kg
 description: >-
   SKU:PA93 <br> Pro Plan Optistart Para Cachorro raza Mediana es el alimento
   para perro que le brindará una nutrición completa con altos niveles de energía
