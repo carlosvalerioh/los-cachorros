@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan  Adulto raza pequeña delicate structure 3 kg'
   description: ''
   robots: []
   extra: []
