@@ -12,7 +12,7 @@ price: '990'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Salmon Adulto raza pequeña sensitive skin 7.5 kg'
   description: ''
   robots: []
   extra: []
