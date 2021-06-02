@@ -9,7 +9,7 @@ featured: true
 order: 5
 category: category/bigplants.md
 seo:
-  title: Vestibulum eget
+  title: Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
   extra:
     - name: 'og:type'
