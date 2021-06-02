@@ -26,6 +26,7 @@ sections:
     featured_products:
       - products/product-7gcc6h778.md
       - products/product-1o3uhi7at.md
+      - products/product-req1mdxse.md
       - products/product-3v08kbwh6.md
       - products/product-bnq96hto9.md
       - products/product-zuta2mf7z.md
@@ -44,7 +45,6 @@ sections:
       - products/product-v6f28v6kj.md
       - products/product-jdlfxcngj.md
       - products/product-6fw5vxojm.md
-      - products/product-req1mdxse.md
       - products/product-c0vxr0u6q.md
       - products/product-geg6gxmvo.md
       - products/product-4zrg83ncm.md
