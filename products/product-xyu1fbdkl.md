@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Cachorro Raza grande3.5 kg
+title: Pro Plan Cachorro Raza grande 3.5 kg
 description: >-
   SKU:PA9RG35 <br> Debido a su calidad nutricional, este alimento le permitirá a
   tu cachorro mantener un estilo de vida enérgico y un adecuado crecimiento. Sus
@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Cachorro Raza grande  3.5 kg'
+  title: 'Pro Plan Cachorro Raza grande 3.5 kg'
   description: ''
   robots: []
   extra: []
