@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Gato Adulto senior 7+ 3 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
