@@ -6,7 +6,7 @@ description: >-
   formulado para dar apoyo a la salud urinaria de tu perro y reducir el riesgo
   de piedras de estruvita y de oxalato de calcio. Las piedras en la vejiga son
   colecciones de cristales minerales que se combinan en el tracto urinario.
-price: lorem-ipsum
+price: '325'
 order: 0
 featured: false
 seo:
