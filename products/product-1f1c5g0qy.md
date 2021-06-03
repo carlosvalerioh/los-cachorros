@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/DIAMOND ADULTO PREMIUM.jpg
+default_original_image: images/pleasant-aluminum.jpg
 ---
 ## Lorem ipsum
 
