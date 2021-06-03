@@ -11,7 +11,7 @@ price: '300'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 6 LBS. LAMB MEAL & RICE ADULT 2.722 kgs'
   description: ''
   robots: []
   extra: []
