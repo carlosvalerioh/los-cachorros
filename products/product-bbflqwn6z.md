@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Full trust Peso Ideal 8 kg
+title: Full Trust Peso Ideal 8 kg
 description: >-
   SKU:PISLB8 <br> FullTrust alimento para perro peso ideal cuenta con los
   mejores ingredientes en un balance perfecto para razas con tendencia a
