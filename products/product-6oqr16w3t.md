@@ -17,6 +17,7 @@ seo:
 layout: product
 category: category/category-sytu722fo.md
 default_thumbnail_image: images/Full Trust Senior.jpg
+default_original_image: images/panoramic-broccoli.jpg
 ---
 ## Lorem ipsum
 
