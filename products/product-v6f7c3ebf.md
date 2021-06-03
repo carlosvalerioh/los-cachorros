@@ -6,7 +6,7 @@ description: >-
   Barley Entrée tiene un delicioso sabor y proporciona nutrición balanceada con
   precisión para la inmunidad y movilidad. Nutrición superior de ingredientes de
   alta calidad que favorecen una mejor salud general.
-price: lorem-ipsum
+price: '60'
 order: 0
 featured: false
 seo:
