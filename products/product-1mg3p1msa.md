@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/clever-pluto.jpg
 default_original_image: images/knowledgeable-stegosaurus.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
