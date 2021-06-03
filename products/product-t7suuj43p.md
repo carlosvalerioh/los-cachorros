@@ -9,7 +9,7 @@ price: '1,085'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Adulto 15 KG'
   description: ''
   robots: []
   extra: []
