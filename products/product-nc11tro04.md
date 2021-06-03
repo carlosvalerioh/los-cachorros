@@ -7,7 +7,7 @@ description: >-
   través de trastornos en la piel, manto piloso y sistema digestivo. Sus
   croquetas están hechas con una tecnología exclusiva, con un número limitado de
   fuentes de proteína para ayudar a disminuir las sensibilidades alimentarias.
-price: lorem-ipsum
+price: '500'
 order: 0
 featured: false
 seo:
