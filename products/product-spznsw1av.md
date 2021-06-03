@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/energetic-crane.jpg
 default_original_image: images/great-triceratops.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
