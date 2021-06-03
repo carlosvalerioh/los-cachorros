@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/DIAMOND SENIOR  8+ NATURALS.jpg
+default_original_image: images/pink-tortoise.jpg
 ---
 ## Lorem ipsum
 
