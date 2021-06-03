@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: DIAMOND 40 LBS LARGE BREED PUPPY LAMB & RICE  18.144 kgs
-description: lorem-ipsum
+description: >-
+  SKU:LAMP40 <br> Diamond Naturals Large Breed Puppy es un alimento a base de
+  cordero super premium . Está especialmente formulado con niveles apropiados de
+  proteína, grasa calorías y minerales que ayudan a tu cachorro de raza grande a
+  crecer y lograr un óptimo desarrollo.
 price: lorem-ipsum
 order: 0
 featured: false
