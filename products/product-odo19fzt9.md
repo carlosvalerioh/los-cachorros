@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro   NC canine 11.3 kg
+title: Pro Plan Perro  NC canine 11.3 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
