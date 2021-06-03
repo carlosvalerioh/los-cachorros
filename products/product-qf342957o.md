@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto reduced calorie.jpg
 category: category/summer.md
+default_original_image: images/best-oregano.jpg
 ---
 ## Lorem ipsum
 
