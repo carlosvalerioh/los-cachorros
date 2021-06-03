@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro i/d small bites 3.3 Lb 1.5 Kg
+title: Hills Perro i/d small bites 3.3 Lb 1.5 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
