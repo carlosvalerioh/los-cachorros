@@ -9,7 +9,7 @@ price: '280'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Senior 2 KG'
   description: ''
   robots: []
   extra: []
