@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/scientific-dolphin.jpg
 default_original_image: images/royal-coriander.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
