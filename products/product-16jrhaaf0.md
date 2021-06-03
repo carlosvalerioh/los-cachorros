@@ -7,7 +7,7 @@ description: >-
   demostrado que reduce significativamente la acumulación de sarro y placa. La
   ciencia detrás de nuestras dietas terapéuticas representa una colaboración
   entre nutricionistas, investigadores y veterinarios de Purina.
-price: lorem-ipsum
+price: '630'
 order: 0
 featured: false
 seo:
