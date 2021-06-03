@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/diligent-neptune.png
+default_original_image: images/important-bee.png
 ---
 ## Lorem ipsum
 
