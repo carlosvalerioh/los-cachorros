@@ -6,7 +6,7 @@ description: >-
   edades. Especialmente formulado para ayudar en el control de la epilepsia
   idiopática, en el síndrome de disfunción cognitiva y para perros en edad
   avanzada que presentan déficit cognitivo senil.
-price: lorem-ipsum
+price: '520'
 order: 0
 featured: false
 seo:
