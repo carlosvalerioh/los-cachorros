@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/good-sage.jpg
 default_original_image: images/festive-tiger.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
