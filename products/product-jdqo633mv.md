@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/rainy-apple.jpg
+default_thumbnail_image: images/magenta-octopus.jpg
 ---
 ## Lorem ipsum
 
