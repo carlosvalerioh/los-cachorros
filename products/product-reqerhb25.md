@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro K/d 27.5 Lb 12.5 Kg
+title: Hills perro k/d 3.3 Lb 1.5 Kg
 description: >-
   SKU:KD15 <br> Hill's PRESCRIPTION DIET k/d alimento para perros es un alimento
   dietético completo para ayudar a la función renal en caso de insuficiencia
@@ -10,7 +10,7 @@ price: '325'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro K/d 27.5 Lb 12.5 Kg'
+  title: Hills perro K/d 27.5 Lb 12.5 Kg
   description: ''
   robots: []
   extra: []
