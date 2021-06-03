@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Gato UR feline dry 6 lb 2.72 kg
-description: lorem-ipsum
+description: >-
+  SKU:PGUR272 <br> BENEFICIOS: Favorece la dilución efectiva de la orina,
+  reduciendo las concentraciones de minerales y sustancias irritantes de la
+  orina. Promueve la ingesta de agua y un mayor volumen de la orina. Ayuda a
+  asegurar el cumplimiento del paciente a largo plazo. Fórmula felina muy
+  palatable.
 price: lorem-ipsum
 order: 0
 featured: false
