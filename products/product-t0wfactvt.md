@@ -7,7 +7,7 @@ description: >-
   orina. Promueve la ingesta de agua y un mayor volumen de la orina. Ayuda a
   asegurar el cumplimiento del paciente a largo plazo. Fórmula felina muy
   palatable.
-price: lorem-ipsum
+price: '550'
 order: 0
 featured: false
 seo:
