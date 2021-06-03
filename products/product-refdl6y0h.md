@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/important-hickory.jpg
+default_original_image: images/pleasant-tulip.jpg
 ---
 ## Lorem ipsum
 
