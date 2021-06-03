@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato UR feline dry 6 lb.jpg
 default_original_image: images/melodic-triceratops.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
