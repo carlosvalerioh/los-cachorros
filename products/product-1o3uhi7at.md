@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-title: PURINA Excellent adulto complete 4 kg
+title: Hills perro Senior Vitality 7+ 12.5 Lb 5.7 Kg
 default_thumbnail_image: images/famous-sycamore.jpg
 default_original_image: images/caring-tomato.jpg
 category: category/bigplants.md
