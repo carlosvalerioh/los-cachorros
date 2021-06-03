@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills perro h/d 3.3 Lb 1.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:HD15 <br> Hill’s h/d Heart Care es un alimento para perros que sufren de
+  algún mal funcionamiento cardiaco debido a la edad o el peso. Estos problemas
+  pueden ocacionar un gran impacto en la calidad de vida de tu peludo, debido a
+  esto una buena alimentación es imprescindible.
 price: lorem-ipsum
 order: 0
 featured: false
