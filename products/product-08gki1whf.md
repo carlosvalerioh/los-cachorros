@@ -11,7 +11,7 @@ price: '520'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro Jm canine dry 6 lb 2.72 kg'
   description: ''
   robots: []
   extra: []
