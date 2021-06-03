@@ -19,6 +19,7 @@ seo:
 layout: product
 default_original_image: images/magenta-spruce.jpg
 default_thumbnail_image: images/marvelous-panda.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
