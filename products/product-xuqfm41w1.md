@@ -7,7 +7,7 @@ description: >-
   aumento excesivo de peso y contribuir a un estilo de vida más sano.También
   proporciona una mezcla de antioxidantes clínicamente comprobada con vitaminas
   C y E para ayudar a favorecer un sistema inmunológico sano.
-price: lorem-ipsum
+price: '1,010'
 order: 0
 featured: false
 seo:
