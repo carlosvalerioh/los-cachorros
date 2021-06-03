@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND LARGE BREED PUPPY LAMB & RICE.jpg
 default_original_image: images/melodic-mango.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
