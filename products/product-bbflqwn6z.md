@@ -10,7 +10,7 @@ price: '940'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full trust Peso Ideal 8 kg'
   description: ''
   robots: []
   extra: []
