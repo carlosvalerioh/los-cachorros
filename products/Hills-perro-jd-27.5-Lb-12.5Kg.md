@@ -10,13 +10,14 @@ price: '1,760'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro j/d 27.5 Lb 12.5 Kg'
+  title: Hills perro j/d 27.5 Lb 12.5 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
 category: category/category-e2l57ul4s.md
+default_thumbnail_image: images/Hills perro j-d.jpg
 ---
 ## Lorem ipsum
 
