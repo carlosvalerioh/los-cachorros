@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Adulto Raza Pequeña.jpg
 default_original_image: images/cool-eggplant.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
