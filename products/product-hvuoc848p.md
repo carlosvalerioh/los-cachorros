@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/mighty-olive.png
+default_original_image: images/wonderful-birch.png
 ---
 ## Lorem ipsum
 
