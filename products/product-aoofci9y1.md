@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/neat-oak.jpg
 default_original_image: images/oval-spider.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
