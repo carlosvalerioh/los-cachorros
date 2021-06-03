@@ -12,7 +12,7 @@ price: '400'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Adult Original 5 Lb 2.3 Kg'
   description: ''
   robots: []
   extra: []
