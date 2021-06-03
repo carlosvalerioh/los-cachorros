@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/elite-squid.jpg
+default_original_image: images/smiling-dolphin.jpg
 ---
 ## Lorem ipsum
 
