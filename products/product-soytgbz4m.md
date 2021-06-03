@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/maroon-pineapple.jpg
+default_original_image: images/fabulous-europa.jpg
 ---
 ## Lorem ipsum
 
