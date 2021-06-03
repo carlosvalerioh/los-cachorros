@@ -8,7 +8,7 @@ price: '585'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato  NF advance care feline 3.62kg'
   description: ''
   robots: []
   extra: []
