@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Gato  feline OM 6 lb us 2.72 kg
+title: Pro Plan Gato feline OM 6 lb us 2.72 kg
 description: >-
   SKU:PGOM272 <br> Beneficios del producto: Baja en calorías y baja en grasa.
   Alta proteína para apoyar el músculo magro durante la pérdida de peso. Fibra
