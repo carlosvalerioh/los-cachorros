@@ -10,7 +10,7 @@ price: '206'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Cachorro 2 kg'
   description: ''
   robots: []
   extra: []
