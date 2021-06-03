@@ -5,7 +5,7 @@ description: >-
   SKU:M8 <br> Prescription Diet Metabolic, está formulado especialmente para
   apoyar en el manejo del peso de tu perro. De hecho, el 88% de los perros
   perdieron peso en casa en 2 meses con la nutrición de Metabolic.
-price: lorem-ipsum
+price: '1,160'
 order: 0
 featured: false
 seo:
