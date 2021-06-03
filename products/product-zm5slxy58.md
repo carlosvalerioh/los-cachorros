@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/parallel-bee.jpg
 default_original_image: images/kind-owl.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
