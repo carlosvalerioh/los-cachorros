@@ -5,7 +5,7 @@ description: >-
   SKU:AV757 <br> El alimento para perros Hill's Science Diet Youthful Vitality
   proporciona nutrición balanceada con precisión para combatir los efectos del
   envejecimiento en perros adultos mayores de 7 años y más.
-price: lorem-ipsum
+price: '1,010'
 order: 0
 featured: false
 seo:
