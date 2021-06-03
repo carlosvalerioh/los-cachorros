@@ -6,7 +6,7 @@ description: >-
   pollo como principal ingrediente. Fórmula para las necesidades esenciales de
   cachorros y de perras gestando o  lactando. Ayuda a limpiar los dientes y
   reducir la placa. Formula antioxidante.
-price: lorem-ipsum
+price: '745'
 order: 0
 featured: false
 seo:
