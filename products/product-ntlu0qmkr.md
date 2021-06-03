@@ -6,7 +6,7 @@ description: >-
   Prescription Diet l/d, nutrición clínica especialmente formulada para apoyar
   la salud del hígado de tu perro. De hecho, l/d está formulado para ayudar a
   proteger la función vital del hígado.
-price: lorem-ipsum
+price: '1,160'
 order: 0
 featured: false
 seo:
