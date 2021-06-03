@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/DIAMOND LARGE BREED PUPPY LAMB & RICE.jpg
+default_original_image: images/melodic-mango.jpg
 ---
 ## Lorem ipsum
 
