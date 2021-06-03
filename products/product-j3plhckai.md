@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Hills perro Adult Small Bites 5 Lb 2.3 Kg
-description: lorem-ipsum
+description: >-
+  SKU:ASB23 <br> Este alimento premium seco para perros está hecho con pollo
+  real como ingrediente #1 para ayudar a desarrollar músculos fuertes y magros y
+  para mantener un peso corporal ideal. Contiene una mezcla exclusiva de ácidos
+  grasos omega-6 y otros nutrientes para mejorar la salud de la piel y pelaje
+  para una diferencia visible en tan solo 30 días.
 price: lorem-ipsum
 order: 0
 featured: false
