@@ -6,7 +6,7 @@ description: >-
   selectos y la mejor tecnología en nutrición para promover el óptimo desarrollo
   de articulaciones, huesos y sistema inmune de cachorros de raza mediana a
   gigante.
-price: lorem-ipsum
+price: '690'
 order: 0
 featured: false
 seo:
