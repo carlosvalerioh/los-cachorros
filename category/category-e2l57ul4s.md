@@ -1,5 +1,5 @@
 ---
-title: GATOS
+title: GATOS - DIAMOND
 order: 0
 seo:
   title: ''
