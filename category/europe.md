@@ -27,4 +27,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant4-lg.jpg
       relativeUrl: true
+title: GATOS - HILLS
 ---
