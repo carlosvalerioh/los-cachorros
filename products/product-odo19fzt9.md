@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro   NC canine.png
 default_original_image: images/clever-chili.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
