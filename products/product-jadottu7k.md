@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Gato Adulto urinary  3 kg
+title: Pro Plan Gato Adulto urinary 3 kg
 description: >-
   SKU:PGAU3 <br> Alimento completo y balanceado para gatos adultos. Es una
   tecnología exclusiva, que incluye una combinación de nutrientes que ayuda a
