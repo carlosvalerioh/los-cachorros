@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/interesting-anemone.png
 category: category/category-gdtvn4jwr.md
+default_original_image: images/best-kale.png
 ---
 ## Lorem ipsum
 
