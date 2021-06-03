@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro Metabolic + Mobility.png
 default_thumbnail_image: images/square-plankton.png
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
