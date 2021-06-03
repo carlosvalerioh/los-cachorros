@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  canine HA 6 lb us 2.72 kg
+title: Pro Plan Perro canine HA 6 lb us 2.72 kg
 description: >-
   SKU:PHA272 <br> Una dieta clínica para el diagnóstico y el manejo nutricional
   de las alergias e intolerancias alimentarias en perros de todas las edades.
