@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  UR canine 2.72 kg
+title: Pro Plan Perro UR canine 2.72 kg
 description: >-
   SKU:PUR272 <br> BENEFICIOS: Promueve un ambiente urinario desfavorable para el
   desarrollo de cristales de estruvitas esterils. Ayuda a disolver piedra de
