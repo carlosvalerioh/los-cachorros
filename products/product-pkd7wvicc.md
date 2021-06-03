@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Peso Ideal.jpg
 default_original_image: images/groovy-comet.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
