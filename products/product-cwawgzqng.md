@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND PUPPY.jpg
 default_original_image: images/robust-celery.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
