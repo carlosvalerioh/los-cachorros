@@ -5,7 +5,7 @@ description: >-
   SKU:IDLF39 <br> Alta digestibilidad y baja en grasa. Enriquecido con fibra
   prebiótica y jengibre. Los altos niveles de ácidos grasos omega-3. Minerales
   controlados. Contiene antioxidantes.
-price: lorem-ipsum
+price: '675'
 order: 0
 featured: false
 seo:
