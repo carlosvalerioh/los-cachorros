@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Jm canine dry.png
+default_original_image: images/clever-robin.png
 ---
 ## Lorem ipsum
 
