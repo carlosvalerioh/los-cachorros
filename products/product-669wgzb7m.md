@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Perro  canine HA 16.5 lb us 7.48 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
