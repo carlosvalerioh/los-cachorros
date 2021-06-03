@@ -6,7 +6,7 @@ description: >-
   moderadamente activos que se puede utilizar durante la mayor parte de la vida
   del perro. Esta es una dieta completa y equilibrada con grandes beneficios
   para promover una buena salud y larga vida del perro.
-price: lorem-ipsum
+price: '1,065'
 order: 0
 featured: false
 seo:
