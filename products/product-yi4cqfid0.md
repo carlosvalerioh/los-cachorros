@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/cool-petunia.jpg
 default_thumbnail_image: images/rainy-jupiter.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
