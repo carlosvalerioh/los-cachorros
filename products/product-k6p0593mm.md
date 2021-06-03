@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  UR canine.png
 default_original_image: images/maroon-chestnut.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
