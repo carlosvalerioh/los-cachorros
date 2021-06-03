@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills perro r-d.jpg
+default_thumbnail_image: images/incredible-octopus.jpg
 ---
 ## Lorem ipsum
 
