@@ -1,0 +1,28 @@
+---
+id: lorem-ipsum
+title: Pro Plan Perro NC canine 11.3 kg
+description: >-
+  SKU:PNC113 <br> Alimento completo y balanceado para perros de todas las
+  edades. Especialmente formulado para ayudar en el control de la epilepsia
+  idiopática, en el síndrome de disfunción cognitiva y para perros en edad
+  avanzada que presentan déficit cognitivo senil.
+price: '1,960'
+order: 0
+featured: false
+seo:
+  title: 'Pro Plan Perro NC canine 11.3 kg'
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
+layout: product
+default_thumbnail_image: images/Pro Plan Perro   NC canine.png
+default_original_image: images/clever-chili.png
+category: category/bigplants.md
+---
+## Lorem ipsum
+
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+- Lorem ipsum
+- dolor sit amet
