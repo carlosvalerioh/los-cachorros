@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/amazing-rosemary.jpg
 default_original_image: images/beige-sycamore.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
