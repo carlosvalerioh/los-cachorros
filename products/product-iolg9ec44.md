@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: DIAMOND 6 LBS. SENIOR  8+ NATURALS 2.722 kgs
+title: DIAMOND 6 LBS. SENIOR 8+ NATURALS 2.722 kgs
 description: >-
   SKU:SIN6 <br> Diamond Naturals Senior es un alimento super premium que
   pertenece a la gama Naturals de Diamond. Está especialmente formulado con
