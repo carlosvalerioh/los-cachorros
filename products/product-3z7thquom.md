@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro Derm Defense.jpg
 default_original_image: images/graceful-comet.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
