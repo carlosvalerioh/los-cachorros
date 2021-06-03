@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Hills perro Puppy Original 15.5 Lb 7 Kg
-description: lorem-ipsum
+description: >-
+  SKU:PO7 <br> Hill's Science Diet Puppy. Este alimento premium seco para
+  cachorros está especialmente formulado para satisfacer las necesidades
+  nutricionales de los pequeños. Proporciona DHA natural de aceite de pescado y
+  niveles óptimos de minerales para favorecer el desarrollo del cerebro, ojos y
+  esqueleto.
 price: lorem-ipsum
 order: 0
 featured: false
