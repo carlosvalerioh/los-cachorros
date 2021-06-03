@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/energetic-primrose.jpg
 default_original_image: images/nervous-olive.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
