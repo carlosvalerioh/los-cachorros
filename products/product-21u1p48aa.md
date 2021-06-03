@@ -7,7 +7,7 @@ description: >-
   insuficiencia renal crónica o pasajera en perros adultos. Este alimento
   dietético tiene bajo contenido de fósforo y contenido limitado de proteínas,
   pero de alta calidad.
-price: lorem-ipsum
+price: '1,650'
 order: 0
 featured: false
 seo:
