@@ -7,7 +7,7 @@ description: >-
   Con antioxidantes y fuente natural de glucosamina para ayudar en la salud de
   los cartílagos. Adecuada relación de proteínas y calorías para ayudar a
   mantener la masa muscular magra
-price: lorem-ipsum
+price: '520'
 order: 0
 featured: false
 seo:
