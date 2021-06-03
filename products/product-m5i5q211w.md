@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato NF early care feline 3.62 kg'
   description: ''
   robots: []
   extra: []
