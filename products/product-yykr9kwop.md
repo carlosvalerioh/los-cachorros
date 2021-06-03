@@ -10,7 +10,7 @@ price: '790'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 18 LBS. SENIOR  8+ NATURALS 8.164 Kgs'
   description: ''
   robots: []
   extra: []
