@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro GI Biome 8 Lb 3.6 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
