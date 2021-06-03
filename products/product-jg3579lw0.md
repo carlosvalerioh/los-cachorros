@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro Metabolic.png
 category: category/category-e2l57ul4s.md
+default_thumbnail_image: images/diligent-kangaroo.png
 ---
 ## Lorem ipsum
 
