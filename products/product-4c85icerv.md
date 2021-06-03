@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  canine NF 18 lb us 8.16 kg
+title: Pro Plan Perro canine NF 18 lb us 8.16 kg
 description: >-
   SKU:PNF816 <br> Dieta clínica para ayudar a controlar la insuficiencia renal
   crónica y sus complicaciones en perros adultos de edad avanzada. Fórmula
