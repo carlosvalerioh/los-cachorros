@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro  canine OM  18 lb us 8.16 kg
-description: lorem-ipsum
+description: >-
+  SKU:POM816 <br> Ayudan a reducir el sobrepeso de tu mejor amigo de manera
+  segura y con un excelente sabor. Una dieta clínica diseñada para la pérdida de
+  peso y el mantenimiento de un peso ideal en perros adultos. Estas dietas
+  clínicas proporcionan un equilibrio adecuado de nutrientes y satisfacen las
+  necesidades vinculadas al problema del paciente.
 price: lorem-ipsum
 order: 0
 featured: false
