@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto sensitive.jpg
+default_original_image: images/fierce-triceratops.jpg
 ---
 ## Lorem ipsum
 
