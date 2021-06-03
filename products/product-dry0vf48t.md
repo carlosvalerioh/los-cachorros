@@ -6,7 +6,7 @@ description: >-
   importante para garantizar su crecimiento, desarrollo y salud. Con esta opción
   de Diamond podrás cubrir las necesidades nutricionales y energéticas de tu
   Perro.
-price: lorem-ipsum
+price: '295'
 order: 0
 featured: false
 seo:
