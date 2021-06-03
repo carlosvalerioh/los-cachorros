@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Full Trust Cachorro  2 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
