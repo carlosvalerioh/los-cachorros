@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  NF early care feline.jpg
+default_original_image: images/panoramic-birch.jpg
 ---
 ## Lorem ipsum
 
