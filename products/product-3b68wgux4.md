@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro Metabolic 17.6 Lb 8 Kg
+title: Hills Perro Metabolic 17.6 Lb 8 Kg
 description: >-
   SKU:M8 <br> Prescription Diet Metabolic, está formulado especialmente para
   apoyar en el manejo del peso de tu perro. De hecho, el 88% de los perros
