@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  feline EN 6 lb 2.png
+default_original_image: images/rainy-europa.png
 ---
 ## Lorem ipsum
 
