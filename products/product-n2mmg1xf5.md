@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/interesting-anemone.png
-category: category/category-gdtvn4jwr.md
+category: category/category-e2l57ul4s.md
 default_original_image: images/best-kale.png
 ---
 ## Lorem ipsum
