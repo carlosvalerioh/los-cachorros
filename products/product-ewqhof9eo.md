@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: DIAMOND 40 LBS LAMB MEAL & RICE ADULT  18.144 kgs
+title: DIAMOND 40 LBS LAMB MEAL & RICE ADULT 18.144 kgs
 description: >-
   SKU:LAM40 <br> La proteína del cordero proporciona la nutrición óptima para
   los perros que prefieren el sabor del cordero, o son sensibles al pollo o al
