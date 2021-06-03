@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: DIAMOND 8 LBS ADULTO PREMIUM 3.629 Kgs
-description: lorem-ipsum
+description: >-
+  SKU:PREM8 <br> La selección de un alimento adecuado para tu mascota es muy
+  importante para garantizar su crecimiento, desarrollo y salud. Con esta opción
+  de Diamond podrás cubrir las necesidades nutricionales y energéticas de tu
+  Perro.
 price: lorem-ipsum
 order: 0
 featured: false
