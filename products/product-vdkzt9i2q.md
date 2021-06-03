@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: DIAMOND 20 LBS LARGE BREED PUPPY LAMB & RICE  9.72 Kgs
+title: DIAMOND 20 LBS LARGE BREED PUPPY LAMB & RICE 9.72 Kgs
 description: >-
   SKU:LAMP20 <br> Diamond Naturals Large Breed Puppy es un alimento a base de
   cordero super premium . Está especialmente formulado con niveles apropiados de
