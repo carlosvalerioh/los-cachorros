@@ -8,7 +8,7 @@ description: >-
   una mezcla antioxidante clínicamente comprobada con vitaminas C y E para
   favorecer un sistema inmunológico sano. De a tu perro grande una vida más sana
   y más feliz con el alimento Science Diet para razas grandes y gigantes.
-price: lorem-ipsum
+price: '940'
 order: 0
 featured: false
 seo:
