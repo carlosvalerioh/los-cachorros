@@ -19,6 +19,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/splendid-mustard.png
+default_original_image: images/smiling-oregano.png
 ---
 ## Lorem ipsum
 
