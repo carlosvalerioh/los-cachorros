@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/smart-goose.jpg
 default_original_image: images/amazing-mint.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
