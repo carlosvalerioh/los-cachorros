@@ -19,7 +19,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/panoramic-potato.png
-default_thumbnail_image: images/green-coriander.png
+default_thumbnail_image: images/thoughtful-yam.jpg
 category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
