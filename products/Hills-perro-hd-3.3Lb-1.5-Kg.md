@@ -10,7 +10,7 @@ price: '1,160'
 order: 0
 featured: false
 seo:
-  title: Hills perro h/d 3.3 Lb 1.5 Kg
+  title: Hills perro h/d 17.6 Lb 8 Kg
   description: ''
   robots: []
   extra: []
