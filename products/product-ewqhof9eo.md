@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/fierce-coriander.jpg
 default_original_image: images/neat-tortoise.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
