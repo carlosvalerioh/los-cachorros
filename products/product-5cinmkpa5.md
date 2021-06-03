@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/violet-steel.png
+default_original_image: images/square-goose.png
 ---
 ## Lorem ipsum
 
