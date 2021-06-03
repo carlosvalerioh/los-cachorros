@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills perro Derm Defense 25 Lb 11.3 Kg
-description: lorem-ipsum
+description: >-
+  SKU:DED113 <br> Los nutriólogos y veterinarios de Hill's desarrollaron la
+  nutrición clínica Prescription Diet Derm Defense especialmente formulada para
+  ayudar a manejar las sensibilidades ambientales en perros. 
 price: lorem-ipsum
 order: 0
 featured: false
