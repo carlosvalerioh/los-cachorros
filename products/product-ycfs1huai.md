@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/smart-coriander.jpg
+default_thumbnail_image: images/robust-parsley.jpg
 ---
 ## Lorem ipsum
 
