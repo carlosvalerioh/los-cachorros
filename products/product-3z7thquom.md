@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Derm Defense 25 Lb 11.3 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
