@@ -9,7 +9,7 @@ price: '710'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Senior Vitality 7+ 5.95 Lb 2.7 Kg'
   description: ''
   robots: []
   extra: []
