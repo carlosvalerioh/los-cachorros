@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro d-d.jpg
 default_original_image: images/superb-tiger.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
