@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/oceanic-moon.png
+default_original_image: images/friendly-strawberry.png
 ---
 ## Lorem ipsum
 
