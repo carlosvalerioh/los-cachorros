@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/mighty-sage.jpg
 default_original_image: images/mighty-coriander.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
