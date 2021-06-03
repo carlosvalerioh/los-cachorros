@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Perro  canine NF 18 lb us 8.16 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
