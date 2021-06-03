@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Gato  NF early care feline 3.62 kg
+title: Pro Plan Gato NF early care feline 3.62 kg
 description: >-
   SKU:PGNFEC362 <br> Cantidad limitada de proteína de alta calidad para ayudar a
   reducir la formación de toxinas urémicas - beneficios clínicos en ERC. Bajo
