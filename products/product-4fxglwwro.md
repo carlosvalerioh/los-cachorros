@@ -14,7 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/parallel-potato.jpg
 default_original_image: images/splendid-neptune.jpg
-category: category/category-vqpivmno4.md
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
