@@ -7,5 +7,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: category
-title: Full Trust
+title: PERRO - Full Trust
 ---
