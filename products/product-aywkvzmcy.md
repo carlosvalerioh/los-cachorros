@@ -12,7 +12,7 @@ price: '1,795'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Adult Original-35Lb-15.9Kg'
   description: ''
   robots: []
   extra: []
