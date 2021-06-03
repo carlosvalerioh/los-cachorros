@@ -13,7 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-title: Full Trust Cachorro  20 KG
+title: Full Trust Cachorro Raza Pequeña 2 kg
 default_thumbnail_image: images/splendid-tulip.jpg
 default_original_image: images/magnificent-tomato.jpg
 category: category/category-sytu722fo.md
