@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Puppy Large Breed 30 Lb 13.6 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
