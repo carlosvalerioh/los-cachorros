@@ -5,7 +5,7 @@ description: >-
   SKU:DD113 <br> Alimento dietético coadyudante en el tratamiento de dermatitis
   alérgica y gastroenteritis de origen dietético. También se puede utilizar como
   una prueba dietética para el diagnostico deferencial de alergias alimentarias
-price: '1,7'
+price: '1,760'
 order: 0
 featured: false
 seo:
