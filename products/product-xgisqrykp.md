@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: Pro Plan Perro Jm canine 18 lb 8.16 kg
 price: lorem-ipsum
 order: 0
 featured: false
