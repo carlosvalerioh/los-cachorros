@@ -17,6 +17,7 @@ seo:
 layout: product
 category: category/category-sytu722fo.md
 default_thumbnail_image: images/smiling-hedgehog.jpg
+default_original_image: images/Full Trust Senior.jpg
 ---
 ## Lorem ipsum
 
