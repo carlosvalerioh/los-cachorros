@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Full Trust Senior 2 KG
-description: lorem-ipsum
+description: >-
+  SKU:SESLB2 <br> Ingredientes selectos y la más alta tecnología en
+  alimentación, para satisfacer los requerimientos nutricionales de los perros
+  de edad avanzada. 
 price: lorem-ipsum
 order: 0
 featured: false
