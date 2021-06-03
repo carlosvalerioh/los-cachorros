@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Full Trust Adulto 20 KG
-description: lorem-ipsum
+description: >-
+  SKU:ADLB20 <br> Especialmente formulado para razas medianas a gigantes,
+  promoviendo músculos fuertes, articulaciones sanas y un sistema inmune fuerte
+  gracias a la mejor tecnología en nutrición. 
 price: lorem-ipsum
 order: 0
 featured: false
