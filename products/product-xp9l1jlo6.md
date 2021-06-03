@@ -12,7 +12,7 @@ price: '585'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato  feline EN 6 lb 2.72 kg'
   description: ''
   robots: []
   extra: []
