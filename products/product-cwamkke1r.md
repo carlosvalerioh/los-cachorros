@@ -11,7 +11,7 @@ price: lorem-ipsum
 order: 395
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro canine OM 6 lb us 2.72 kg'
   description: ''
   robots: []
   extra: []
