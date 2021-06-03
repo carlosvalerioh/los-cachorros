@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro  canine HA 6 lb us 2.72 kg
-description: lorem-ipsum
+description: >-
+  SKU:PHA272 <br> Una dieta clínica para el diagnóstico y el manejo nutricional
+  de las alergias e intolerancias alimentarias en perros de todas las edades.
+  Fórmula indicada para perros con hipersensibilidad alimentaria, causante de
+  signos clínicos que afectan a la piel y el tracto gastrointestinal como
+  dermatosis alérgica no estacional y gastroenteritis.
 price: lorem-ipsum
 order: 0
 featured: false
