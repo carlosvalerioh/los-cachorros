@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills perro i-d low fat.png
+default_original_image: images/futuristic-stegosaurus.png
 ---
 ## Lorem ipsum
 
