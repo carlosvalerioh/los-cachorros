@@ -9,7 +9,7 @@ price: '845'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Cachorro Raza Pequeña 8 kg'
   description: ''
   robots: []
   extra: []
