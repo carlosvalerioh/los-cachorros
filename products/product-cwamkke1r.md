@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  canine OM 6 lb us 2.72 kg
+title: Pro Plan Perro canine OM 6 lb us 2.72 kg
 description: >-
   SKU:POM272 <br> Ayudan a reducir el sobrepeso de tu mejor amigo de manera
   segura y con un excelente sabor. Una dieta clínica diseñada para la pérdida de
