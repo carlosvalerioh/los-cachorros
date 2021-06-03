@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/mighty-olive.png
 default_original_image: images/wonderful-birch.png
+category: category/category-yez2mpq9b.md
 ---
 ## Lorem ipsum
 
