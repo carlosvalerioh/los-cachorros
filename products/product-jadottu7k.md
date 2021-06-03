@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Gato Adulto urinary  3 kg
-description: lorem-ipsum
+description: >-
+  SKU:PGAU3 <br> Alimento completo y balanceado para gatos adultos. Es una
+  tecnología exclusiva, que incluye una combinación de nutrientes que ayuda a
+  prevenir la formación de cristales de estruvita y de oxalato, manteniendo y
+  protegiendo la salud del tracto urinario inferior de los gatos adultos.
 price: lorem-ipsum
 order: 0
 featured: false
