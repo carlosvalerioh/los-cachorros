@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Puppy Original 15.5 Lb 7 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
