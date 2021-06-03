@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Gatito  1.5 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
