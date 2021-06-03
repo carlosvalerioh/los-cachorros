@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/fierce-velociraptor.jpg
+default_thumbnail_image: images/important-sunflower.jpg
 ---
 ## Lorem ipsum
 
