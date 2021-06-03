@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/important-potato.jpg
+default_original_image: images/fierce-amaranth.jpg
 ---
 ## Lorem ipsum
 
