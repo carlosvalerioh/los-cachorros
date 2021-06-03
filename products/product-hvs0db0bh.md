@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Full Trust Adulto Raza Pequeña.jpg
+default_original_image: images/cool-eggplant.jpg
 ---
 ## Lorem ipsum
 
