@@ -31,6 +31,7 @@ sections:
       - products/product-65pkedk6j.md
       - products/product-iolg9ec44.md
       - products/product-hvuoc848p.md
+      - products/product-5cinmkpa5.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
