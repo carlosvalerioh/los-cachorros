@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/good-wallaby.png
+default_thumbnail_image: images/important-goat.png
 ---
 ## Lorem ipsum
 
