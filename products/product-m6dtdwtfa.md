@@ -9,7 +9,7 @@ price: '910'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Senior 8 KG'
   description: ''
   robots: []
   extra: []
