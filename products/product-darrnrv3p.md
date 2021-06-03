@@ -9,7 +9,7 @@ price: '120'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Cachorro Raza Pequeña 2 kg'
   description: ''
   robots: []
   extra: []
