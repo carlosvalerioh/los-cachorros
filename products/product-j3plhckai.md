@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/category-e2l57ul4s.md
+default_thumbnail_image: images/Hills perro Adult Small Bites.png
 ---
 ## Lorem ipsum
 
