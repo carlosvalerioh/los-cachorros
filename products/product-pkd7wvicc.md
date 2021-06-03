@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Full Trust Peso Ideal.jpg
+default_original_image: images/groovy-comet.jpg
 ---
 ## Lorem ipsum
 
