@@ -1,5 +1,5 @@
 ---
-id: lorem-ipsum
+id: Full Trust Cachorro Raza Pequeña 2 kg
 description: >-
   SKU:CALB20 <br> FullTrust Cachorro Razas Medianas y Grandes. Ingredientes
   selectos y la mejor tecnología en nutrición para promover el óptimo desarrollo
