@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/mighty-sage.jpg
+default_original_image: images/mighty-coriander.jpg
 ---
 ## Lorem ipsum
 
