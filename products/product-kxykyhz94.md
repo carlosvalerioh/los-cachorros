@@ -11,7 +11,7 @@ price: '490'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato feline HA 4 lb us 1.81 kg'
   description: ''
   robots: []
   extra: []
