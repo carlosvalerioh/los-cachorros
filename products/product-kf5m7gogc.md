@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/DIAMOND LAMB MEAL & RICE ADULT.jpg
+default_original_image: images/charming-neptune.jpg
 ---
 ## Lorem ipsum
 
