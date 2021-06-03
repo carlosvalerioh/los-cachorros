@@ -7,7 +7,7 @@ description: >-
   Reduce la inflamación asociada a reacciones alérgicas gracias a la
   complementación con ácidos grasos omega-3. Ayuda a mantener la integridad
   epidérmica: contiene ácidos grasos omega-6, zinc y vitamina A añadidos
-price: lorem-ipsum
+price: '490'
 order: 0
 featured: false
 seo:
