@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/super-crane.jpg
+default_original_image: images/futuristic-robin.jpg
 ---
 ## Lorem ipsum
 
