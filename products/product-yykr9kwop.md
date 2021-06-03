@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: DIAMOND 18 LBS. SENIOR  8+ NATURALS 8.164 Kgs
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
