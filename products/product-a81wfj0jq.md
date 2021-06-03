@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+title: Full Trust Cachorro  20 KG
 ---
 ## Lorem ipsum
 
