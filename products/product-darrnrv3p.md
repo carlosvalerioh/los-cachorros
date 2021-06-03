@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/rainy-pine.jpg
+default_original_image: images/enthusiastic-mars.jpg
 ---
 ## Lorem ipsum
 
