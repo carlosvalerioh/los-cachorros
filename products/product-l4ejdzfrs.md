@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Pro Plan Gato  fortiflora feline 1.06 oz us 30 sobres 1 gr.jpg
 ---
 ## Lorem ipsum
 
