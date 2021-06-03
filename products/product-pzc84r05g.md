@@ -17,6 +17,7 @@ seo:
 layout: product
 default_original_image: images/robust-iron.jpg
 category: category/category-sytu722fo.md
+default_thumbnail_image: images/Full Trust Adulto Raza Pequeña.jpg
 ---
 ## Lorem ipsum
 
