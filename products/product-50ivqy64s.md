@@ -12,7 +12,7 @@ price: '940'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Puppy Large Breed 15.5 Lb 7 Kg'
   description: ''
   robots: []
   extra: []
