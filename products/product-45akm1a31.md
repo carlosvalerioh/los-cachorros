@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro Adult Small Paws light.jpg
 default_original_image: images/maroon-daffodil.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
