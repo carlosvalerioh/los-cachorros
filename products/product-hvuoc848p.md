@@ -11,7 +11,7 @@ price: '1,185'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 40 LBS. MAINTENANCE CAT 18.144 kgs'
   description: ''
   robots: []
   extra: []
