@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/green-hedgehog.jpg
+default_thumbnail_image: images/royal-sycamore.jpg
 ---
 ## Lorem ipsum
 
