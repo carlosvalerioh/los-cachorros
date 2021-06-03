@@ -8,7 +8,7 @@ description: >-
   balance óptimo de todos los nutrientes esenciales y harina de cordero de alta
   calidad para una salud general y fácil digestión. También contiene ácidos
   grasos omega-3 y omega-6 para una piel sana y un pelaje radiante.
-price: lorem-ipsum
+price: '1,795'
 order: 0
 featured: false
 seo:
