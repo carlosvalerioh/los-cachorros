@@ -1,12 +1,9 @@
 ---
 id: lorem-ipsum
 description: >-
-  SKU:PEXA4 <br> Nutrición completa rico en proteína animal de alto valor
-  biológico, contiene minerales como calcio fósforo, potasio y hierro, vitaminas
-  A, D y E, fibras y ácidos grasos esenciales. Estos nutrientes favorecen el
-  fortalecimiento del sistema inmunológico de tu mascota y el correcto
-  funcionamiento de sus sistemas vitales. Además, contribuyen a la salud de su
-  pelo, piel y uñas y al mantenimiento de sus tendones, músculos y huesos.
+  SKSKU:AV757 <br> El alimento para perros Hill's Science Diet Youthful Vitality
+  proporciona nutrición balanceada con precisión para combatir los efectos del
+  envejecimiento en perros adultos mayores de 7 años y más.
 price: '265'
 order: 0
 featured: false
