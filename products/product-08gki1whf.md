@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Jm canine dry.png
 default_original_image: images/clever-robin.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
