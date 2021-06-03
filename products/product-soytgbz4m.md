@@ -9,7 +9,7 @@ price: '1,410'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Adulto 20 KG'
   description: ''
   robots: []
   extra: []
