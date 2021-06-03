@@ -15,7 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-41ssv7jka.md
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
