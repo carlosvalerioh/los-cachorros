@@ -5,7 +5,7 @@ description: >-
   SKU:ADLB8 <br> Especialmente formulado para razas medianas a gigantes,
   promoviendo músculos fuertes, articulaciones sanas y un sistema inmune fuerte
   gracias a la mejor tecnología en nutrición. 
-price: lorem-ipsum
+price: '645'
 order: 0
 featured: false
 seo:
