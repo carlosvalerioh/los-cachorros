@@ -6,7 +6,7 @@ price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro NC canine 4.9 kg'
   description: ''
   robots: []
   extra: []
