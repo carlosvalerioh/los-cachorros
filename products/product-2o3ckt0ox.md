@@ -9,7 +9,7 @@ price: '180'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Adulto 2 KG'
   description: ''
   robots: []
   extra: []
