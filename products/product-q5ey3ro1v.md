@@ -16,7 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/category-e2l57ul4s.md
-default_thumbnail_image: images/Hills perro Puppy Small Paws.jpg
+default_thumbnail_image: images/Hills perro Adult Small Paws.jpg
 default_original_image: images/elite-hedgehog.jpg
 ---
 ## Lorem ipsum
