@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro Adult Small Paws light 4.5 Lb 2 Kg
+title: Hills perro<br>  Adult Small Paws light 4.5 Lb 2 Kg
 description: >-
   SKU:ASPL2 <br>  Este alimento seco para razas pequeñas contiene 19% menos
   calorías que Hill¿s Science Diet Adult Small Paws para ayudar a evitar el
