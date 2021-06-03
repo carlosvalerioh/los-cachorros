@@ -19,6 +19,7 @@ seo:
 layout: product
 default_original_image: images/energetic-rosemary.jpg
 default_thumbnail_image: images/fabulous-tulip.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
