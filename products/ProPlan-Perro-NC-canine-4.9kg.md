@@ -1,12 +1,16 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro NC canine 4.9 kg
-description: lorem-ipsum
+description: >-
+  SKU:PNC49 <br> Alimento completo y balanceado para perros de todas las edades.
+  Especialmente formulado para ayudar en el control de la epilepsia idiopática,
+  en el síndrome de disfunción cognitiva y para perros en edad avanzada que
+  presentan déficit cognitivo senil.
 price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro NC canine 4.9 kg'
+  title: Pro Plan Perro NC canine 4.9 kg
   description: ''
   robots: []
   extra: []
