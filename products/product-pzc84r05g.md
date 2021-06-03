@@ -9,7 +9,7 @@ price: '735'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Adulto Raza Pequeña 8 KG'
   description: ''
   robots: []
   extra: []
