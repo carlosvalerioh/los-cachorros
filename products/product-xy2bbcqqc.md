@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Metabolic 7.7 Lb 3.5 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
