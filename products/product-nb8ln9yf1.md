@@ -9,7 +9,7 @@ price: '1,160'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro r/d 17.6 Lb 8 Kg'
   description: ''
   robots: []
   extra: []
