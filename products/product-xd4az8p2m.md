@@ -7,7 +7,7 @@ description: >-
   Los niveles garantizados de vitamina E y selenio aseguran que su perro reciba
   la nutrición antioxidante óptima, así mismo los ácidos grasos Omega-6 y
   Omega-3 mantienen la piel y el pelo sanos y brillantes.
-price: lorem-ipsum
+price: '300'
 order: 0
 featured: false
 seo:
