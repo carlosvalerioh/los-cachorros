@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/maroon-pineapple.jpg
 default_original_image: images/fabulous-europa.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
