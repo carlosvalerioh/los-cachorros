@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/modern-sloth.png
 default_original_image: images/magnificent-sage.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
