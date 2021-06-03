@@ -37,6 +37,7 @@ sections:
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
+      - category/category-e2l57ul4s.md
   - type: testimonials_section
     section_id: testimonials_section
     title: RESAÑA
