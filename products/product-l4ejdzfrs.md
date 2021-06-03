@@ -6,7 +6,7 @@ description: >-
   gatos es un complemento alimenticio perfecto para tratar la diarrea aguda o
   crónica, y mejorar la calidad de las heces de manera efectiva. Además, es un
   excelente suplemento para la reducción de gases.
-price: lorem-ipsum
+price: '330'
 order: 0
 featured: false
 seo:
