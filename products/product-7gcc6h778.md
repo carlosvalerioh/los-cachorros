@@ -12,7 +12,7 @@ seo:
 layout: product
 default_thumbnail_image: images/122215-1.jpg
 default_original_image: images/clever-birch.jpg
-title: Hills perro h/d 17.6 Lb 8 Kg
+title: Pro Plan Senior Razas Pequeñas Active Mind  3 kg
 description: >-
   SKU:PA11RP3  <br> Pro Plan Optiage prolonga la vitalidad de tu perro mayor de
   7 años al brindarle una nutrición avanzada que le ayudará a retrasar los
