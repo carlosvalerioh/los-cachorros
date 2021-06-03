@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+title: Hills perro Metabolic + Mobility 8.5 Lb 3.9 Kg
 ---
 ## Lorem ipsum
 
