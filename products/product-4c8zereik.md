@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Cachorro.jpg
 default_original_image: images/neat-tulip.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
