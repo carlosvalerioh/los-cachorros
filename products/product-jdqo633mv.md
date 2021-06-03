@@ -5,7 +5,7 @@ description: >-
   SKU:RD15 <br> Prescription Diet r/d está formulado especialmente para apoyar
   en el manejo del peso de tu perro. De hecho, r/d es nutrición clínicamente
   comprobada para una disminución sana de peso en tan sólo 8 semanas.
-price: lorem-ipsum
+price: '315'
 order: 0
 featured: false
 seo:
