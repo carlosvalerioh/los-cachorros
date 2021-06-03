@@ -12,7 +12,7 @@ price: '1,720'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Metabolic + Mobility 24 Lb 10.9 Kg'
   description: ''
   robots: []
   extra: []
