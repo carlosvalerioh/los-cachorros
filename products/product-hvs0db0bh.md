@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Full Trust Adulto Raza Pequeña 2 kg
-description: lorem-ipsum
+description: >-
+  SKU:ADSB2 <br> Especialmente formulado para razas con peso menor a 10 kg, cuyo
+  metabolismo rápido y estómago pequeño exigen la mejor tecnología en nutrición
+  e ingredientes de la más alta calidad.
 price: lorem-ipsum
 order: 0
 featured: false
