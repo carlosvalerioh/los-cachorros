@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  feline OM 6 lb us.jpg
+default_original_image: images/diligent-sage.jpg
 ---
 ## Lorem ipsum
 
