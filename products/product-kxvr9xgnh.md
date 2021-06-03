@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Metabolic + Mobility 24 Lb 10.9 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
