@@ -6,7 +6,7 @@ description: >-
   tecnología exclusiva, que incluye una combinación de nutrientes que ayuda a
   prevenir la formación de cristales de estruvita y de oxalato, manteniendo y
   protegiendo la salud del tracto urinario inferior de los gatos adultos.
-price: lorem-ipsum
+price: '560'
 order: 0
 featured: false
 seo:
