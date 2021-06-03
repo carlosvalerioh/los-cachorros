@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto reduced calorie.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
