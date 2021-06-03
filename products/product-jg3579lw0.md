@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills perro Metabolic.png
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
