@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  NF early care feline.jpg
 default_original_image: images/panoramic-birch.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
