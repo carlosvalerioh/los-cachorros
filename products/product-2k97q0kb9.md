@@ -7,7 +7,7 @@ description: >-
   peso y el mantenimiento de un peso ideal en perros adultos. Estas dietas
   clínicas proporcionan un equilibrio adecuado de nutrientes y satisfacen las
   necesidades vinculadas al problema del paciente.
-price: lorem-ipsum
+price: '1,080'
 order: 0
 featured: false
 seo:
