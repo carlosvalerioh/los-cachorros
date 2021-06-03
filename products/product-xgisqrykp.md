@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/oceanic-moon.png
 default_original_image: images/friendly-strawberry.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
