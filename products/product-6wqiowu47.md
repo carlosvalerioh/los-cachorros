@@ -20,6 +20,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/melodic-sparrow.png
+default_original_image: images/curious-goat.png
 ---
 ## Lorem ipsum
 
