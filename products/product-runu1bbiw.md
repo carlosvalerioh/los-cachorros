@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills perro h-d.png
+default_original_image: images/happy-giraffe.png
 ---
 ## Lorem ipsum
 
