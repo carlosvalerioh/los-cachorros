@@ -11,7 +11,7 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Adult Small Paws light 15.5 Lb 7 Kg'
   description: ''
   robots: []
   extra: []
