@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/super-crane.jpg
 default_original_image: images/futuristic-robin.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
