@@ -33,6 +33,7 @@ sections:
       - products/product-ok75wuf7g.md
       - products/product-02d3e80lr.md
       - products/product-ycfs1huai.md
+      - products/product-jdqo633mv.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
