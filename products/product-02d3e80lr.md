@@ -7,7 +7,7 @@ description: >-
   cerebro y los ojos, así como de las habilidades de aprendizaje. También
   incluye una mezcla de antioxidantes clínicamente comprobada con vitaminas C y
   E para favorecer un sistema inmunológico sano. 
-price: lorem-ipsum
+price: '400'
 order: 0
 featured: false
 seo:
