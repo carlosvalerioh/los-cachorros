@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Gato  fortiflora feline 1.06 oz us 30 sobres 1 gr
+title: Pro Plan Gato fortiflora feline 1.06 oz us 30 sobres 1 gr
 description: >-
   SKU:PGFF1 <br> Purina ProPlan Veterinary Diets FortiFlora probiótico para
   gatos es un complemento alimenticio perfecto para tratar la diarrea aguda o
