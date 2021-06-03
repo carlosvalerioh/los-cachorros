@@ -17,6 +17,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro r-d.jpg
 default_thumbnail_image: images/incredible-octopus.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
