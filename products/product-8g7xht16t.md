@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/good-maple.png
 default_original_image: images/ultra-basil.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
