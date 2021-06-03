@@ -5,7 +5,7 @@ description: >-
   SKU:SESLB2 <br> Ingredientes selectos y la más alta tecnología en
   alimentación, para satisfacer los requerimientos nutricionales de los perros
   de edad avanzada. 
-price: '980'
+price: '280'
 order: 0
 featured: false
 seo:
