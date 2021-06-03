@@ -13,6 +13,12 @@ seo:
 layout: product
 default_original_image: images/smart-coriander.jpg
 default_thumbnail_image: images/robust-parsley.jpg
+description: >-
+  SKU:PSP7 <br>  Este alimento premium seco para perros también contiene DHA de
+  aceite de pescado de alta calidad para favorecer un sano desarrollo del
+  cerebro y los ojos, así como de las habilidades de aprendizaje. También
+  incluye una mezcla de antioxidantes clínicamente comprobada con vitaminas C y
+  E para favorecer un sistema inmunológico sano. 
 ---
 ## Lorem ipsum
 
