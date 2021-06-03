@@ -5,7 +5,7 @@ description: >-
   SKU:CASB2 <br> Ingredientes selectos y la mejor tecnología en nutrición para
   satisfacer los requerimientos energéticos e índices de crecimiento de razas
   pequeñas durante los primeros meses de vida.
-price: lorem-ipsum
+price: '120'
 order: 0
 featured: false
 seo:
