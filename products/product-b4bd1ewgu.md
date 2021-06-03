@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Gatitos saludables.jpg
 default_original_image: images/fabulous-spruce.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
