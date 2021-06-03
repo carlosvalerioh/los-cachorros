@@ -7,7 +7,7 @@ description: >-
   para mantener un peso corporal ideal. Contiene una mezcla exclusiva de ácidos
   grasos omega-6 y otros nutrientes para mejorar la salud de la piel y pelaje
   para una diferencia visible en tan solo 30 días.
-price: lorem-ipsum
+price: '1,010'
 order: 0
 featured: false
 seo:
