@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/magical-ant.jpg
 default_original_image: images/adorable-sunflower.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
