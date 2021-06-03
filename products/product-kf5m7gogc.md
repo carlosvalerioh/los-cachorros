@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: DIAMOND 20 LBS LAMB MEAL & RICE ADULT  9.72 Kgs
-description: lorem-ipsum
+description: >-
+  SKU:LAM20 <br> La proteína del cordero proporciona la nutrición óptima para
+  los perros que prefieren el sabor del cordero, o son sensibles al pollo o al
+  maíz. Los niveles garantizados de vitamina E y selenio aseguran que su perro
+  reciba la nutrición antioxidante óptima, así mismo los ácidos grasos Omega-6 y
+  Omega-3 mantienen la piel y el pelo sanos y brillantes.
 price: lorem-ipsum
 order: 0
 featured: false
