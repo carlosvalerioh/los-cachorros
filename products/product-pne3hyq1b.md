@@ -7,7 +7,7 @@ description: >-
   indicada para ayudar a perros adultos con enfermedad renal. Este alimento
   también puede indicarse como auxiliar al tratamiento de urolitiasis por
   oxalato de calcio y en la encefalopatía hepática.
-price: lorem-ipsum
+price: '440'
 order: 0
 featured: false
 seo:
