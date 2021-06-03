@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/marvelous-artichoke.png
 default_thumbnail_image: images/pleasant-oregano.png
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
