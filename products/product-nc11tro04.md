@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Gato Adulto sensitive 3 kg
-description: lorem-ipsum
+description: >-
+  SKU:PGASE3 <br> Brinda un alimento completo y balanceado a tu gato adulto. Los
+  gatos adultos pueden padecer ciertas intolerancias alimentarias, expresadas a
+  través de trastornos en la piel, manto piloso y sistema digestivo. Sus
+  croquetas están hechas con una tecnología exclusiva, con un número limitado de
+  fuentes de proteína para ayudar a disminuir las sensibilidades alimentarias.
 price: lorem-ipsum
 order: 0
 featured: false
