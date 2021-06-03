@@ -11,7 +11,7 @@ price: '550'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato UR feline dry 6 lb 2.72 kg'
   description: ''
   robots: []
   extra: []
