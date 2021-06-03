@@ -8,7 +8,7 @@ description: >-
   limitado de fuentes de proteína para ayudar a reducir las reacciones
   gastrointestinales adversas. Prebióticos añadidos (inulina) para ayudar a
   mejorar la salud del intestino.
-price: lorem-ipsum
+price: '585'
 order: 0
 featured: false
 seo:
