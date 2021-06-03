@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/remarkable-iron.jpg
 category: category/category-e2l57ul4s.md
+default_original_image: images/maroon-owl.jpg
 ---
 ## Lorem ipsum
 
