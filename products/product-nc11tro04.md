@@ -11,7 +11,7 @@ price: '500'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato Adulto sensitive 3 kg'
   description: ''
   robots: []
   extra: []
