@@ -8,7 +8,7 @@ description: >-
   antioxidantes naturales, vitaminas del complejo B y omega 3 y 6, para ayudar a
   proteger y mantener la actividad cerebral y retrasar los signos del
   envejecimiento de tu gato.
-price: lorem-ipsum
+price: '490'
 order: 0
 featured: false
 seo:
