@@ -1,7 +1,13 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Gato Adulto senior 7+ 3 kg
-description: lorem-ipsum
+description: >-
+  SKU:PGAS3 <br> Brinda un alimento completo y balanceado a tu gato de 7 o más
+  años. Pro Plan Optiage para gato senior son croquetas que están hechas con
+  tecnología exclusiva, formulada con una novedosa mezcla de aminoácidos,
+  antioxidantes naturales, vitaminas del complejo B y omega 3 y 6, para ayudar a
+  proteger y mantener la actividad cerebral y retrasar los signos del
+  envejecimiento de tu gato.
 price: lorem-ipsum
 order: 0
 featured: false
