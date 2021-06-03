@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  NC canine 11.3 kg
+title: Pro Plan Perro NC canine 11.3 kg
 description: >-
   SKU:PNC113 <br> Alimento completo y balanceado para perros de todas las
   edades. Especialmente formulado para ayudar en el control de la epilepsia
