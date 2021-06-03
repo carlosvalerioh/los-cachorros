@@ -11,7 +11,7 @@ price: '400'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro<br>  Adult Small Paws light 4.5 Lb 2 Kg'
+  title: 'Hills perro Adult Small Paws light 4.5 Lb 2 Kg'
   description: ''
   robots: []
   extra: []
