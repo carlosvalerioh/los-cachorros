@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Gato  feline EN 6 lb 2.72 kg
+title: Pro Plan Gato feline EN 6 lb 2.72 kg
 description: >-
   SKU:PGEN272 <br> Una dieta clínica para ayudar a controlar los trastornos
   intestinales en gatos de todas las edades. Ingredientes fáciles de digerir
