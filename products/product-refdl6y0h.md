@@ -10,7 +10,7 @@ price: '305'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 8 LBS PUPPY 3.629 Kgs'
   description: ''
   robots: []
   extra: []
