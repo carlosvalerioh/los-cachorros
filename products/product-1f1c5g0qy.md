@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: DIAMOND 20 LBS ADULTO PREMIUM  9.72 Kgs
+title: DIAMOND 20 LBS ADULTO PREMIUM 9.72 Kgs
 description: >-
   SKU:PREM20 <br> La selección de un alimento adecuado para tu mascota es muy
   importante para garantizar su crecimiento, desarrollo y salud. Con esta opción
