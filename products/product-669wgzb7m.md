@@ -7,7 +7,7 @@ description: >-
   Fórmula indicada para perros con hipersensibilidad alimentaria, causante de
   signos clínicos que afectan a la piel y el tracto gastrointestinal como
   dermatosis alérgica no estacional y gastroenteritis.
-price: lorem-ipsum
+price: '1,170'
 order: 0
 featured: false
 seo:
