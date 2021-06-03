@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro   NC canine 2.72 kg
+title: Pro Plan Perro NC canine 2.72 kg
 description: >-
   SKU:PNC272 <br> Alimento completo y balanceado para perros de todas las
   edades. Especialmente formulado para ayudar en el control de la epilepsia
