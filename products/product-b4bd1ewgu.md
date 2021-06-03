@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Gatitos saludables.jpg
+default_original_image: images/fabulous-spruce.jpg
 ---
 ## Lorem ipsum
 
