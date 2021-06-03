@@ -1,5 +1,5 @@
 ---
-id: lorem-ipsum
+id: Pro Plan Gato  feline HA 4 lb us 1.81 kg
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
