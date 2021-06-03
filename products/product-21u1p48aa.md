@@ -11,7 +11,7 @@ price: '1,650'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro K/d 27.5 Lb 12.5 Kg'
   description: ''
   robots: []
   extra: []
