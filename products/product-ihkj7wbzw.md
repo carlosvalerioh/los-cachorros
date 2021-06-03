@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  NF advance care feline.jpg
+default_original_image: images/magical-daffodil.jpg
 ---
 ## Lorem ipsum
 
