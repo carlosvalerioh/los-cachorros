@@ -10,7 +10,7 @@ price: '325'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills Perro i/d small bites 3.3 Lb 1.5 Kg'
   description: ''
   robots: []
   extra: []
