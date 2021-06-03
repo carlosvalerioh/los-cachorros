@@ -10,7 +10,7 @@ price: '640'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro c/d 8.5 Lb 3.9 Kg'
   description: ''
   robots: []
   extra: []
