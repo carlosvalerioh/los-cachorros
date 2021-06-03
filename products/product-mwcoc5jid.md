@@ -19,6 +19,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/festive-kale.png
+default_original_image: images/wonderful-onion.png
 ---
 ## Lorem ipsum
 
