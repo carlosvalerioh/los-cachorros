@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/Hills perro Adult Original.png
+default_original_image: images/curious-elm.png
 ---
 ## Lorem ipsum
 
