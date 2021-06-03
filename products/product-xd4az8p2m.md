@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/remarkable-panda.jpg
 default_original_image: images/smart-eggplant.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
