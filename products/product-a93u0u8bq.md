@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/graceful-hedgehog.jpg
 default_original_image: images/friendly-strawberry.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
