@@ -7,7 +7,7 @@ description: >-
   dieta rica en proteínas y baja en carbohidratos. Estimula la secreción de
   insulina en las células B pancreáticas. Contiene niveles elevados de proteínas
   con aminoácidos que estimulan la liberación de insulina.
-price: lorem-ipsum
+price: '595'
 order: 0
 featured: false
 seo:
