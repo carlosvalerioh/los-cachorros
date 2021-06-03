@@ -7,7 +7,7 @@ description: >-
   y salud de sus articulaciones. De hecho Metabolic + Mobility Canine contiene
   nutrición clínicamente comprobada para mejorar la movilidad en tan sólo 21
   días Y reducir el peso corporal en un 13% en 60 días.
-price: lorem-ipsum
+price: '700'
 order: 0
 featured: false
 seo:
