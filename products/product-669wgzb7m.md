@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  canine HA 16.5 lb us 7.48 kg
+title: Pro Plan Perro canine HA 16.5 lb us 7.48 kg
 description: >-
   SKU:PHA748 <br> Una dieta clínica para el diagnóstico y el manejo nutricional
   de las alergias e intolerancias alimentarias en perros de todas las edades.
@@ -11,7 +11,7 @@ price: '1,170'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro canine HA 16.5 lb us 7.48 kg'
   description: ''
   robots: []
   extra: []
