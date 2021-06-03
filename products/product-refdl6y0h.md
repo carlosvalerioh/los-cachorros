@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/important-hickory.jpg
 default_original_image: images/pleasant-tulip.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
