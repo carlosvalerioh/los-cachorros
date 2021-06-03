@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Full Trust Cachorro  8 kg
+title: Full Trust Cachorro 8 kg
 description: >-
   SKU:CALB8 <br> FullTrust Cachorro Razas Medianas y Grandes. Ingredientes
   selectos y la mejor tecnología en nutrición para promover el óptimo desarrollo
