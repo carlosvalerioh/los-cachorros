@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/elite-squid.jpg
 default_original_image: images/smiling-dolphin.jpg
-category: category/category-77vgwhoq4.md
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
