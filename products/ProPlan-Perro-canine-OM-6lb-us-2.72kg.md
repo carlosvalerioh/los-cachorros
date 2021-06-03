@@ -7,11 +7,11 @@ description: >-
   peso y el mantenimiento de un peso ideal en perros adultos. Estas dietas
   clínicas proporcionan un equilibrio adecuado de nutrientes y satisfacen las
   necesidades vinculadas al problema del paciente.
-price: lorem-ipsum
+price: '395'
 order: 395
 featured: false
 seo:
-  title: 'Pro Plan Perro canine OM 6 lb us 2.72 kg'
+  title: Pro Plan Perro canine OM 6 lb us 2.72 kg
   description: ''
   robots: []
   extra: []
