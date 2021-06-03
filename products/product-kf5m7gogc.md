@@ -14,7 +14,6 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND LAMB MEAL & RICE ADULT.jpg
 default_original_image: images/charming-neptune.jpg
-category: category/bigplants.md
 ---
 ## Lorem ipsum
 
