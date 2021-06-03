@@ -11,7 +11,7 @@ price: '820'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 20 LBS LAMB MEAL & RICE ADULT  9.72 Kgs'
   description: ''
   robots: []
   extra: []
