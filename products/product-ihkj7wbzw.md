@@ -4,7 +4,7 @@ description: >-
   SKU:PGNFAC362 <br> Pro Plan Veterinary Diet NF Kidney Renal Function Feline es
   un alimento completo para gatos adultos de todas las razas con enfermedad
   renal. 
-price: lorem-ipsum
+price: '585'
 order: 0
 featured: false
 seo:
