@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: DIAMOND 20 LBS ADULTO PREMIUM  9.72 Kgs
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
