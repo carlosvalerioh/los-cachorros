@@ -10,7 +10,7 @@ price: '1,250'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Cachorro 15 KG'
   description: ''
   robots: []
   extra: []
