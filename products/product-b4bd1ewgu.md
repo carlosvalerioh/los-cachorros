@@ -10,7 +10,7 @@ price: '300'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gatito 1.5 kg'
   description: ''
   robots: []
   extra: []
