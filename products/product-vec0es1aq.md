@@ -11,7 +11,7 @@ price: '750'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro GI Biome 8 Lb 3.6 Kg'
   description: ''
   robots: []
   extra: []
