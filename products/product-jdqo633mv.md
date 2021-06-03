@@ -9,7 +9,7 @@ price: '315'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro r/d 3.3 Lb 1.5 Kg'
   description: ''
   robots: []
   extra: []
