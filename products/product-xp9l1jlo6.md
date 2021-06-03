@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Gato  feline EN 6 lb 2.72 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
