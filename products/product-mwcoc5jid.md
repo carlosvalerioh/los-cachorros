@@ -11,7 +11,7 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro <br> Adult Small  Bites 15 Lb 6.8 Kg'
   description: ''
   robots: []
   extra: []
