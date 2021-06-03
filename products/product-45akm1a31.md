@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills perro Adult Small Paws light.jpg
+default_original_image: images/maroon-daffodil.jpg
 ---
 ## Lorem ipsum
 
