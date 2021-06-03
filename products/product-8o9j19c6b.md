@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/smart-iron.jpg
+default_original_image: images/incredible-lime.jpg
 ---
 ## Lorem ipsum
 
