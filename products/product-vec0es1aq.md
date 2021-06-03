@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills perro GI Biome.jpg
+default_original_image: images/super-iron.jpg
 ---
 ## Lorem ipsum
 
