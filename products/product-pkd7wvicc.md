@@ -6,7 +6,7 @@ description: >-
   mejores ingredientes en un balance perfecto para razas con tendencia a
   sobrepreso, favoreciendo una nutrición óptima reducida en grasa para
   brindarles una vida saludable.
-price: lorem-ipsum
+price: '275'
 order: 0
 featured: false
 seo:
