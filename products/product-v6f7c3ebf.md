@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills perro Puppy Original (lata) 0.82 Lb 0.37 Kg
-description: lorem-ipsum
+description: >-
+  SKU:POL37 <br> El alimento para perros Hill's Science Diet Puppy Chicken &
+  Barley Entrée tiene un delicioso sabor y proporciona nutrición balanceada con
+  precisión para la inmunidad y movilidad. Nutrición superior de ingredientes de
+  alta calidad que favorecen una mejor salud general.
 price: lorem-ipsum
 order: 0
 featured: false
