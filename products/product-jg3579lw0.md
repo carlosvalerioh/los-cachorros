@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills perro Metabolic 27.5 Lb 12.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:M125 <br> Prescription Diet Metabolic, está formulado especialmente para
+  apoyar en el manejo del peso de tu perro. De hecho, el 88% de los perros
+  perdieron peso en casa en 2 meses con la nutrición de Metabolic.
 price: lorem-ipsum
 order: 0
 featured: false
