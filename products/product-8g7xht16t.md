@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Pro Plan Perro  UR canine 16.5 lb 7.48 kg
+title: Pro Plan Perro UR canine 16.5 lb 7.48 kg
 description: >-
   SKU:PUR748 <br> BENEFICIOS: Promueve un ambiente urinario desfavorable para el
   desarrollo de cristales de estruvitas esterils. Ayuda a disolver piedra de
