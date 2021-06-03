@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/parallel-bee.jpg
 ---
 ## Lorem ipsum
 
