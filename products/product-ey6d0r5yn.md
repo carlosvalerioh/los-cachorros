@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/splendid-tortoise.jpg
+default_thumbnail_image: images/famous-oak.jpg
 ---
 ## Lorem ipsum
 
