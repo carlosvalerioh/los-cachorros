@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND ADULTO PREMIUM.jpg
 default_original_image: images/pleasant-aluminum.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
