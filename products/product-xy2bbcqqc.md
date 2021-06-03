@@ -9,7 +9,7 @@ price: '640'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Metabolic 7.7 Lb 3.5 Kg'
   description: ''
   robots: []
   extra: []
