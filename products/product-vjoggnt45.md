@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/smart-plankton.png
+default_original_image: images/happy-jupiter.png
 ---
 ## Lorem ipsum
 
