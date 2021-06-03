@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/diligent-neptune.png
 default_original_image: images/important-bee.png
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
