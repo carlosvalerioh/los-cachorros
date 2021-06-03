@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/good-sage.jpg
+default_original_image: images/festive-tiger.jpg
 ---
 ## Lorem ipsum
 
