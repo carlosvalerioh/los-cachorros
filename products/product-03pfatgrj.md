@@ -10,7 +10,7 @@ price: '1,065'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 40 LBS ADULTO MAINTENANCE 18.144 kgs'
   description: ''
   robots: []
   extra: []
