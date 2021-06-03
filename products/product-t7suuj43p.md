@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Adulto.jpg
 default_original_image: images/robust-aspen.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
