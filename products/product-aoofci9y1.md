@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: DIAMOND 40 LBS LARGE BREED PUPPY LAMB & RICE  18.144 kgs
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
