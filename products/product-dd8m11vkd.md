@@ -7,7 +7,7 @@ description: >-
   sano. 18% menos calorías que en Adult Advanced Fitness. Beneficios
   antioxidantes clínicamente comprobados. Sin colores, sabores o conservadores
   artificiales.
-price: lorem-ipsum
+price: '1,650'
 order: 0
 featured: false
 seo:
