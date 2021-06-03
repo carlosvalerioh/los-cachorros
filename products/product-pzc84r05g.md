@@ -5,7 +5,7 @@ description: >-
   SKU:ADSB8 <br> Especialmente formulado para razas con peso menor a 10 kg, cuyo
   metabolismo rápido y estómago pequeño exigen la mejor tecnología en nutrición
   e ingredientes de la más alta calidad.
-price: lorem-ipsum
+price: '735'
 order: 0
 featured: false
 seo:
