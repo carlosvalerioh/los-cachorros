@@ -19,7 +19,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills perro Puppy Original.jpg
-default_original_image: images/splendid-neptune.jpg
+default_original_image: images/curious-saturn.jpg
 category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
