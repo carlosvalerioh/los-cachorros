@@ -11,7 +11,7 @@ price: '505'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato Adulto reduced calorie 3 kg'
   description: ''
   robots: []
   extra: []
