@@ -1,10 +1,9 @@
 ---
 id: Full Trust Cachorro Raza Pequeña 2 kg
 description: >-
-  SKU:CALB20 <br> FullTrust Cachorro Razas Medianas y Grandes. Ingredientes
-  selectos y la mejor tecnología en nutrición para promover el óptimo desarrollo
-  de articulaciones, huesos y sistema inmune de cachorros de raza mediana a
-  gigante.
+  SKU:CASB2 <br> Ingredientes selectos y la mejor tecnología en nutrición para
+  satisfacer los requerimientos energéticos e índices de crecimiento de razas
+  pequeñas durante los primeros meses de vida.
 price: '1,620'
 order: 0
 featured: false
