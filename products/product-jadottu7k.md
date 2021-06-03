@@ -10,7 +10,7 @@ price: '560'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato Adulto urinary 3 kg'
   description: ''
   robots: []
   extra: []
