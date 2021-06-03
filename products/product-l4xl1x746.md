@@ -14,7 +14,6 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro i-d.jpg
 default_original_image: images/groovy-jupiter.jpg
-category: category/europe.md
 ---
 ## Lorem ipsum
 
