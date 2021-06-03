@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro Jm canine dry 6 lb 2.72 kg
-description: lorem-ipsum
+description: >-
+  SKU:PJM272 <br> BENEFICIOS: Altos niveles de ácidos grasos omega-3 de cadena
+  larga que ayudan a reducir la inflamación y el dolor en las articulaciones.
+  Con antioxidantes y fuente natural de glucosamina para ayudar en la salud de
+  los cartílagos. Adecuada relación de proteínas y calorías para ayudar a
+  mantener la masa muscular magra
 price: lorem-ipsum
 order: 0
 featured: false
