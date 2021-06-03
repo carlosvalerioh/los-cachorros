@@ -8,7 +8,6 @@ description: >-
   Adicionado con vitaminas complejo B. Niveles adecuados de omega 3 y 6 que
   pueden ayudar a reducir la hipertensión glomerular y a minimizar la
   inflamación glomerular. 
-price: lorem-ipsum
 order: 0
 featured: false
 seo:
