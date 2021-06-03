@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: DIAMOND 40 LBS ADULTO PREMIUM 18.144 kgs
-description: lorem-ipsum
+description: >-
+  SKU:PREM40 <br> La selección de un alimento adecuado para tu mascota es muy
+  importante para garantizar su crecimiento, desarrollo y salud. Con esta opción
+  de Diamond podrás cubrir las necesidades nutricionales y energéticas de tu
+  Perro.
 price: lorem-ipsum
 order: 0
 featured: false
