@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/rainy-pine.jpg
 default_original_image: images/enthusiastic-mars.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
