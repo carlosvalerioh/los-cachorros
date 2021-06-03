@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: DIAMOND 6 LBS. SENIOR  8+ NATURALS 2.722 kgs
-description: lorem-ipsum
+description: >-
+  SKU:SIN6 <br> Diamond Naturals Senior es un alimento super premium que
+  pertenece a la gama Naturals de Diamond. Está especialmente formulado con
+  niveles precisos de proteína y grasa que ayudan a tu perro mayor a mantener un
+  cuerpo sin sobrepeso y proveen una nutrición para una óptima salud
 price: lorem-ipsum
 order: 0
 featured: false
