@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Puppy Small Paws 4.5 Lb 2 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
