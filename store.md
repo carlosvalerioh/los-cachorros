@@ -8,7 +8,6 @@ sections:
     title: MÁS VENDIDO
     icon: true
     featured_products:
-      - products/plant5.md
       - products/plant7.md
   - type: promotion_section
     section_id: promotion_section
