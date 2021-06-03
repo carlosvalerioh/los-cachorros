@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/magical-ant.jpg
+default_original_image: images/adorable-sunflower.jpg
 ---
 ## Lorem ipsum
 
