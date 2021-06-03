@@ -13,6 +13,7 @@ seo:
 layout: product
 title: Full Trust Cachorro  20 KG
 default_thumbnail_image: images/splendid-tulip.jpg
+default_original_image: images/magnificent-tomato.jpg
 ---
 ## Lorem ipsum
 
