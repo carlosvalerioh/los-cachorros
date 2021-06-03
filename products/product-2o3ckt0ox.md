@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/thoughtful-apple.jpg
+default_original_image: images/marvelous-europa.jpg
 ---
 ## Lorem ipsum
 
