@@ -9,7 +9,7 @@ price: '216'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Adulto Raza Pequeña 2 kg'
   description: ''
   robots: []
   extra: []
