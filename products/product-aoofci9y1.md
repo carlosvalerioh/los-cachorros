@@ -10,7 +10,7 @@ price: '1,585'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'DIAMOND 40 LBS LARGE BREED PUPPY LAMB & RICE 18.144 kgs'
   description: ''
   robots: []
   extra: []
