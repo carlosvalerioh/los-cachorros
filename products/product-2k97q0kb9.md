@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/charming-panda.jpg
 default_original_image: images/scientific-goose.jpg
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
