@@ -9,7 +9,7 @@ price: '990'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro UR canine 16.5 lb 7.48 kg'
   description: ''
   robots: []
   extra: []
