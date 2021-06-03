@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/terrific-octopus.jpg
+default_original_image: images/pink-daffodil.jpg
 ---
 ## Lorem ipsum
 
