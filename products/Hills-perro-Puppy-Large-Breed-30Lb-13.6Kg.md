@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Hills perro Puppy Large Breed 30 Lb 13.6 Kg
 description: >-
-  SKU:PO136<br> El alimento seco para perros Hill's Science Diet Puppy Large
+  SKU:PO136 <br> El alimento seco para perros Hill's Science Diet Puppy Large
   Breed proporciona fuentes naturales de glucosamina y condroitina, los
   elementos constitutivos para huesos y articulaciones sanas, y está hecho con
   una mezcla antioxidante clínicamente comprobada con vitaminas C y E para
