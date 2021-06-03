@@ -7,7 +7,7 @@ description: >-
   nutricionales de los pequeños. Proporciona DHA natural de aceite de pescado y
   niveles óptimos de minerales para favorecer el desarrollo del cerebro, ojos y
   esqueleto.
-price: lorem-ipsum
+price: '400'
 order: 0
 featured: false
 seo:
