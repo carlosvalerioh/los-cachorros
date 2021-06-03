@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/successful-anemone.png
+default_thumbnail_image: images/neat-sparrow.png
 ---
 ## Lorem ipsum
 
