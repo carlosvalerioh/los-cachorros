@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: DIAMOND 40 LBS PUPPY 18.144 kgs
-description: lorem-ipsum
+description: >-
+  SKU:PUP40 <br> Beneficios de la fórmula Puppy para cachorros: Proteína de
+  pollo como principal ingrediente. Fórmula para las necesidades esenciales de
+  cachorros y de perras gestando o  lactando. Ayuda a limpiar los dientes y
+  reducir la placa. Formula antioxidante.
 price: lorem-ipsum
 order: 0
 featured: false
