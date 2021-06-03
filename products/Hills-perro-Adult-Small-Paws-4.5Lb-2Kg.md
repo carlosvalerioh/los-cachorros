@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro Adult <br> Small Paws 4.5 Lb 2 Kg
+title: Hills perro Adult Small Paws 4.5 Lb 2 Kg
 description: >-
   SKU:ASP2 <br> Este alimento seco para perros de razas pequeñas está balanceado
   con precisión y es fácil de digerir, con proteínas de alta calidad y calcio
@@ -9,7 +9,7 @@ price: '380'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Adult Small Paws 4.5 Lb 2 Kg'
+  title: Hills perro Adult Small Paws 4.5 Lb 2 Kg
   description: ''
   robots: []
   extra: []
