@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/cool-apple.png
+default_original_image: images/ultra-paprika.png
 ---
 ## Lorem ipsum
 
