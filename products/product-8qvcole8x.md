@@ -6,7 +6,7 @@ description: >-
   Alta proteína para apoyar el músculo magro durante la pérdida de peso. Fibra
   que ayuda a satisfacer su apetito. Fórmula completa y equilibrada para gatos
   adultos.
-price: lorem-ipsum
+price: '535'
 order: 0
 featured: false
 seo:
