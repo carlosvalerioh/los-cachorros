@@ -29,7 +29,6 @@ sections:
       - products/product-req1mdxse.md
       - products/product-62ejkgzdb.md
       - products/product-a81wfj0jq.md
-      - products/product-n2mmg1xf5.md
       - products/product-6wqiowu47.md
       - products/product-j3plhckai.md
   - type: featured_categories_section
