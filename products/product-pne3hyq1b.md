@@ -11,7 +11,7 @@ price: '440'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Perro  canine NF 6 lb us 2.72 kg'
   description: ''
   robots: []
   extra: []
