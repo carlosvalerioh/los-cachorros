@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Hills perro i-d low fat.png
 ---
 ## Lorem ipsum
 
