@@ -12,7 +12,7 @@ price: '490'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Pro Plan Gato Adulto senior 7+ 3 kg'
   description: ''
   robots: []
   extra: []
