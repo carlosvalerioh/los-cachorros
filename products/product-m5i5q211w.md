@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Pro Plan Gato  NF early care feline 3.62 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
