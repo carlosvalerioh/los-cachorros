@@ -5,7 +5,7 @@ description: >-
   SKU:DD36 <br> Alimento dietético coadyudante en el tratamiento de dermatitis
   alérgica y gastroenteritis de origen dietético. También se puede utilizar como
   una prueba dietética para el diagnostico deferencial de alergias alimentarias
-price: lorem-ipsum
+price: '750'
 order: 0
 featured: false
 seo:
