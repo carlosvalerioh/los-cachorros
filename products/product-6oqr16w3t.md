@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/category-sytu722fo.md
+default_thumbnail_image: images/Full Trust Senior.jpg
 ---
 ## Lorem ipsum
 
