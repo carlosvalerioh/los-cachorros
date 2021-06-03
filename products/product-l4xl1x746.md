@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Hills perro i/d 8.5 Lb 3.9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:ID39 <br> En Hills los nutricionistas y veterinarios han desarrollado
+  nutrición clínica especialmente formulada para ayudar a controlar a los perros
+  con problemas digestivos. Debido a sus ingredientes de fácil digestión,
+  Prescription Diet ® i / d ® puede también ser útil para mascotas que se
+  recuperan de una cirugía gastrointestinal.
 price: lorem-ipsum
 order: 0
 featured: false
