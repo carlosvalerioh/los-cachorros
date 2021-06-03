@@ -6,7 +6,7 @@ description: >-
   cordero super premium . Está especialmente formulado con niveles apropiados de
   proteína, grasa calorías y minerales que ayudan a tu cachorro de raza grande a
   crecer y lograr un óptimo desarrollo.
-price: lorem-ipsum
+price: '980'
 order: 0
 featured: false
 seo:
