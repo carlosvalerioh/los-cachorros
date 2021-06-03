@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Full Trust Adulto 2 KG
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
