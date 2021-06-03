@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/violet-steel.png
 default_original_image: images/square-goose.png
+category: category/category-yez2mpq9b.md
 ---
 ## Lorem ipsum
 
