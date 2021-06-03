@@ -11,7 +11,7 @@ price: '560'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro canine HA 6 lb us 2.72 kg'
+  title: Pro Plan Perro canine HA 6 lb us 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,6 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  canine HA 6 lb us.png
 default_original_image: images/curious-celery.png
-category: category/summer.md
 ---
 ## Lorem ipsum
 
