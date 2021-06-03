@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Puppy Original (lata) 0.82 Lb 0.37 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
