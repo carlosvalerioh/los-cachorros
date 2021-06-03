@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Hills perro Puppy Small Paws 15.5 Lb 7 Kg
-price: lorem-ipsum
+price: '975'
 order: 0
 featured: false
 seo:
