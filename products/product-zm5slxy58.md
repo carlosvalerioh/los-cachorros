@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Full Trust Cachorro Raza Pequeña 8 kg
-description: lorem-ipsum
+description: >-
+  SKU:CASB8 <br> Ingredientes selectos y la mejor tecnología en nutrición para
+  satisfacer los requerimientos energéticos e índices de crecimiento de razas
+  pequeñas durante los primeros meses de vida.
 price: lorem-ipsum
 order: 0
 featured: false
