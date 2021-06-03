@@ -8,7 +8,6 @@ sections:
     title: MÁS VENDIDO
     icon: true
     featured_products:
-      - products/plant7.md
       - products/Pro-Plan-Senior-Razas-Medianas-y-Grandes-Active-Mind-13kg.md
   - type: promotion_section
     section_id: promotion_section
