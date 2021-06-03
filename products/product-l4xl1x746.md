@@ -7,7 +7,7 @@ description: >-
   con problemas digestivos. Debido a sus ingredientes de fácil digestión,
   Prescription Diet ® i / d ® puede también ser útil para mascotas que se
   recuperan de una cirugía gastrointestinal.
-price: lorem-ipsum
+price: '675'
 order: 0
 featured: false
 seo:
