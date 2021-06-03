@@ -1,5 +1,4 @@
 ---
-id: Pro Plan Gato  NF advance care feline 3.62kg
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
