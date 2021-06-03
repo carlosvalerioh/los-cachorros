@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Adult Original 15 Lb 6.8 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
