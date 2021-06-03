@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills perro Senior Vitality 7+ 5.95 Lb 2.7 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
