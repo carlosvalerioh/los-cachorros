@@ -11,7 +11,6 @@ price: '1,650'
 order: 0
 featured: false
 seo:
-id: lorem-ipsum
   title: ''
   description: ''
   robots: []
