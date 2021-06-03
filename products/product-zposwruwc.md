@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills perro Puppy Large Breed.jpg
+default_thumbnail_image: images/diligent-pluto.jpg
 ---
 ## Lorem ipsum
 
