@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Pro Plan Perro  UR canine 2.72 kg
-description: lorem-ipsum
+description: >-
+  SKU:PUR272 <br> BENEFICIOS: Promueve un ambiente urinario desfavorable para el
+  desarrollo de cristales de estruvitas esterils. Ayuda a disolver piedra de
+  estruvita y prevenir la formación de urolitos de oxalato de calcio.
 price: lorem-ipsum
 order: 0
 featured: false
