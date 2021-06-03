@@ -31,6 +31,7 @@ sections:
       - products/product-soytgbz4m.md
       - products/product-1udgeohta.md
       - products/product-hvs0db0bh.md
+      - products/product-pzc84r05g.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
