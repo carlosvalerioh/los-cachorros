@@ -9,7 +9,7 @@ price: '645'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Full Trust Adulto 8 KG'
   description: ''
   robots: []
   extra: []
