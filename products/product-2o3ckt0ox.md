@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/thoughtful-apple.jpg
 default_original_image: images/marvelous-europa.jpg
+category: category/category-sytu722fo.md
 ---
 ## Lorem ipsum
 
