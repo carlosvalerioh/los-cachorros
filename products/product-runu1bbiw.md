@@ -6,7 +6,7 @@ description: >-
   algún mal funcionamiento cardiaco debido a la edad o el peso. Estos problemas
   pueden ocacionar un gran impacto en la calidad de vida de tu peludo, debido a
   esto una buena alimentación es imprescindible.
-price: lorem-ipsum
+price: '325'
 order: 0
 featured: false
 seo:
