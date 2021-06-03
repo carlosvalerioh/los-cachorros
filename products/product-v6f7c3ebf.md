@@ -10,7 +10,7 @@ price: '60'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro Puppy Original (lata) 0.82 Lb 0.37 Kg'
   description: ''
   robots: []
   extra: []
