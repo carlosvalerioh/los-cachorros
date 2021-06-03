@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro Puppy Small Paws 4.5 Lb 2 Kg
+title: Hills perro <br> Puppy Small Paws 4.5 Lb 2 Kg
 description: >-
   SKU:PSP2 <br>  Este alimento premium seco para perros también contiene DHA de
   aceite de pescado de alta calidad para favorecer un sano desarrollo del
