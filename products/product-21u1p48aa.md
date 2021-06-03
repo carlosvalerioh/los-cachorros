@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills perro K-d.jpg
+default_original_image: images/smart-petunia.jpg
 ---
 ## Lorem ipsum
 
