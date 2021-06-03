@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/graceful-hedgehog.jpg
+default_original_image: images/friendly-strawberry.jpg
 ---
 ## Lorem ipsum
 
