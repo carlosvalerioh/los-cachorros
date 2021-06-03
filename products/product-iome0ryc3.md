@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills perro j/d 27.5 Lb 12.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:JD125 <br> Prescription Diet™ Canine j/d™ con Pollo (10 %) es un alimento
+  dietético completo para ayudar al metabolismo de las articulaciones en caso de
+  osteoatritis en perros adultos. Este alimento dietético tiene un alto nivel de
+  EPA, ácidos grasos omega-3 totales y vitamina E.
 price: lorem-ipsum
 order: 0
 featured: false
