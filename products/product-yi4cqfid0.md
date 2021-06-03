@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/cool-petunia.jpg
+default_thumbnail_image: images/rainy-jupiter.jpg
 ---
 ## Lorem ipsum
 
