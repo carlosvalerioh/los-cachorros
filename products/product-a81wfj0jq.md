@@ -1,6 +1,10 @@
 ---
 id: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  SKU:CALB20 <br> FullTrust Cachorro Razas Medianas y Grandes. Ingredientes
+  selectos y la mejor tecnología en nutrición para promover el óptimo desarrollo
+  de articulaciones, huesos y sistema inmune de cachorros de raza mediana a
+  gigante.
 price: lorem-ipsum
 order: 0
 featured: false
