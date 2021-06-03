@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/smart-goose.jpg
+default_original_image: images/amazing-mint.jpg
 ---
 ## Lorem ipsum
 
