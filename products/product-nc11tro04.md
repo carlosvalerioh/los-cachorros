@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto sensitive.jpg
 default_original_image: images/fierce-triceratops.jpg
+category: category/summer.md
 ---
 ## Lorem ipsum
 
