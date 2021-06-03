@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Pro Plan Perro  canine HA 6 lb us.png
 ---
 ## Lorem ipsum
 
