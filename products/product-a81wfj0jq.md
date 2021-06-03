@@ -1,5 +1,4 @@
 ---
-id: Full Trust Cachorro Raza Pequeña 2 kg
 description: >-
   SKU:CASB2 <br> Ingredientes selectos y la mejor tecnología en nutrición para
   satisfacer los requerimientos energéticos e índices de crecimiento de razas
