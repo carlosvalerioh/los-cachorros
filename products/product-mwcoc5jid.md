@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills perro Adult Small  Bites 15 Lb 6.8 Kg
+title: Hills perro <br> Adult Small  Bites 15 Lb 6.8 Kg
 description: >-
   SKU:ASB68 <br> Este alimento premium seco para perros está hecho con pollo
   real como ingrediente #1 para ayudar a desarrollar músculos fuertes y magros y
