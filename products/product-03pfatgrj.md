@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: DIAMOND 40 LBS ADULTO MAINTENANCE  18.144 kgs
+title: DIAMOND 40 LBS ADULTO MAINTENANCE 18.144 kgs
 description: >-
   SKU:MAN40 <br> Fórmula diseñada especialmente para los perros adultos
   moderadamente activos que se puede utilizar durante la mayor parte de la vida
