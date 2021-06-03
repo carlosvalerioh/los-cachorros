@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/smart-iron.jpg
 default_original_image: images/incredible-lime.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
