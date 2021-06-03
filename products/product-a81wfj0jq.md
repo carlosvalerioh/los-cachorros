@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 title: Full Trust Cachorro  20 KG
+default_thumbnail_image: images/splendid-tulip.jpg
 ---
 ## Lorem ipsum
 
