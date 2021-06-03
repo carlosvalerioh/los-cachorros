@@ -17,6 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/remarkable-iron.jpg
 ---
 ## Lorem ipsum
 
