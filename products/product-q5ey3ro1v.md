@@ -9,7 +9,7 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro <br>  Adult Small Paws 15.5 Lb 7 Kg'
+  title: 'Hills perro Adult Small Paws 15.5 Lb 7 Kg'
   description: ''
   robots: []
   extra: []
