@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/robust-iron.jpg
 ---
 ## Lorem ipsum
 
