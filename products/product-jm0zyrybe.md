@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/knowledgeable-octopus.jpg
+default_original_image: images/curious-primrose.jpg
 ---
 ## Lorem ipsum
 
