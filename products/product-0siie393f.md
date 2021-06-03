@@ -6,7 +6,7 @@ description: >-
   nutrición clínica Prescription Diet i/d, especialmente formulada para ayudar a
   aliviar los trastornos digestivos en perros. De hecho, i/d ha comprobado
   clínicamente aliviar los trastornos digestivos en tan sólo 3 días.
-price: lorem-ipsum
+price: '325'
 order: 0
 featured: false
 seo:
