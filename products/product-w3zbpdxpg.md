@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro Puppy Small Bites.jpg
 default_thumbnail_image: images/energetic-aluminum.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
