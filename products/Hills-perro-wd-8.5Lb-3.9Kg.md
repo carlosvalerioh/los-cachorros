@@ -18,6 +18,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/scientific-potato.jpg
+default_original_image: images/majestic-hedgehog.jpg
 ---
 ## Lorem ipsum
 
