@@ -18,8 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/good-sage.jpg
 default_original_image: images/festive-tiger.jpg
-category: category/cactuses.md
----
+category: category/PERROS-DIAMOND.md
 ## Lorem ipsum
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
