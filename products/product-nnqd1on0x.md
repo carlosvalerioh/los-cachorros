@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills gato Adult Multi Benefit 15.5 Lb 7 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GAMB7 <br> El alimento para gatos Hill's Science Diet Adult Multiple
+  Benefit para hogares con varios gatos proporciona nutrición balanceada con
+  precisión para las necesidades únicas de sus gatos. Favorece el peso corporal
+  ideal para gatos con condiciones corporales diferentes.
 price: lorem-ipsum
 order: 0
 featured: false
