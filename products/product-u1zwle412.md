@@ -8,7 +8,7 @@ description: >-
   bajo en calorías está hecho con una mezcla de fibras naturales que permite a
   tu gato deshacerse cómodamente de las bolas de pelo a la vez que reduce la
   formación de nuevas.
-price: lorem-ipsum
+price: '700'
 order: 0
 featured: false
 seo:
