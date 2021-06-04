@@ -5,7 +5,7 @@ description: >-
   SKU:GMU29 <br> Los nutriólogos y veterinarios de Hill's desarrollaron la
   nutrición clínica Prescription Diet Metabolic + Urinary Feline formulada para
   ayudar a manejar el peso y salud urinaria de su gato.
-price: lorem-ipsum
+price: '710'
 order: 0
 featured: false
 seo:
