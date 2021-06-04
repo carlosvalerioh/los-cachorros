@@ -6,12 +6,13 @@ price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: 'Hills perro w/d 3.3 Lb 1.5 Kg'
+  title: Hills perro w/d 3.3 Lb 1.5 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/modern-cedar.jpg
 ---
 ## Lorem ipsum
 
