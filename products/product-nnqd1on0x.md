@@ -6,7 +6,7 @@ description: >-
   Benefit para hogares con varios gatos proporciona nutrición balanceada con
   precisión para las necesidades únicas de sus gatos. Favorece el peso corporal
   ideal para gatos con condiciones corporales diferentes.
-price: lorem-ipsum
+price: '1,275'
 order: 0
 featured: false
 seo:
