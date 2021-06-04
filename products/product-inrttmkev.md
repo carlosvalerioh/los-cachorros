@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Hills gato Adult Hairball Control 7 Lb 3.2 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GAHC32 <br> Si tu gato es propenso a las bolas de pelo, el alimento para
+  gatos Hill's Science Diet Adult Hairball Control puede ayudar. Este alimento
+  seco para gatos está elaborado con una mezcla de fibras naturales que permiten
+  a tu gato deshacerse cómodamente de las bolas de pelo a la vez que reduce la
+  formación de nuevas. 
 price: lorem-ipsum
 order: 0
 featured: false
