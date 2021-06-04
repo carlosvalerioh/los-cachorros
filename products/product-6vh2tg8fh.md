@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato-perro a-d (lata).jpg
 default_original_image: images/interesting-kangaroo.jpg
+category: category/category-miezisoae.md
 ---
 ## Lorem ipsum
 
