@@ -9,7 +9,7 @@ price: '1,235'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Adult Original Light 16 Lb 7.3 Kg'
   description: ''
   robots: []
   extra: []
