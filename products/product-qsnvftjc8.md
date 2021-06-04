@@ -7,7 +7,7 @@ description: >-
   nutricionistas y veterinarios para el cuidado digestivo para resolver la
   diarrea en tan solo 24 horas, promover heces saludables, limitar futuros
   episodios de diarrea, nutrir y activar el microbioma intestinal.
-price: lorem-ipsum
+price: '525'
 order: 0
 featured: false
 seo:
