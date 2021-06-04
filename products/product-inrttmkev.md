@@ -19,6 +19,7 @@ seo:
 layout: product
 default_original_image: images/marvelous-goose.png
 default_thumbnail_image: images/great-kangaroo.png
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
