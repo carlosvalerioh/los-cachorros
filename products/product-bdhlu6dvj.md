@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills gato Adult Original Light.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
