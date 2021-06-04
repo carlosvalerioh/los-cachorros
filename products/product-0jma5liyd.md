@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills gato Kitten Indoor 7 Lb 3.2 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
