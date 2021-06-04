@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Hills gato/perro a/d (lata) 0.34 Lb 0.15 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GADL15 <br> Los perros y gatos pueden sufrir importantes cambios
+  metabólicos cuando se recuperan de una cirugía, enfermedad o lesiones. Los
+  nutriólogos y veterinarios de Hill's desarrollaron Prescription Diet a/d,
+  nutrición clínicamente probada especialmente formulada para perros y gatos
+  recuperándose de un estado debilitante. 
 price: lorem-ipsum
 order: 0
 featured: false
