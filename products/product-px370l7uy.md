@@ -6,7 +6,7 @@ description: >-
   nutrición clínica Prescription Diet® r/d®, formulado especialmente para apoyar
   en el manejo del peso de su gato. De hecho, r/d es nutrición clínicamente
   comprobada para una reducción de peso sana en tan sólo 8 semanas.
-price: lorem-ipsum
+price: '795'
 order: 0
 featured: false
 seo:
