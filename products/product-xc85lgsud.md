@@ -9,7 +9,7 @@ price: '710'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Metabolic + Urinary 6.4 Lb 2.9 Kg'
   description: ''
   robots: []
   extra: []
