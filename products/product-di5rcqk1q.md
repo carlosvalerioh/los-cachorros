@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills gato Kitten Original 3.5 Lb 1.6 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GK16 <br> El alimento para gatos Hill's Science Diet Kitten Healthy
+  Development proporciona nutrición balanceada con precisión y fácil de digerir
+  para gatitos en crecimiento.
 price: lorem-ipsum
 order: 0
 featured: false
