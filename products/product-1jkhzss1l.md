@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/modern-cedar.jpg
+default_original_image: images/friendly-pine.jpg
 ---
 ## Lorem ipsum
 
