@@ -7,7 +7,7 @@ description: >-
   nutriólogos y veterinarios de Hill's desarrollaron Prescription Diet a/d,
   nutrición clínicamente probada especialmente formulada para perros y gatos
   recuperándose de un estado debilitante. 
-price: lorem-ipsum
+price: '50'
 order: 0
 featured: false
 seo:
