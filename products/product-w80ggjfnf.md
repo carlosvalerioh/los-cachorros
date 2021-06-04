@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/scientific-spruce.jpg
+default_thumbnail_image: images/super-spinach.jpg
 default_original_image: images/knowledgeable-pineapple.jpg
 category: category/category-e2l57ul4s.md
 ---
