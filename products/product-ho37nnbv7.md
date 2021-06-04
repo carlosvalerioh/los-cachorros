@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/polite-sunflower.jpg
+default_original_image: images/futuristic-eggplant.jpg
 ---
 ## Lorem ipsum
 
