@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato Metabolic.jpg
 default_thumbnail_image: images/adorable-neptune.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
