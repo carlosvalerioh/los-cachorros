@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato C-D Multicare.jpg
 default_original_image: images/smart-velociraptor.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
