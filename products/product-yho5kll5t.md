@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills gato C/D Multicare 4 Lb 1.8 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GCD18 <br> Alimento formulado para cuidar la salud urinaria de tu gato ya
+  que contiene nutrientes esenciales que mejoran la calidad y función urinarias
+  de tu gato, evita que la orina de tu mascota se cristalice.
 price: lorem-ipsum
 order: 0
 featured: false
