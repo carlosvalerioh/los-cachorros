@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato Metabolic + Urinary.jpg
 default_original_image: images/wonderful-lavender.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
