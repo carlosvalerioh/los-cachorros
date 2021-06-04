@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/majestic-tortoise.jpg
+default_original_image: images/fabulous-rabbit.jpg
 ---
 ## Lorem ipsum
 
