@@ -2,7 +2,7 @@
 layout: category
 order: 0
 seo:
-  title: Plants from Europe
+  title: GATOS - NUPEC
   description: This is the store page
   extra:
     - name: 'og:type'
