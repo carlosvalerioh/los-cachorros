@@ -1,7 +1,7 @@
 ---
 order: 0
 seo:
-  title: ''
+  title: 'PERROS - FULL TRUST'
   description: ''
   robots: []
   extra: []
