@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-mstdyun0a.md
 default_thumbnail_image: images/splendid-rabbit.jpg
+default_original_image: images/beige-petunia.jpg
 ---
 ## Lorem ipsum
 
