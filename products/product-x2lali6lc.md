@@ -8,7 +8,7 @@ description: >-
   reducción de la formación de cálculos de cistina, la reducción del cobre
   presente en el hígado para ayudar a la función renal en caso de insuficiencia
   renal crónica. 
-price: lorem-ipsum
+price: '640'
 order: 0
 featured: false
 seo:
