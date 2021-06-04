@@ -6,7 +6,7 @@ price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro w/d 8.5 Lb 3.9 Kg'
   description: ''
   robots: []
   extra: []
