@@ -2,7 +2,7 @@
 layout: category
 order: 2
 seo:
-  title: Big plants
+  title: PERROS - PRO PLAN
   description: This is the store page
   extra:
     - name: 'og:type'
