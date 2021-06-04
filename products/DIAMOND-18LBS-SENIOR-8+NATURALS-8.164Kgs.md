@@ -10,7 +10,7 @@ price: '790'
 order: 0
 featured: false
 seo:
-  title: 'DIAMOND 18 LBS. SENIOR  8+ NATURALS 8.164 Kgs'
+  title: DIAMOND 18 LBS. SENIOR  8+ NATURALS 8.164 Kgs
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND SENIOR  8+ NATURALS.jpg
 default_original_image: images/pink-tortoise.jpg
-category: category/cactuses.md
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
