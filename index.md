@@ -40,6 +40,7 @@ sections:
       - products/product-px370l7uy.md
       - products/product-xc85lgsud.md
       - products/product-f9te3klu1.md
+      - products/product-j5hwzujb9.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
