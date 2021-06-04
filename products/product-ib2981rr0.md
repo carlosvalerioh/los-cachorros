@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills perro w-d.jpg
+default_thumbnail_image: images/panoramic-pine.jpg
 ---
 ## Lorem ipsum
 
