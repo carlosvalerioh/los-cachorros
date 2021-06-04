@@ -14,7 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato r-d.jpg
 default_original_image: images/clever-strawberry.jpg
-category: category/category-nejp2tt4j.md
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
