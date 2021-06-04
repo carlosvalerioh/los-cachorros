@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/ultra-lime.jpg
+default_thumbnail_image: images/ultra-mustard.jpg
 ---
 ## Lorem ipsum
 
