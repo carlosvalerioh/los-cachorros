@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills gato-perro a-d (lata).jpg
+default_original_image: images/interesting-kangaroo.jpg
 ---
 ## Lorem ipsum
 
