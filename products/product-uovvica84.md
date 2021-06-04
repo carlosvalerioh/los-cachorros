@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills gato C/D Multicare 8.5 Lb 3.9 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
