@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro z-d ultra.jpg
 default_thumbnail_image: images/best-whale.jpg
+price: '750'
 ---
 ## Lorem ipsum
 
