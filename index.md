@@ -32,6 +32,7 @@ sections:
       - products/product-jvo2tdrxt.md
       - products/product-1jkhzss1l.md
       - products/product-w80ggjfnf.md
+      - products/product-jb6p1q3xo.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
