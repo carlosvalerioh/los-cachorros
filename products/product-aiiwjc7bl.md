@@ -5,7 +5,7 @@ description: >-
   SKU:GK32 <br> El alimento para gatos Hill's Science Diet Kitten Healthy
   Development proporciona nutrición balanceada con precisión y fácil de digerir
   para gatitos en crecimiento.
-price: lorem-ipsum
+price: '675'
 order: 0
 featured: false
 seo:
