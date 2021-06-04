@@ -6,7 +6,7 @@ description: >-
   dar apoyo a las sensibilidades cutáneas y al alimento de tu gato. De hecho,
   z/d está clínicamente comprobado para ayudar a evitar las reacciones adversas
   al alimento.
-price: lorem-ipsum
+price: '525'
 order: 0
 featured: false
 seo:
