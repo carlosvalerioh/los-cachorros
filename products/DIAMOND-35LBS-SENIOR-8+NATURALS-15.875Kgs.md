@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/terrific-octopus.jpg
 default_original_image: images/pink-daffodil.jpg
-category: category/cactuses.md
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
