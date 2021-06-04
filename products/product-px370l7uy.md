@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills gato r-d.jpg
+default_original_image: images/clever-strawberry.jpg
 ---
 ## Lorem ipsum
 
