@@ -9,7 +9,7 @@ price: '415'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Adult Indoor 3.5 Lb 1.6 Kg'
   description: ''
   robots: []
   extra: []
