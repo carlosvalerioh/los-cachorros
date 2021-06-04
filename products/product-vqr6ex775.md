@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/happy-spruce.jpg
 default_thumbnail_image: images/superb-cabbage.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
