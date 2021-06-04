@@ -20,6 +20,7 @@ seo:
 layout: product
 category: category/category-e2l57ul4s.md
 default_thumbnail_image: images/Hills perro u-d.jpg
+default_original_image: images/square-thyme.jpg
 ---
 ## Lorem ipsum
 
