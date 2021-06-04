@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills gato/perro a/d (lata)
+title: Hills gato/perro a/d (lata) 0.34 Lb 0.15 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
