@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills ato Metabolic 4 Lb 1.8 Kg
+title: Hills Gato Metabolic 4 Lb 1.8 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
