@@ -5,7 +5,7 @@ description: >-
   SKU:GWD39 <br> Hill's Prescription Diet w/d, esta especialmente formulado para
   apoyar el manejo de peso de tu gato. De hecho, w/d está clínicamente probado
   para condiciones que responden a la fibra.
-price: lorem-ipsum
+price: '795'
 order: 0
 featured: false
 seo:
