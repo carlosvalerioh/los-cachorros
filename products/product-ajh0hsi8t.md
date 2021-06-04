@@ -10,7 +10,7 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato C/D Multicare stress 4 Lb 1.8 Kg'
   description: ''
   robots: []
   extra: []
