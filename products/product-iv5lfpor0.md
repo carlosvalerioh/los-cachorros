@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills gato Adult Original.jpg
+default_thumbnail_image: images/maroon-comet.jpg
 ---
 ## Lorem ipsum
 
