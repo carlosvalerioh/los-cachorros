@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: Hills gato Gi Biome 4 Lb 1.8 Kg
 price: lorem-ipsum
 order: 0
 featured: false
