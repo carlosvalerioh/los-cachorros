@@ -5,7 +5,7 @@ description: >-
   SKU:GAI16 <br> El alimento para gatos Hill's Science Diet Adult Indoor
   proporciona nutrición balanceada con precisión diseñada para gatos con un
   estilo de vida de interiores.
-price: lorem-ipsum
+price: '415'
 order: 0
 featured: false
 seo:
