@@ -7,7 +7,7 @@ description: >-
   a las sensibilidades cutáneas y al alimento de su perro. De hecho, z/d está
   clínicamente comprobado para ayudar a evitar las reacciones adversas al
   alimento.
-price: lorem-ipsum
+price: '1,350'
 order: 0
 featured: false
 seo:
