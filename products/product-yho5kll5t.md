@@ -5,7 +5,7 @@ description: >-
   SKU:GCD18 <br> Alimento formulado para cuidar la salud urinaria de tu gato ya
   que contiene nutrientes esenciales que mejoran la calidad y función urinarias
   de tu gato, evita que la orina de tu mascota se cristalice.
-price: lorem-ipsum
+price: '430'
 order: 0
 featured: false
 seo:
