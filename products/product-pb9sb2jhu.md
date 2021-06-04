@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills gato z/d 4 Lb 1.8 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GZD18 <br> Hill's Prescription Diet z/d está especialmente formulado para
+  dar apoyo a las sensibilidades cutáneas y al alimento de tu gato. De hecho,
+  z/d está clínicamente comprobado para ayudar a evitar las reacciones adversas
+  al alimento.
 price: lorem-ipsum
 order: 0
 featured: false
