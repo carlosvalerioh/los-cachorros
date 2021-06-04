@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills gato Adult Hairball Control.png
+default_thumbnail_image: images/clever-mustard.png
 ---
 ## Lorem ipsum
 
