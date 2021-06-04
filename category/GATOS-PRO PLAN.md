@@ -28,4 +28,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
----
+title: GATOS - PRO PLAN
+-
