@@ -5,7 +5,7 @@ description: >-
   SKU:GID18 <br> Los nutriólogos y veterinarios de Hill’s desarrollaron
   Prescription Diet i/d, nutrición especialmente formulada para ayudar a mejorar
   la digestión y calidad de las heces en gatos.
-price: lorem-ipsum
+price: '475'
 order: 0
 featured: false
 seo:
