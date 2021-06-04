@@ -11,7 +11,7 @@ price: '285'
 order: 0
 featured: false
 seo:
-  title: 'Cachorro excellent 4 kg'
+  title: Cachorro excellent 4 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/square-neptune.jpg
 default_original_image: images/cool-planet.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO PLAN.md
 ---
 ## Lorem ipsum
 
