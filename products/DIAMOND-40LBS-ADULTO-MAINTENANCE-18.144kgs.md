@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND ADULTO MAINTENANCE.jpg
 default_original_image: images/clever-jupiter.jpg
-category: category/cactuses.md
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
