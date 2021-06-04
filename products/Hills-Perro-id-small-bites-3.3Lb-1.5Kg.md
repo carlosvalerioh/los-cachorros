@@ -10,7 +10,7 @@ price: '325'
 order: 0
 featured: false
 seo:
-  title: 'Hills Perro i/d small bites 3.3 Lb 1.5 Kg'
+  title: Hills Perro i/d small bites 3.3 Lb 1.5 Kg
   description: ''
   robots: []
   extra: []
@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro i-d small bites.jpg
 default_thumbnail_image: images/marvelous-neptune.jpg
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
