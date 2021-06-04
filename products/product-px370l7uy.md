@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills gato r/d 8.5 Lb 3.9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GRD39 <br> Los nutriólogos y veterinarios de Hill’s desarrollaron la
+  nutrición clínica Prescription Diet® r/d®, formulado especialmente para apoyar
+  en el manejo del peso de su gato. De hecho, r/d es nutrición clínicamente
+  comprobada para una reducción de peso sana en tan sólo 8 semanas.
 price: lorem-ipsum
 order: 0
 featured: false
