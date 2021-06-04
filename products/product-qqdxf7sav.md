@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills gato w/d Multibenefit 8.5 Lb 3.9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GWD39 <br> Hill's Prescription Diet w/d, esta especialmente formulado para
+  apoyar el manejo de peso de tu gato. De hecho, w/d está clínicamente probado
+  para condiciones que responden a la fibra.
 price: lorem-ipsum
 order: 0
 featured: false
