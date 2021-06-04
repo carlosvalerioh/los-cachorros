@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills gato Adult Indoor 3.5 Lb 1.6 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GAI16 <br> El alimento para gatos Hill's Science Diet Adult Indoor
+  proporciona nutrición balanceada con precisión diseñada para gatos con un
+  estilo de vida de interiores.
 price: lorem-ipsum
 order: 0
 featured: false
