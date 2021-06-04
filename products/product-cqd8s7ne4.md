@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills gato Adult Original 7 Lb 3.2 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GAO32 <br> Proporciona a tu gato nutrición confiable y balanceada con el
+  alimento para gatos Hill's Science Diet Optimal Care. Un alimento premium seco
+  para gatos que está hecho con pollo verdadero como ingrediente #1, una
+  proteína de alta calidad que ayuda a conservar los músculos magros. 
 price: lorem-ipsum
 order: 0
 featured: false
