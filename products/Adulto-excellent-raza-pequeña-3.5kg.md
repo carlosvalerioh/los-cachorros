@@ -11,7 +11,7 @@ price: '285'
 order: 0
 featured: false
 seo:
-  title: 'Adulto excellent raza pequeña 3.5 kg'
+  title: Adulto excellent raza pequeña 3.5 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Excellent adulto raza pequeña.jpg
 default_original_image: images/diligent-tulip.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO PLAN.md
 ---
 ## Lorem ipsum
 
