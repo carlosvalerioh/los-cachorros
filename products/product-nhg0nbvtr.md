@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills gato Metabolic 17.6 Lb 8 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
