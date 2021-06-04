@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/category-mstdyun0a.md
+default_thumbnail_image: images/splendid-rabbit.jpg
 ---
 ## Lorem ipsum
 
