@@ -30,7 +30,6 @@ sections:
       - products/product-62ejkgzdb.md
       - products/product-a81wfj0jq.md
       - products/product-jvo2tdrxt.md
-      - products/product-s95f5fcti.md
       - products/product-0jma5liyd.md
       - products/product-dw12v0bay.md
       - products/product-nhg0nbvtr.md
