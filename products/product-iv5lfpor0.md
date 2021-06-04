@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills gato Adult Original 4 Lb 1.8 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GAO18 <br> Proporciona a tu gato nutrición confiable y balanceada con el
+  alimento para gatos Hill's Science Diet Optimal Care. Un alimento premium seco
+  para gatos que está hecho con pollo verdadero como ingrediente #1, una
+  proteína de alta calidad que ayuda a conservar los músculos magros. 
 price: lorem-ipsum
 order: 0
 featured: false
