@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato Adult Original Light.jpg
 category: category/category-mstdyun0a.md
+default_thumbnail_image: images/energetic-sloth.jpg
 ---
 ## Lorem ipsum
 
