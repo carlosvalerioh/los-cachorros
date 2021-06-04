@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills gato Metabolic + Urinary 6.4 Lb 2.9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GMU29 <br> Los nutriólogos y veterinarios de Hill's desarrollaron la
+  nutrición clínica Prescription Diet Metabolic + Urinary Feline formulada para
+  ayudar a manejar el peso y salud urinaria de su gato.
 price: lorem-ipsum
 order: 0
 featured: false
