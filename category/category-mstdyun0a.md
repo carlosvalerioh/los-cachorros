@@ -2,7 +2,7 @@
 title: GATOS - HILLS
 order: 0
 seo:
-  title: ''
+  title: 'GATOS - HILLS'
   description: ''
   robots: []
   extra: []
