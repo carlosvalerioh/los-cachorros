@@ -11,7 +11,7 @@ price: '50'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato/perro a/d (lata) 0.34 Lb 0.15 Kg'
+  title: Hills gato/perro a/d (lata) 0.34 Lb 0.15 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato-perro a-d (lata).jpg
 default_original_image: images/interesting-kangaroo.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
