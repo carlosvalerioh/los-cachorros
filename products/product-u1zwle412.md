@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Hills gato Adult Hairball Control  Light 7 Lb 3.2 Kg
+title: Hills gato Adult Hairball Control Light 7 Lb 3.2 Kg
 description: >-
   SKU:GAHCL32 <br> Si tu gato es propenso a las bolas de pelo y también tiende a
   subir de peso, el alimento para gato Hill's Science Diet Adult Hairball
