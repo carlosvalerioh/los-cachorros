@@ -5,7 +5,7 @@ description: >-
   SKU:GAOL32 <br> Ayuda a tu gato a mantener un peso sano con el alimento seco
   para gatos Hill's Science Diet Adult Light Receta de Pollo. Este alimento seco
   para gatos para el control de peso tiene 25% menos calorías. 
-price: lorem-ipsum
+price: '975'
 order: 0
 featured: false
 seo:
