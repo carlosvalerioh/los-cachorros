@@ -10,7 +10,7 @@ price: '525'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato z/d 4 Lb 1.8 Kg'
   description: ''
   robots: []
   extra: []
