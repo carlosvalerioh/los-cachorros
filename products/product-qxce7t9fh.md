@@ -6,7 +6,7 @@ description: >-
   formulado para apoyar la función de los riñones de tu gato y ayudar a
   conservar la masa muscular. De hecho, la nutrición de k/d está clínicamente
   comprobada para mejorar y prolongar la calidad de vida. 
-price: lorem-ipsum
+price: '795'
 order: 0
 featured: false
 seo:
