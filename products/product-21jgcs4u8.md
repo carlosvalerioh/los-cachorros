@@ -17,6 +17,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato i-d.png
 default_thumbnail_image: images/smart-chili.png
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
