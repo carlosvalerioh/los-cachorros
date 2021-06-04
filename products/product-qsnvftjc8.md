@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: Hills gato Gi Biome 4 Lb 1.8 Kg
+description: >-
+  SKU:GGIB18 <br> Prescription Diet® Bioma gastrointestinal con ActivBiome una
+  nueva tecnología de ingredientes, está especialmente formulado por
+  nutricionistas y veterinarios para el cuidado digestivo para resolver la
+  diarrea en tan solo 24 horas, promover heces saludables, limitar futuros
+  episodios de diarrea, nutrir y activar el microbioma intestinal.
 price: lorem-ipsum
 order: 0
 featured: false
