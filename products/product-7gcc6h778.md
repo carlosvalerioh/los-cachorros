@@ -14,13 +14,10 @@ default_thumbnail_image: images/122215-1.jpg
 default_original_image: images/clever-birch.jpg
 title: Hills gato Kitten Indoor 3.5 Lb 1.6 Kg
 description: >-
-  SKU:PA11RP3  <br> Pro Plan Optiage prolonga la vitalidad de tu perro mayor de
-  7 años al brindarle una nutrición avanzada que le ayudará a retrasar los
-  signos de envejecimiento manteniéndolo sano y activo. Croquetas con una
-  proporción equilibrada de proteína y grasa para mantener la masa muscular
-  magra, una combinación de antioxidantes naturales y vitaminas E y C. Conoce el
-  plan de nutrición de última generación que está revolucionando la forma de
-  alimentar y proteger a los perros.
+  SKU:GKI16 <br> Tu gatito de interiores tiene un estilo de vida muy diferente
+  al de un gato de exteriores. El alimento seco para gatos Hill's Science Diet
+  Kitten Indoor Cat Receta de Pollo, aporta una nutrición precisa para los
+  gatitos de interiores a medida que crecen. 
 category: category/bigplants.md
 ---
 ## Lorem ipsum
