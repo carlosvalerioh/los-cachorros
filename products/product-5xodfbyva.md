@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/diligent-elm.jpg
 default_original_image: images/rainy-mango.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
