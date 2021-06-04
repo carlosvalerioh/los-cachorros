@@ -11,7 +11,7 @@ price: '1,275'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Adult Hairball Control 15.5 Lb 7 Kg'
   description: ''
   robots: []
   extra: []
