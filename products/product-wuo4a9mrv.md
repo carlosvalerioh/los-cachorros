@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato Adult Hairball Control.png
 default_thumbnail_image: images/clever-mustard.png
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
