@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills perro z-d ultra.jpg
+default_thumbnail_image: images/best-whale.jpg
 ---
 ## Lorem ipsum
 
