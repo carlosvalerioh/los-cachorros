@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/ultra-lime.jpg
 default_thumbnail_image: images/ultra-mustard.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
