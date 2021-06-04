@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato Kitten Indoor.png
 default_thumbnail_image: images/oceanic-rosemary.png
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
