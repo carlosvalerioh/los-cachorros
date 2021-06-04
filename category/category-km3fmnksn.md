@@ -7,5 +7,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: category
-title: PERRO - Roya CANIN
+title: PERRO - ROYAL CANIN
 ---
