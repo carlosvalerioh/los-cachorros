@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills gato Adult Hairball Control 3.5 Lb 1.6 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
