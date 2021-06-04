@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills gato C-D Multicare.jpg
+default_original_image: images/smart-velociraptor.jpg
 ---
 ## Lorem ipsum
 
