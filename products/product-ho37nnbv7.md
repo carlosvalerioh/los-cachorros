@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/polite-sunflower.jpg
 default_original_image: images/futuristic-eggplant.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
