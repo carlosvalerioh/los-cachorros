@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/splendid-aspen.png
+default_thumbnail_image: images/groovy-crane.png
 ---
 ## Lorem ipsum
 
