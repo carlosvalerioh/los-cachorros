@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/category-mstdyun0a.md
+default_original_image: images/rainy-hickory.jpg
 ---
 ## Lorem ipsum
 
