@@ -6,7 +6,7 @@ description: >-
   nutrición clínica Prescription Diet c/d Multicare Feline Stress, especialmente
   formulada para favorecer la salud urinaria de su gato a la vez que maneja el
   estrés.
-price: lorem-ipsum
+price: '430'
 order: 0
 featured: false
 seo:
