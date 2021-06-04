@@ -6,7 +6,7 @@ price: '700'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Adult Multi Benefit 7 Lb 3.2 Kg'
   description: ''
   robots: []
   extra: []
