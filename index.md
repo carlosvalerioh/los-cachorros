@@ -32,7 +32,6 @@ sections:
       - products/product-jvo2tdrxt.md
       - products/product-bdhlu6dvj.md
       - products/product-uovvica84.md
-      - products/product-2bcosl9iu.md
       - products/product-yho5kll5t.md
       - products/product-qsnvftjc8.md
       - products/product-ajh0hsi8t.md
