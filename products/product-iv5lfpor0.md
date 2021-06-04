@@ -10,7 +10,7 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Adult Original 4 Lb 1.8 Kg'
   description: ''
   robots: []
   extra: []
