@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Hills gato Metabolic + Urinary 6.4 Lb 2.9 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
