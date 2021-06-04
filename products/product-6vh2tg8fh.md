@@ -11,7 +11,7 @@ price: '50'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato/perro a/d (lata) 0.34 Lb 0.15 Kg'
   description: ''
   robots: []
   extra: []
