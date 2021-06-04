@@ -6,7 +6,7 @@ description: >-
   alimento para gatos Hill's Science Diet Optimal Care. Un alimento premium seco
   para gatos que está hecho con pollo verdadero como ingrediente #1, una
   proteína de alta calidad que ayuda a conservar los músculos magros. 
-price: lorem-ipsum
+price: '675'
 order: 0
 featured: false
 seo:
