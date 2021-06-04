@@ -43,6 +43,7 @@ sections:
       - products/product-o3wwdv164.md
       - products/product-261hewagd.md
       - products/product-zqts2j33a.md
+      - products/product-owdg05f6k.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
