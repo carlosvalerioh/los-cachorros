@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/scientific-spruce.jpg
 default_original_image: images/knowledgeable-pineapple.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
