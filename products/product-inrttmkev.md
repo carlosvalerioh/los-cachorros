@@ -7,7 +7,7 @@ description: >-
   seco para gatos está elaborado con una mezcla de fibras naturales que permiten
   a tu gato deshacerse cómodamente de las bolas de pelo a la vez que reduce la
   formación de nuevas. 
-price: lorem-ipsum
+price: '700'
 order: 0
 featured: false
 seo:
