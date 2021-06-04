@@ -17,6 +17,7 @@ seo:
 layout: product
 category: category/category-mstdyun0a.md
 default_original_image: images/Hills gato s-d.jpg
+default_thumbnail_image: images/happy-daffodil.jpg
 ---
 ## Lorem ipsum
 
