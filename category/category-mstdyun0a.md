@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: GATOS - HILLS
 order: 0
 seo:
   title: ''
