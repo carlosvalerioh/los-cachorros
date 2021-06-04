@@ -11,7 +11,7 @@ price: '1,350'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro z/d ultra 17.6 Lb 8 Kg'
   description: ''
   robots: []
   extra: []
