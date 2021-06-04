@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: loreipsumm-
 order: 0
 seo:
   title: ''
