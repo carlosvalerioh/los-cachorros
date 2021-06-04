@@ -9,7 +9,7 @@ price: '375'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Kitten Original 3.5 Lb 1.6 Kg'
   description: ''
   robots: []
   extra: []
