@@ -6,7 +6,7 @@ description: >-
   cambios en el alimento de su perro. Prescription Diet w/d está especialmente
   formulada para apoyar en el manejo del peso de tu perro. De hecho, w/d es
   nutrición clínicamente probada para condiciones que responden a la fibra.
-price: lorem-ipsum
+price: '1,160'
 order: 0
 featured: false
 seo:
