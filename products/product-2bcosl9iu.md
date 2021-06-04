@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-mstdyun0a.md
 default_original_image: images/perpetual-mango.jpg
+default_thumbnail_image: images/pink-neptune.jpg
 ---
 ## Lorem ipsum
 
