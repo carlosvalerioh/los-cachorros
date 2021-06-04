@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills perro z/d ultra 8 Lb 3.6 Kg'
   description: ''
   robots: []
   extra: []
