@@ -5,7 +5,7 @@ description: >-
   SKU:GSD18 <br> Las piedras en la vejiga son colecciones de cristales minerales
   que se combinan en el tracto urinario, Pueden causar molestias y conducir a
   problemas más serios que requieren los cuidados de un veterinario.
-price: lorem-ipsum
+price: '430'
 order: 0
 featured: false
 seo:
