@@ -10,7 +10,7 @@ price: '1,500'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Hills gato Metabolic 17.6 Lb 8 Kg'
   description: ''
   robots: []
   extra: []
