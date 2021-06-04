@@ -20,6 +20,7 @@ seo:
 layout: product
 category: category/category-mstdyun0a.md
 default_thumbnail_image: images/Hills gato Adult Hairball Control  Light.jpg
+default_original_image: images/square-panda.jpg
 ---
 ## Lorem ipsum
 
