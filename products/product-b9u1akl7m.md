@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills gato Kitten Indoor.png
+default_thumbnail_image: images/oceanic-rosemary.png
 ---
 ## Lorem ipsum
 
