@@ -2,7 +2,7 @@
 layout: category
 order: 2
 seo:
-  title: Cactuses
+  title: PERROS - DIAMOND
   description: This is the store page
   extra:
     - name: 'og:type'
