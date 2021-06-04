@@ -8,7 +8,7 @@ description: >-
   urato, la reducción de la formación de cálculos de cistina, la reducción del
   cobre presente en el hígado para ayudar a la función renal en caso de
   insuficiencia renal crónica.
-price: '1,160'
+price: '1,760'
 order: 0
 featured: false
 seo:
