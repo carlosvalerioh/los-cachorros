@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/nervous-robin.jpg
 default_original_image: images/marvelous-celery.jpg
-category: category/cactuses.md
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
