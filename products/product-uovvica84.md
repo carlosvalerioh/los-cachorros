@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-mstdyun0a.md
 default_original_image: images/square-chestnut.jpg
+default_thumbnail_image: images/groovy-pineapple.jpg
 ---
 ## Lorem ipsum
 
