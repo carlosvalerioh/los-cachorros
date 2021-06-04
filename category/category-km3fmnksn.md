@@ -1,5 +1,4 @@
 ---
-title: loreipsumm-
 order: 0
 seo:
   title: ''
