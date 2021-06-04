@@ -19,6 +19,7 @@ seo:
 layout: product
 default_original_image: images/smart-tortoise.jpg
 default_thumbnail_image: images/panoramic-turtle.jpg
+category: category/category-e2l57ul4s.md
 ---
 ## Lorem ipsum
 
