@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Hills perro z/d ultra 8 Lb 3.6 Kg
-description: lorem-ipsum
+description: >-
+  SKU:ZD36 <br> Los nutriólogos y veterinarios de Hill’s desarrollaron la
+  nutrición clínica Prescription Diet z/d especialmente formulada para dar apoyo
+  a las sensibilidades cutáneas y al alimento de su perro. De hecho, z/d está
+  clínicamente comprobado para ayudar a evitar las reacciones adversas al
+  alimento.
 price: lorem-ipsum
 order: 0
 featured: false
