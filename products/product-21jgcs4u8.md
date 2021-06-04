@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Hills gato i/d 4 Lb 1.8 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GID18 <br> Los nutriólogos y veterinarios de Hill’s desarrollaron
+  Prescription Diet i/d, nutrición especialmente formulada para ayudar a mejorar
+  la digestión y calidad de las heces en gatos.
 price: lorem-ipsum
 order: 0
 featured: false
