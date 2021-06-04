@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/splendid-aspen.png
 default_thumbnail_image: images/groovy-crane.png
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
