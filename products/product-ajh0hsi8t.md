@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Hills gato C/D Multicare stress 4 Lb 1.8 Kg
-description: lorem-ipsum
+description: >-
+  SKU:GCDS18 <br> Los nutriólogos y veterinarios de Hill’s desarrollaron la
+  nutrición clínica Prescription Diet c/d Multicare Feline Stress, especialmente
+  formulada para favorecer la salud urinaria de su gato a la vez que maneja el
+  estrés.
 price: lorem-ipsum
 order: 0
 featured: false
