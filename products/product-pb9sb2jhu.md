@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/Hills gato z-d.jpg
 ---
 ## Lorem ipsum
 
