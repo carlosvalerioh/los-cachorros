@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato z-d.jpg
 default_thumbnail_image: images/oval-europa.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
