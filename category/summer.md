@@ -3,7 +3,7 @@ title: GATOS - PRO PLAN
 layout: category
 order: 0
 seo:
-  title: Summer plants
+  title: GATOS - PRO PLAN
   description: This is the store page
   extra:
     - name: 'og:type'
