@@ -11,7 +11,7 @@ price: '665'
 order: 0
 featured: false
 seo:
-  title: 'DIAMOND 20 LBS MAINTENANCE CAT 9.72 Kgs'
+  title: DIAMOND 20 LBS MAINTENANCE CAT 9.72 Kgs
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND MAINTENANCE CAT.png
 default_original_image: images/ultra-panda.png
-category: category/category-yez2mpq9b.md
+category: category/GATOS-DIAMOND.md
 ---
 ## Lorem ipsum
 
