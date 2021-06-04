@@ -17,6 +17,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato w-d Multibenefit.jpg
 default_thumbnail_image: images/marvelous-primrose.jpg
+category: category/category-mstdyun0a.md
 ---
 ## Lorem ipsum
 
