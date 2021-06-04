@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+category: category/category-luy2ugzcq.md
 ---
 ## Lorem ipsum
 
