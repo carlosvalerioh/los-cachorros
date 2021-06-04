@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Hills gato Kitten Original.png
+default_original_image: images/friendly-birch.png
 ---
 ## Lorem ipsum
 
