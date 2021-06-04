@@ -17,6 +17,7 @@ seo:
 layout: product
 category: category/category-mstdyun0a.md
 default_thumbnail_image: images/Hills gato Adult Indoor.jpg
+default_original_image: images/panoramic-thyme.jpg
 ---
 ## Lorem ipsum
 
