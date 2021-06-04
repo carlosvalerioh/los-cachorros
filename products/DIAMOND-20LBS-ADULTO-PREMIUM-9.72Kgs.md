@@ -10,7 +10,7 @@ price: '715'
 order: 0
 featured: false
 seo:
-  title: 'DIAMOND 20 LBS ADULTO PREMIUM 9.72 Kgs'
+  title: DIAMOND 20 LBS ADULTO PREMIUM 9.72 Kgs
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND ADULTO PREMIUM.jpg
 default_original_image: images/pleasant-aluminum.jpg
-category: category/cactuses.md
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
