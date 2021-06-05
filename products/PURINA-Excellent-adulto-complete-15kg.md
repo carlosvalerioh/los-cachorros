@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'PURINA Excellent adulto complete 15 kg'
+  title: PURINA Excellent adulto complete 15 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ layout: product
 price: '830'
 default_thumbnail_image: images/Excellent adulto complete 15 kg.jpg
 default_original_image: images/superb-anemone.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
