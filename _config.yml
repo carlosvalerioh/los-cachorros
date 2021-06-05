@@ -42,4 +42,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
 domain: 'https://modern-sycamore-7fe64.netlify.app'
-footer_text: Power By servivomxdigital
+footer_text: Power by servivomxdigital
