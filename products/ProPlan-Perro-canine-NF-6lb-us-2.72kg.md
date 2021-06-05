@@ -11,7 +11,7 @@ price: '440'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro  canine NF 6 lb us 2.72 kg'
+  title: Pro Plan Perro  canine NF 6 lb us 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  canine NF 6 lb us.jpg
 default_original_image: images/royal-sunflower.jpg
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
