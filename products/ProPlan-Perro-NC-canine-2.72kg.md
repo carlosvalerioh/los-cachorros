@@ -10,7 +10,7 @@ price: '520'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro NC canine 2.72 kg'
+  title: Pro Plan Perro NC canine 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/modern-sloth.png
 default_original_image: images/magnificent-sage.png
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
