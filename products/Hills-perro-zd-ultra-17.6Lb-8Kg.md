@@ -11,7 +11,7 @@ price: '1,350'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro z/d ultra 17.6 Lb 8 Kg'
+  title: Hills perro z/d ultra 17.6 Lb 8 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_original_image: images/smart-tortoise.jpg
 default_thumbnail_image: images/panoramic-turtle.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
