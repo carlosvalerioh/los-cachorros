@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/enthusiastic-pluto.jpg
 default_thumbnail_image: images/fabulous-aspen.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
