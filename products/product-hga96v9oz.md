@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec Weight Control.jpg
 default_original_image: images/violet-olive.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
