@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'PURINA Excellent adulto complete 20 kg'
+  title: PURINA Excellent adulto complete 20 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ layout: product
 price: '1,055'
 default_thumbnail_image: images/perpetual-kale.jpg
 default_original_image: images/robust-turtle.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
