@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gato Adulto  7.5 kg'
+  title: Pro Plan Gato Adulto  7.5 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ layout: product
 price: '1,075'
 default_thumbnail_image: images/elite-paprika.jpg
 default_original_image: images/oceanic-petunia.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
