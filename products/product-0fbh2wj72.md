@@ -18,6 +18,7 @@ layout: product
 default_thumbnail_image: images/enthusiastic-sage.jpg
 default_original_image: images/majestic-mars.jpg
 category: category/PERROS-NUPEC.md
+price: '242'
 ---
 ## Lorem ipsum
 
