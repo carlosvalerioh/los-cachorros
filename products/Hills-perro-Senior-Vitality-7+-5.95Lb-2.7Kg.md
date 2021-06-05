@@ -9,7 +9,7 @@ price: '710'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Senior Vitality 7+ 5.95 Lb 2.7 Kg'
+  title: Hills perro Senior Vitality 7+ 5.95 Lb 2.7 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/energetic-crane.jpg
 default_original_image: images/great-triceratops.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
