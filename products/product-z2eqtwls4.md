@@ -5,7 +5,7 @@ description: >-
   SKU:OO19RP <br> Alimento premium Nupec 7 años en adelante Previene dolor
   articular Nupec Senior Razas Pequeñas Alimento balanceado para perros de raza
   pequeña, de 7 años en adelate.
-price: lorem-ipsum
+price: '252'
 order: 0
 featured: false
 seo:
