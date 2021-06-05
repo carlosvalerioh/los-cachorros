@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: GANADOR - MININO
 order: 0
 seo:
   title: ''
