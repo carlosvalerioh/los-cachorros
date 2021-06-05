@@ -11,7 +11,7 @@ price: '1,035'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro canine NF 18 lb us 8.16 kg'
+  title: Pro Plan Perro canine NF 18 lb us 8.16 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/scientific-dolphin.jpg
 default_original_image: images/royal-coriander.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
