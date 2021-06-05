@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/scientific-tortoise.webp
+default_thumbnail_image: images/mighty-comet.jpg
 ---
 ## Lorem ipsum
 
