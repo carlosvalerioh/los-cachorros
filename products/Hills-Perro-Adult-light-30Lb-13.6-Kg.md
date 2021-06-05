@@ -11,13 +11,13 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Adult light 30 Lb 13.6 Kg'
+  title: Hills perro Adult light 30 Lb 13.6 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_thumbnail_image: images/splendid-mustard.png
 default_original_image: images/smiling-oregano.png
 ---
