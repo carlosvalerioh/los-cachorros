@@ -10,7 +10,7 @@ price: '1,250'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Cachorro 15 KG'
+  title: Full Trust Cachorro 15 KG
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Cachorro.jpg
 default_original_image: images/neat-tulip.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
