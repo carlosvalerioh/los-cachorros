@@ -14,7 +14,7 @@ price: '1,020'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Cachorro Raza mediana  7.5 kg'
+  title: Pro Plan Cachorro Raza mediana  7.5 kg
   description: ''
   robots: []
   extra: []
@@ -22,7 +22,7 @@ seo:
 layout: product
 default_original_image: images/Pro Plan Cachorro Raza mediana.jpg
 default_thumbnail_image: images/Pro Plan Cachorro Raza mediana.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
