@@ -9,7 +9,7 @@ price: '645'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Adulto 8 KG'
+  title: Full Trust Adulto 8 KG
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/energetic-primrose.jpg
 default_original_image: images/nervous-olive.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
