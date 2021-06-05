@@ -10,7 +10,7 @@ price: '540'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gatito 3 kg'
+  title: Pro Plan Gatito 3 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/magical-ant.jpg
 default_original_image: images/adorable-sunflower.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
