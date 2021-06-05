@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Adulto Raza grande 3 kg'
+  title: Pro Plan Adulto Raza grande 3 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ layout: product
 price: '430'
 default_thumbnail_image: images/6.OPTIHEALTH-ADULTO-RG1.jpg
 default_original_image: images/6.OPTIHEALTH-ADULTO-RG1.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
