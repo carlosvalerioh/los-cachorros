@@ -11,7 +11,7 @@ price: '1,080'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro canine OM  18 lb us 8.16 kg'
+  title: Pro Plan Perro canine OM  18 lb us 8.16 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/charming-panda.jpg
 default_original_image: images/scientific-goose.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
