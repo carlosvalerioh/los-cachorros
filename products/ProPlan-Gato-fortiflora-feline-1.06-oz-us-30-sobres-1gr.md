@@ -10,7 +10,7 @@ price: '330'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gato  fortiflora feline 1.06 oz us 30 sobres 1 gr'
+  title: Pro Plan Gato  fortiflora feline 1.06 oz us 30 sobres 1 gr
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  fortiflora feline 1.06 oz us 30 sobres 1 gr.jpg
 default_original_image: images/mighty-lettuce.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
