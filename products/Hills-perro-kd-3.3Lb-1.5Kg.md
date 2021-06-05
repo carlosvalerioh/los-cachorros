@@ -18,7 +18,7 @@ seo:
 layout: product
 default_original_image: images/great-plankton.jpg
 default_thumbnail_image: images/best-pluto.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
