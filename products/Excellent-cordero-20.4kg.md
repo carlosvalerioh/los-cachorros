@@ -11,7 +11,7 @@ price: '1,370'
 order: 0
 featured: false
 seo:
-  title: 'Excellent cordero 20.4 kg'
+  title: Excellent cordero 20.4 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Excellent cordero.jpg
 default_original_image: images/interesting-oak.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
