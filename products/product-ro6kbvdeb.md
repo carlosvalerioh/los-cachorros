@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec Weight Control 8 KG Razas Pequeñas'
   description: ''
   robots: []
   extra: []
