@@ -7,7 +7,6 @@ description: >-
   saludable y feliz. El alimento para perros Ganador Premium contiene
   antioxidantes, omegas, lactobacilos y proteina de alta calidad que brinda a tu
   perro una mezcla de nutrientes óptimos a un precio increíble.
-price: lorem-ipsum
 order: 0
 featured: false
 seo:
