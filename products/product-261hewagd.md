@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Ganador premium adulto 20 kgs'
   description: ''
   robots: []
   extra: []
