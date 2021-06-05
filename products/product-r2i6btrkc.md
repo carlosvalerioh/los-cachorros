@@ -9,7 +9,7 @@ price: '788'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec Senior Longevo 8 kg Razas Pequeñas'
   description: ''
   robots: []
   extra: []
