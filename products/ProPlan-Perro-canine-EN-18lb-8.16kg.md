@@ -12,7 +12,7 @@ price: '1,005'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro  canine EN 18 lb us 8.16 kg'
+  title: Pro Plan Perro  canine EN 18 lb us 8.16 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/terrific-sun.jpg
 default_original_image: images/charming-onion.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
