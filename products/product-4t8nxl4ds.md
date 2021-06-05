@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Nupec Senior Longevo 15 kg
+title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/incredible-neptune.jpg
 ---
 ## Lorem ipsum
 
