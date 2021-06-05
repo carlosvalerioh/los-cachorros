@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Nupec Senior Longevo 8 kg Razas Pequeñas
-description: lorem-ipsum
+description: >-
+  SKU:OO18RP <br> Alimento premium Nupec 7 años en adelante Previene dolor
+  articular Nupec Senior Razas Pequeñas Alimento balanceado para perros de raza
+  pequeña, de 7 años en adelate.
 price: lorem-ipsum
 order: 0
 featured: false
