@@ -6,7 +6,7 @@ description: >-
   y es importante darle calidad de vida al perro de edad avanzada. El
   envejecimiento puede suceder desde los 7 años de edad. La prevención ahorra
   tratamientos médicos. 
-price: lorem-ipsum
+price: '735'
 order: 0
 featured: false
 seo:
