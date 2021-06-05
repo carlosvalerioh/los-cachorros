@@ -5,7 +5,7 @@ price: '975'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Puppy Small Paws 15.5 Lb 7 Kg'
+  title: Hills perro Puppy Small Paws 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ description: >-
   cerebro y los ojos, así como de las habilidades de aprendizaje. También
   incluye una mezcla de antioxidantes clínicamente comprobada con vitaminas C y
   E para favorecer un sistema inmunológico sano. 
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
