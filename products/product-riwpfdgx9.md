@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Ganador Premium Cachorro 20kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
