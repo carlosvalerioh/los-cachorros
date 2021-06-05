@@ -9,7 +9,7 @@ price: '216'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Adulto Raza Pequeña 2 kg'
+  title: Full Trust Adulto Raza Pequeña 2 kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Adulto Raza Pequeña.jpg
 default_original_image: images/cool-eggplant.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
