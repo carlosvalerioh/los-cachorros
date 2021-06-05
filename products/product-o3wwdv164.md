@@ -10,7 +10,7 @@ price: '576'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec cachorro 8 kgs'
   description: ''
   robots: []
   extra: []
