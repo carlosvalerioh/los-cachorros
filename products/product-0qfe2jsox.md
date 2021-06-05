@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/royal-paprika.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
