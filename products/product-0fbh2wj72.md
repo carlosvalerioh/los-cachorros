@@ -5,7 +5,7 @@ description: lorem-ipsum
 price: >-
   SKU:OO19 <br> Una mascota puede ser querida por la familia durante muchos años
   y es importante darle calidad de vida al perro de edad avanzada. El
-  envejecimiento puede suceder desde los 7 años de edad. La p
+  envejecimiento puede sucep
 order: 0
 featured: false
 seo:
