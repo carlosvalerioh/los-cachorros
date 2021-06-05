@@ -11,7 +11,7 @@ price: '1,250'
 order: 0
 featured: false
 seo:
-  title: 'Excellent cachorro complete 20 kg'
+  title: Excellent cachorro complete 20 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/beige-cedar.jpg
 default_original_image: images/superb-steel.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
