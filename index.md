@@ -37,8 +37,7 @@ sections:
       - products/product-pb9sb2jhu.md
   - type: featured_categories_section
     section_id: featured_categories_section
-    featured_categories:
-      - category/bigplants.md
+    featured_categories: []
   - type: testimonials_section
     section_id: testimonials_section
     title: RESAÑA
