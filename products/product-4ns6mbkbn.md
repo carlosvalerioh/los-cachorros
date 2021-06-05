@@ -11,7 +11,7 @@ price: '798'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC SENSITIVE 8 KG'
   description: ''
   robots: []
   extra: []
