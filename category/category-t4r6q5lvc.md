@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'PERRO - '
 order: 0
 seo:
   title: ''
