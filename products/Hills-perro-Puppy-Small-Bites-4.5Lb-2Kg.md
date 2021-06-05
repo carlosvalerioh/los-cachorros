@@ -10,7 +10,7 @@ price: '400'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Puppy Small Bites 4.5 Lb 2 Kg'
+  title: Hills perro Puppy Small Bites 4.5 Lb 2 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills perro Puppy Small Bites.jpg
 default_thumbnail_image: images/energetic-aluminum.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
