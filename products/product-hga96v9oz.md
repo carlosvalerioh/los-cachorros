@@ -6,7 +6,7 @@ description: >-
   de vida de tu mascota al disminuir su movilidad. Este alimento contiene menor
   cantidad de grasa que la comida estándar y a su vez está enriquecido con
   nutrientes esenciales para satisfacer todas sus necesidades.
-price: lorem-ipsum
+price: '1,155'
 order: 0
 featured: false
 seo:
