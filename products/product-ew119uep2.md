@@ -10,7 +10,7 @@ price: '184'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec cachorro 2 kgs'
   description: ''
   robots: []
   extra: []
