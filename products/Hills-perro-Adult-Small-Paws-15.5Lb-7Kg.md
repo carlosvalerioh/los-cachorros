@@ -9,13 +9,13 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Adult Small Paws 15.5 Lb 7 Kg'
+  title: Hills perro Adult Small Paws 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_thumbnail_image: images/Hills perro Adult Small Paws.jpg
 default_original_image: images/elite-hedgehog.jpg
 ---
