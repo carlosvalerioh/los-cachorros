@@ -5,7 +5,7 @@ price: '500'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan  Adulto raza pequeña exigent 3 kg'
+  title: Pro Plan  Adulto raza pequeña exigent 3 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ description: >-
   con los paladares más exigentes disfrutarán. Incluye selenio, beta-glucanos,
   antioxidantes vitales y vitaminas para estimular el sistema inmunológico,
   proporcionando así un buen estado de salud general. 
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_thumbnail_image: images/Pro Plan  Adulto raza pequeña exigent.webp
 default_original_image: images/futuristic-coriander.webp
 ---
