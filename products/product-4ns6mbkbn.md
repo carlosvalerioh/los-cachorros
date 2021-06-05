@@ -13,6 +13,8 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/PERROS-NUPEC.md
+default_original_image: images/NUPEC SENSITIVE.jpg
+default_thumbnail_image: images/groovy-broccoli.jpg
 ---
 ## Lorem ipsum
 
