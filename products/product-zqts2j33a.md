@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Nupec cachorro 5 kgs
+title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
@@ -12,6 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/super-kale.jpg
+default_original_image: images/purple-onion.jpg
 ---
 ## Lorem ipsum
 
