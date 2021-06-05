@@ -9,7 +9,7 @@ price: '750'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro d/d 8 Lb 3.6 Kg'
+  title: Hills perro d/d 8 Lb 3.6 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/caring-tiger.jpg
 default_original_image: images/pleasant-pine.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
