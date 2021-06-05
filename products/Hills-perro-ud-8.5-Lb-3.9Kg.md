@@ -12,7 +12,7 @@ price: '640'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro u/d 8.5 Lb 3.9 Kg'
+  title: Hills perro u/d 8.5 Lb 3.9 Kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/majestic-tortoise.jpg
 default_original_image: images/fabulous-rabbit.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
