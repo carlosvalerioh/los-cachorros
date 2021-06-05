@@ -9,7 +9,7 @@ price: '845'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Cachorro Raza Pequeña 8 kg'
+  title: Full Trust Cachorro Raza Pequeña 8 kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/parallel-bee.jpg
 default_original_image: images/kind-owl.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
