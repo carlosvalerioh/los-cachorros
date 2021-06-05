@@ -6,7 +6,7 @@ description: >-
   5.0, 8.0, 15.0 y 20.0 Kgs. Nutrición completa para el desarrollo de los
   Cachorros, aporte de Vitaminas, Minerales y Proteínas necesarias para un
   desarrollo Completo.
-price: lorem-ipsum
+price: '1,230'
 order: 0
 featured: false
 seo:
