@@ -13,7 +13,7 @@ price: '440'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro DRM naturals canine dry 6 lb 2.72 kg'
+  title: Pro Plan Perro DRM naturals canine dry 6 lb 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -21,7 +21,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Drm naturals canine dry 6 lb.jpg
 default_original_image: images/oceanic-goat.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
