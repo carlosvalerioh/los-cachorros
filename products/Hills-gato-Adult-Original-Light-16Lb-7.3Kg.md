@@ -9,7 +9,7 @@ price: '1,235'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Adult Original Light 16 Lb 7.3 Kg'
+  title: Hills gato Adult Original Light 16 Lb 7.3 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_original_image: images/happy-spruce.jpg
 default_thumbnail_image: images/superb-cabbage.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
