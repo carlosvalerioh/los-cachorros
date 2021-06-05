@@ -11,7 +11,7 @@ price: '535'
 order: 0
 featured: false
 seo:
-  title: 'Excellent adulto raza pequeña 7.5 kg'
+  title: Excellent adulto raza pequeña 7.5 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/panoramic-dolphin.jpg
 default_original_image: images/neat-yam.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
