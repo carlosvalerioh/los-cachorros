@@ -11,7 +11,7 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro i/d 8.5 Lb 3.9 Kg'
+  title: Hills perro i/d 8.5 Lb 3.9 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro i-d.jpg
 default_original_image: images/groovy-jupiter.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
