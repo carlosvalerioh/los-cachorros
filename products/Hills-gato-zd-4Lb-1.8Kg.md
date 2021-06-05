@@ -10,7 +10,7 @@ price: '525'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato z/d 4 Lb 1.8 Kg'
+  title: Hills gato z/d 4 Lb 1.8 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato z-d.jpg
 default_thumbnail_image: images/oval-europa.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
