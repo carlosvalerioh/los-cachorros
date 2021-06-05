@@ -12,7 +12,7 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Minino Plus 10 KG'
   description: ''
   robots: []
   extra: []
