@@ -12,14 +12,14 @@ price: '400'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Adult Original 5 Lb 2.3 Kg'
+  title: Hills perro Adult Original 5 Lb 2.3 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/interesting-anemone.png
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_original_image: images/best-kale.png
 ---
 ## Lorem ipsum
