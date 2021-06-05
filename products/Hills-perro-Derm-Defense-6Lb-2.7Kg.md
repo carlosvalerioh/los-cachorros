@@ -9,7 +9,7 @@ price: '525'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Derm Defense 6 Lb 2.7 Kg'
+  title: Hills perro Derm Defense 6 Lb 2.7 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_original_image: images/magenta-neptune.jpg
 default_thumbnail_image: images/pleasant-panda.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
