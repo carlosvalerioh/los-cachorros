@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Hills perro z/d ultra 8 Lb 3.6 Kg'
+  title: Hills perro z/d ultra 8 Lb 3.6 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ layout: product
 default_original_image: images/Hills perro z-d ultra.jpg
 default_thumbnail_image: images/best-whale.jpg
 price: '750'
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
