@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Ganador Premium Razas Pequeñas 20 KGS
+title: Ganador Premium Razas Pequeñas 20 KG
 description: >-
   SKU:MN3P <br> Las croquetas para perro Ganador son de alta calidad profesional
   para razas pequeñas con beneficios específicos para cubrir sus necesidades
