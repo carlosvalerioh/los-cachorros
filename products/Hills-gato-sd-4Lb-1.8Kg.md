@@ -9,13 +9,13 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato s/d 4 Lb 1.8 Kg'
+  title: Hills gato s/d 4 Lb 1.8 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 default_original_image: images/Hills gato s-d.jpg
 default_thumbnail_image: images/happy-daffodil.jpg
 ---
