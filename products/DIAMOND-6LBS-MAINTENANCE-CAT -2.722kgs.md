@@ -11,7 +11,7 @@ price: '230'
 order: 0
 featured: false
 seo:
-  title: 'DIAMOND 6 LBS MAINTENANCE CAT  2.722 kgs'
+  title: DIAMOND 6 LBS MAINTENANCE CAT  2.722 kgs
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/violet-steel.png
 default_original_image: images/square-goose.png
-category: category/category-yez2mpq9b.md
+category: category/GATOS-DIAMOND.md
 ---
 ## Lorem ipsum
 
