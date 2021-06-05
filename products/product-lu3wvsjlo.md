@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Minino 15 kgs.jpg
 default_original_image: images/terrific-potato.jpg
+category: category/GANADOR-MININO.md
 ---
 ## Lorem ipsum
 
