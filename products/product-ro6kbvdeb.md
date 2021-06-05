@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec Weight Control Razas Pequeñas.jpg
 default_original_image: images/successful-mustard.jpg
+price: '809'
 ---
 ## Lorem ipsum
 
