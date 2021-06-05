@@ -11,7 +11,7 @@ price: '1,170'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro canine HA 16.5 lb us 7.48 kg'
+  title: Pro Plan Perro canine HA 16.5 lb us 7.48 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/diligent-neptune.png
 default_original_image: images/important-bee.png
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
