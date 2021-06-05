@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec Weight Control 2 kg Razas Pequeñas
 description: >-
   SKU:OO24RP <br> Sustituye grasa por carbohidratos de alta calidad reduciendo
   el aporte calórico. Incluye carnitina para favorecer el uso de tejido graso.
