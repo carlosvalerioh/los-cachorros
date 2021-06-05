@@ -9,7 +9,7 @@ price: '1,235'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Adult Indoor 15.5 Lb 7 Kg'
+  title: Hills gato Adult Indoor 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/polite-sunflower.jpg
 default_original_image: images/futuristic-eggplant.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
