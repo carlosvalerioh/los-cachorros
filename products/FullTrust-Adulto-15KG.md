@@ -9,7 +9,7 @@ price: '1,085'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Adulto 15 KG'
+  title: Full Trust Adulto 15 KG
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Full Trust Adulto.jpg
 default_original_image: images/robust-aspen.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
