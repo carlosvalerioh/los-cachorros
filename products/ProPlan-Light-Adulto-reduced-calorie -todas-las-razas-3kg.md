@@ -13,7 +13,7 @@ price: '450'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Light Adulto reduced calorie  todas las razas 3 kg'
+  title: Pro Plan Light Adulto reduced calorie  todas las razas 3 kg
   description: ''
   robots: []
   extra: []
@@ -21,7 +21,7 @@ seo:
 layout: product
 default_thumbnail_image: images/pleasant-amaranth.jpg
 default_original_image: images/61AfXbnj55L._AC_SS450_.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
