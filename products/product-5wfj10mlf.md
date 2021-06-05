@@ -10,7 +10,7 @@ price: '1,230'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec cachorro 20 kgs'
   description: ''
   robots: []
   extra: []
