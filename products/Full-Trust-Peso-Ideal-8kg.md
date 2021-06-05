@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/green-oak.jpg
 default_original_image: images/futuristic-panda.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
