@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/104575-1.jpg
 default_original_image: images/104575-1.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
