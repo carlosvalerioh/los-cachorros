@@ -25,6 +25,7 @@ sections:
     light_title: true
     featured_products:
       - products/product-ew119uep2.md
+      - products/product-ronpasfbx.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
