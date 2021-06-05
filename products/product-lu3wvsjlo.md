@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Minino 15 kgs
-price: lorem-ipsum
+price: '430'
 order: 0
 featured: false
 seo:
