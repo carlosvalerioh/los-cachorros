@@ -17,7 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Nupec cachorro.jpg
-category: category/category-p17jto5v8.md
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
