@@ -9,7 +9,7 @@ price: '830'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Ganador Premium Cachorro 20kg'
   description: ''
   robots: []
   extra: []
