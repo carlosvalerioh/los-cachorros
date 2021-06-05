@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/terrific-mahogany.jpg
 category: category/PERROS-NUPEC.md
+default_original_image: images/pink-lime.jpg
 ---
 ## Lorem ipsum
 
