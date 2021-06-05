@@ -10,14 +10,14 @@ price: '475'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato k/d 4 Lb 1.8 Kg'
+  title: Hills gato k/d 4 Lb 1.8 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills gato k-d.png
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 default_thumbnail_image: images/groovy-sunflower.png
 ---
 ## Lorem ipsum
