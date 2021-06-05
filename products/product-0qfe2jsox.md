@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec Weight Control 2 kgs Razas Pequeñas
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
