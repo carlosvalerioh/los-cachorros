@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Minino 15 kgs
-description: lorem-ipsum
+description: Minino 15 kgs
 price: lorem-ipsum
 order: 0
 featured: false
