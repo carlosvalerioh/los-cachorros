@@ -9,7 +9,7 @@ price: '1,410'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Adulto 20 KG'
+  title: Full Trust Adulto 20 KG
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/maroon-pineapple.jpg
 default_original_image: images/fabulous-europa.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
