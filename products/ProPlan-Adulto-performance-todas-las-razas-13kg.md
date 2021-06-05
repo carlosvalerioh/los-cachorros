@@ -13,7 +13,7 @@ price: '1,470'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Adulto performance <br> todas las razas 13 kg'
+  title: Pro Plan Adulto performance <br> todas las razas 13 kg
   description: ''
   robots: []
   extra: []
@@ -21,7 +21,7 @@ seo:
 layout: product
 default_thumbnail_image: images/pro04783_7501072204783_pp_perro_adult_all_performance_bulto_15_f_sk.jpg
 default_original_image: images/charming-chili.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
