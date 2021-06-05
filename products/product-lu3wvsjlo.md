@@ -5,7 +5,7 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Minino 15 kgs'
   description: ''
   robots: []
   extra: []
