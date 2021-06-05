@@ -10,13 +10,13 @@ price: '1,275'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Adult Multi Benefit 15.5 Lb 7 Kg'
+  title: Hills gato Adult Multi Benefit 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 default_original_image: images/rainy-hickory.jpg
 default_thumbnail_image: images/interesting-triceratops.jpg
 ---
