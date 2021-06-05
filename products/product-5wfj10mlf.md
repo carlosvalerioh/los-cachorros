@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Nupec cachorro 20 kgs
-description: lorem-ipsum
+description: >-
+  SKU:OO12 <br> Nupec Cachorros Razas Medianas y Grandes. 5 Presentaciones: 2.0,
+  5.0, 8.0, 15.0 y 20.0 Kgs. Nutrición completa para el desarrollo de los
+  Cachorros, aporte de Vitaminas, Minerales y Proteínas necesarias para un
+  desarrollo Completo.
 price: lorem-ipsum
 order: 0
 featured: false
