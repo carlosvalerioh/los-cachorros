@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  canine OM.jpg
 default_original_image: images/adorable-hedgehog.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
