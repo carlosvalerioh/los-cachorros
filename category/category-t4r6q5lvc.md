@@ -1,5 +1,5 @@
 ---
-title: 'PERRO - '
+title: GATOS - PRO PLAN
 order: 0
 seo:
   title: ''
