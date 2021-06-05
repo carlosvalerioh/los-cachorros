@@ -9,14 +9,14 @@ price: '1,650'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Metabolic 27.5 Lb 12.5 Kg'
+  title: Hills perro Metabolic 27.5 Lb 12.5 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Hills perro Metabolic.png
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_thumbnail_image: images/diligent-kangaroo.png
 ---
 ## Lorem ipsum
