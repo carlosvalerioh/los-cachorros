@@ -25,7 +25,6 @@ sections:
     light_title: true
     featured_products:
       - products/product-1o3uhi7at.md
-      - products/product-62ejkgzdb.md
       - products/product-6y1iadgfk.md
       - products/product-riwpfdgx9.md
       - products/product-5wfj10mlf.md
