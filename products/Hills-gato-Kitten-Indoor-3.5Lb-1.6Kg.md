@@ -10,7 +10,7 @@ price: '415'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Kitten Indoor 3.5 Lb 1.6 Kg'
+  title: Hills gato Kitten Indoor 3.5 Lb 1.6 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato Kitten Indoor.png
 default_thumbnail_image: images/oceanic-rosemary.png
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
