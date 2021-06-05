@@ -10,7 +10,7 @@ price: '300'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gatito 1.5 kg'
+  title: Pro Plan Gatito 1.5 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Gatitos saludables.jpg
 default_original_image: images/fabulous-spruce.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
