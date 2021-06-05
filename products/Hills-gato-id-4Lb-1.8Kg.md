@@ -9,7 +9,7 @@ price: '475'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato i/d 4 Lb 1.8 Kg'
+  title: Hills gato i/d 4 Lb 1.8 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato i-d.png
 default_thumbnail_image: images/smart-chili.png
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
