@@ -10,7 +10,7 @@ price: '370'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec cachorro 5 kgs'
   description: ''
   robots: []
   extra: []
