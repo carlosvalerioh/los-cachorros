@@ -12,13 +12,13 @@ price: '1,760'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro u/d 27.5 Lb 12.5 Kg'
+  title: Hills perro u/d 27.5 Lb 12.5 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_thumbnail_image: images/Hills perro u-d.jpg
 default_original_image: images/square-thyme.jpg
 ---
