@@ -10,7 +10,7 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Puppy Small Bites 15.5 Lb 7 Kg'
+  title: Hills perro Puppy Small Bites 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/interesting-eggplant.jpg
 default_original_image: images/melodic-chili.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
