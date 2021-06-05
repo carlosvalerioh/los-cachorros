@@ -14,6 +14,11 @@ layout: product
 default_thumbnail_image: images/Minino 15 kgs.jpg
 default_original_image: images/terrific-potato.jpg
 category: category/GANADOR-MININO.md
+description: >-
+  SKU:MN7 <br> La selección de un alimento adecuado para tu mascota es muy
+  importante para garantizar su crecimiento, desarrollo y salud. Con esta opción
+  de Minino podrás cubrir las necesidades nutricionales y energéticas de tu
+  Gato.
 ---
 ## Lorem ipsum
 
