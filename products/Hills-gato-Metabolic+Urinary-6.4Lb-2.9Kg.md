@@ -9,7 +9,7 @@ price: '710'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Metabolic + Urinary 6.4 Lb 2.9 Kg'
+  title: Hills gato Metabolic + Urinary 6.4 Lb 2.9 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato Metabolic + Urinary.jpg
 default_original_image: images/wonderful-lavender.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
