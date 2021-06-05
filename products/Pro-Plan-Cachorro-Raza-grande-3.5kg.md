@@ -10,14 +10,14 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Cachorro Raza grande 3.5 kg'
+  title: Pro Plan Cachorro Raza grande 3.5 kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
 price: '485'
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_thumbnail_image: images/purple-coriander.jpg
 default_original_image: images/pink-goose.jpg
 ---
