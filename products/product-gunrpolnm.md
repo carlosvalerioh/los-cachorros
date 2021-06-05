@@ -6,7 +6,7 @@ price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC SENSITIVE 2 KG'
   description: ''
   robots: []
   extra: []
