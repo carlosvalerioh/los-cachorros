@@ -9,7 +9,7 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Senior Vitality 7+ 12.5 Lb 5.7 Kg'
+  title: Hills perro Senior Vitality 7+ 12.5 Lb 5.7 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/important-potato.jpg
 default_original_image: images/fierce-amaranth.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
