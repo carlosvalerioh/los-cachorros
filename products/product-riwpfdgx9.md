@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Ganador Premium Cachorro 20kg
-description: lorem-ipsum
+description: >-
+  SKU:MN4 <br> Sin saborizantes artificiales. Garantiza una alimentación 100%
+  completa y balanceada. Con el sabor mixto del pollo, verduras y trocitos de
+  carne.
 price: lorem-ipsum
 order: 0
 featured: false
