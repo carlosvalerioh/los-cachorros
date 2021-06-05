@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
