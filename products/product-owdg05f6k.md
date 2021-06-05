@@ -13,6 +13,8 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Minino Plus 10 KG.jpg
+category: category/GANADOR-MININO.md
+default_original_image: images/blue-broccoli.jpg
 ---
 ## Lorem ipsum
 
