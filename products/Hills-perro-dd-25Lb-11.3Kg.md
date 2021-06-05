@@ -9,7 +9,7 @@ price: '1,760'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro d/d 25 Lb 11.3 Kg'
+  title: Hills perro d/d 25 Lb 11.3 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro d-d.jpg
 default_original_image: images/superb-tiger.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
