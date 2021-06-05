@@ -13,7 +13,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Adulto Raza mediana 13 kg'
+  title: Pro Plan Adulto Raza mediana 13 kg
   description: ''
   robots: []
   extra: []
@@ -22,7 +22,7 @@ layout: product
 price: '1,305'
 default_thumbnail_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
 default_original_image: images/Pro Plan Adulto Raza mediana  13 kg.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
