@@ -9,7 +9,7 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Adult Indoor 7 Lb 3.2 Kg'
+  title: Hills gato Adult Indoor 7 Lb 3.2 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/diligent-elm.jpg
 default_original_image: images/rainy-mango.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
