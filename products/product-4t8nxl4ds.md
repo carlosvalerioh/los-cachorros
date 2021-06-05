@@ -10,7 +10,7 @@ price: '1,155'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec Senior Longevo 15 kg'
   description: ''
   robots: []
   extra: []
