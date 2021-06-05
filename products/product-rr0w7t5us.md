@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/charming-maple.jpg
 default_original_image: images/charming-mustard.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
