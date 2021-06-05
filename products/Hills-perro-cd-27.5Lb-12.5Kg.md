@@ -10,7 +10,7 @@ price: '1,760'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro c/d 27.5 Lb 12.5 Kg'
+  title: Hills perro c/d 27.5 Lb 12.5 Kg
   description: ''
   robots: []
   extra: []
@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro c-d.jpg
 default_original_image: images/unique-lavender.jpg
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
