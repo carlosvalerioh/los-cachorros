@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Nupec Senior Longevo Razas Pequeñas.jpg
 default_thumbnail_image: images/magical-sycamore.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
