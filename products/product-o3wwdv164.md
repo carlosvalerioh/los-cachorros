@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/enthusiastic-pluto.jpg
+default_thumbnail_image: images/fabulous-aspen.jpg
 ---
 ## Lorem ipsum
 
