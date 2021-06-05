@@ -12,7 +12,7 @@ description: >-
 default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/maroon-yam.jpg
 order: 0
-category: category/cactuses.md
+category: category/PERROS-PRO-PLAN.md
 seo:
   title: Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg
   description: Suspendisse efficitur eget erat sit amet efficitur
