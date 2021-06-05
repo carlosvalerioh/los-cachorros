@@ -10,7 +10,7 @@ price: '795'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato k/d 8.5 Lb 3.9 Kg'
+  title: Hills gato k/d 8.5 Lb 3.9 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_original_image: images/splendid-aspen.png
 default_thumbnail_image: images/groovy-crane.png
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
