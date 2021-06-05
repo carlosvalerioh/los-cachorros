@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec Senior Longevo 8 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
