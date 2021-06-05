@@ -7,7 +7,7 @@ default_thumbnail_image: images/104579-1.jpg
 default_original_image: images/104579-1.jpg
 featured: true
 order: 0
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 seo:
   title: Pro Plan Senior Razas Medianas y Grandes Active Mind 3 kg
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
