@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND SENIOR  8+ NATURALS.jpg
 default_original_image: images/pink-tortoise.jpg
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
