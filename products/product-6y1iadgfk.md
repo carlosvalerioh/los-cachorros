@@ -9,7 +9,7 @@ description: >-
   para fortalecer el sistema inmunológico ayudando a prevenir las enfermedades,
   tamaño Ideal para perros de raza pequeñas, salud bucal para ayudar a disminuir
   la formación de sarro.
-price: lorem-ipsum
+price: '83'
 order: 0
 featured: false
 seo:
