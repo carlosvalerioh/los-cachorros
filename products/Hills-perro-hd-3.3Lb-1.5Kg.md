@@ -10,7 +10,7 @@ price: '325'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro h/d 3.3 Lb 1.5 Kg'
+  title: Hills perro h/d 3.3 Lb 1.5 Kg
   description: ''
   robots: []
   extra: []
@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro h-d.png
 default_original_image: images/happy-giraffe.png
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
