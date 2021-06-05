@@ -5,7 +5,7 @@ description: >-
   SKU:OO16 <br> Proteína Cruda: 28.0%. Grasa Cruda: 14.0%. Fibra cruda: 4.0%.
   Tamaño de MascotaRazas Pequeñas. Etapa de Vida: Cachorro. Sabor: Carne. Peso:
   8 kg. Tipo: Seco
-price: lorem-ipsum
+price: '641'
 order: 0
 featured: false
 seo:
