@@ -23,8 +23,7 @@ sections:
     title: MÁS VENDIDO
     icon: true
     light_title: true
-    featured_products:
-      - products/product-owdg05f6k.md
+    featured_products: []
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
