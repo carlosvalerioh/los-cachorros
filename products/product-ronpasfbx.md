@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec cachorro Razas Pequeñas.jpg
 default_original_image: images/spectacular-lettuce.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
