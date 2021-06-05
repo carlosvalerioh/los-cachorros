@@ -9,13 +9,13 @@ price: '910'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Senior 8 KG'
+  title: Full Trust Senior 8 KG
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 default_thumbnail_image: images/smiling-hedgehog.jpg
 default_original_image: images/Full Trust Senior.jpg
 ---
