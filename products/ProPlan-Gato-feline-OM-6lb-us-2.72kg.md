@@ -10,7 +10,7 @@ price: '535'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gato feline OM 6 lb us 2.72 kg'
+  title: Pro Plan Gato feline OM 6 lb us 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  feline OM 6 lb us.jpg
 default_original_image: images/diligent-sage.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
