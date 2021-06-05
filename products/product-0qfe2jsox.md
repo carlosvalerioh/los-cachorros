@@ -7,7 +7,7 @@ description: >-
   Mantiene el nivel de proteína por lo que conserva su masa muscular. Incluye el
   nivel adecuado de fibra para sensación de saciedad, además evita producción de
   gases intestinales.
-price: lorem-ipsum
+price: '242'
 order: 0
 featured: false
 seo:
