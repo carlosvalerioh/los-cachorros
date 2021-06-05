@@ -11,13 +11,13 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Adult Small Bites 15 Lb 6.8 Kg'
+  title: Hills perro Adult Small Bites 15 Lb 6.8 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_thumbnail_image: images/festive-kale.png
 default_original_image: images/wonderful-onion.png
 ---
