@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Nupec Weight Control.jpg
+default_original_image: images/violet-olive.jpg
 ---
 ## Lorem ipsum
 
