@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec cachorro 5 kgs
 description: >-
   SKU:OO14 <br> Nupec Cachorros Razas Medianas y Grandes. 5 Presentaciones: 2.0,
   5.0, 8.0, 15.0 y 20.0 Kgs. Nutrición completa para el desarrollo de los
