@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Minino 15 kgs.jpg
+default_original_image: images/terrific-potato.jpg
 ---
 ## Lorem ipsum
 
