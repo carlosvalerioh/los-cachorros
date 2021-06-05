@@ -9,7 +9,7 @@ price: '330'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan  fortiflora canine 1.06 oz us 30 sobres 1 gr'
+  title: Pro Plan  fortiflora canine 1.06 oz us 30 sobres 1 gr
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan  fortiflora canine 1.06 oz us 30 sobres 1 gr.png
 default_original_image: images/panoramic-sparrow.png
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
