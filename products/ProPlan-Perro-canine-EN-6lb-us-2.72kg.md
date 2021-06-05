@@ -12,7 +12,7 @@ price: '425'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro canine EN 6 lb us 2.72 kg'
+  title: Pro Plan Perro canine EN 6 lb us 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  canine EN 6 lb.jpg
 default_original_image: images/incredible-giraffe.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
