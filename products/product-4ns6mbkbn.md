@@ -7,7 +7,7 @@ description: >-
   desarrollado el perro hacia ciertos ingredientes. ALTA DIGESTIBILIDAD: Gracias
   a un balance nutricional con la mezcla perfecta entre proteínas, grasa,
   carbohidratos, vitaminas y minerales.
-price: lorem-ipsum
+price: '798'
 order: 0
 featured: false
 seo:
