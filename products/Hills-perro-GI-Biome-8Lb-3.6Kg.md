@@ -11,7 +11,7 @@ price: '750'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro GI Biome 8 Lb 3.6 Kg'
+  title: Hills perro GI Biome 8 Lb 3.6 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro GI Biome.jpg
 default_original_image: images/super-iron.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
