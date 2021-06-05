@@ -10,7 +10,7 @@ price: '1,155'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec Weight Control 15 kgs'
   description: ''
   robots: []
   extra: []
