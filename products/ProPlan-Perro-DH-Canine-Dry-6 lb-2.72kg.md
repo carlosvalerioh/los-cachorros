@@ -12,7 +12,7 @@ price: '510'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro DH Canine Dry 6 lb 2.72 kg'
+  title: Pro Plan Perro DH Canine Dry 6 lb 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro Dh canine dry 6 lb 2.72 kg.jpg
 default_original_image: images/magenta-potato.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
