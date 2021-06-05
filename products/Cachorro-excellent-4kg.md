@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/square-neptune.jpg
 default_original_image: images/cool-planet.jpg
-category: category/PERROS-PRO PLAN.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
