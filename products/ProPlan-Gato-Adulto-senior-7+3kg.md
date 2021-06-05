@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto senior 7+ 3 kg.jpg
 default_original_image: images/beige-jupiter.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
