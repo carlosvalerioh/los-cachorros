@@ -10,7 +10,7 @@ price: '231'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec Weight Control 2 kg'
   description: ''
   robots: []
   extra: []
