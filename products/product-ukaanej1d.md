@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Nupec Senior Longevo 8 kg
-description: lorem-ipsum
+description: >-
+  SKU:OO18 <br> Una mascota puede ser querida por la familia durante muchos años
+  y es importante darle calidad de vida al perro de edad avanzada. El
+  envejecimiento puede suceder desde los 7 años de edad. La prevención ahorra
+  tratamientos médicos. 
 price: lorem-ipsum
 order: 0
 featured: false
