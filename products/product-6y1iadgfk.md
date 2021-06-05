@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Ganador Premium Razas Pequeñas 20 KGS.jpg
+default_original_image: images/interesting-saturn.jpg
 ---
 ## Lorem ipsum
 
