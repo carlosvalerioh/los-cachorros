@@ -11,7 +11,7 @@ price: '242'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec Weight Control 2 kg Razas Pequeñas'
   description: ''
   robots: []
   extra: []
