@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/terrific-mahogany.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
