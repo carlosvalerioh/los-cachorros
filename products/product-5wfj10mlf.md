@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec cachorro.jpg
 category: category/PERROS-NUPEC.md
+default_original_image: images/superb-eucalyptus.jpg
 ---
 ## Lorem ipsum
 
