@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Nupec Weight Control 2 kgs
+title: Nupec Weight Control 2 kg
 description: >-
   SKU:OO24 <br> Control de peso. Los kilos de más pueden perjudicar la calidad
   de vida de tu mascota al disminuir su movilidad. Este alimento contiene menor
