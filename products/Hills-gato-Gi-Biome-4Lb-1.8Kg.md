@@ -11,13 +11,13 @@ price: '525'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Gi Biome 4 Lb 1.8 Kg'
+  title: Hills gato Gi Biome 4 Lb 1.8 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 default_original_image: images/Hills gato Gi Biome.jpg
 default_thumbnail_image: images/good-sloth.jpg
 ---
