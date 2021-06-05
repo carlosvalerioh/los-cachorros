@@ -9,13 +9,13 @@ price: '795'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato C/D Multicare 8.5 Lb 3.9 Kg'
+  title: Hills gato C/D Multicare 8.5 Lb 3.9 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 default_original_image: images/square-chestnut.jpg
 default_thumbnail_image: images/groovy-pineapple.jpg
 ---
