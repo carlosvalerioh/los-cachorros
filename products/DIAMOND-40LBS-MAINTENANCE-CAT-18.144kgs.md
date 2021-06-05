@@ -11,7 +11,7 @@ price: '1,185'
 order: 0
 featured: false
 seo:
-  title: 'DIAMOND 40 LBS. MAINTENANCE CAT 18.144 kgs'
+  title: DIAMOND 40 LBS. MAINTENANCE CAT 18.144 kgs
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/mighty-olive.png
 default_original_image: images/wonderful-birch.png
-category: category/category-yez2mpq9b.md
+category: category/GATOS-DIAMOND.md
 ---
 ## Lorem ipsum
 
