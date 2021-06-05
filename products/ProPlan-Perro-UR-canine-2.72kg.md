@@ -9,7 +9,7 @@ price: '435'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro UR canine 2.72 kg'
+  title: Pro Plan Perro UR canine 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro  UR canine.png
 default_original_image: images/maroon-chestnut.png
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
