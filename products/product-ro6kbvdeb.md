@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Nupec Weight Control Razas Pequeñas.jpg
+default_original_image: images/successful-mustard.jpg
 ---
 ## Lorem ipsum
 
