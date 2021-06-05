@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/pink-hickory.jpg
+default_original_image: images/modern-moon.jpg
 ---
 ## Lorem ipsum
 
