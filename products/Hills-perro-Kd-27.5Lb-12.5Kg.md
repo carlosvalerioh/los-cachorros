@@ -11,7 +11,7 @@ price: '1,650'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro K/d 27.5 Lb 12.5 Kg'
+  title: Hills perro K/d 27.5 Lb 12.5 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro K-d.jpg
 default_original_image: images/smart-petunia.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
