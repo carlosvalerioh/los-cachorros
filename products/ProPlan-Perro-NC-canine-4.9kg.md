@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/cool-apple.png
 default_original_image: images/ultra-paprika.png
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 price: '900'
 ---
 ## Lorem ipsum
