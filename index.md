@@ -50,7 +50,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/super-sunflower.jpg
-    background_image: images/noun_Dog_3587160.png
+    background_image: images/noun_Bone_339677.png
     cta:
       title: Discover
       url: /store
