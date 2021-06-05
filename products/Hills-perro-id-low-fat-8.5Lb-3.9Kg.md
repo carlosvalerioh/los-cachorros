@@ -9,7 +9,7 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro i/d low fat 8.5 Lb 3.9 Kg'
+  title: Hills perro i/d low fat 8.5 Lb 3.9 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills perro i-d low fat.png
 default_original_image: images/futuristic-stegosaurus.png
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
