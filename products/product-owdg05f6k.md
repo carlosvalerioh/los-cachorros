@@ -8,7 +8,7 @@ description: >-
   sistema de beneficios Vital 5, enfocado en 5 órganos vitales del gato: vías
   urinarias sanas, ojos brillantes, salud intestinal, corazón fuerte y piel
   hermosa.
-price: lorem-ipsum
+price: '430'
 order: 0
 featured: false
 seo:
