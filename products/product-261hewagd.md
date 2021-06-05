@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Ganador premium adulto 20 kgs
-description: lorem-ipsum
+description: >-
+  SKU:MN3 <br> Ganador Premium es un alimento para perros formulado con los
+  ingredientes de alta calidad que tu perro necesita para mantenerlo siempre
+  saludable y feliz. El alimento para perros Ganador Premium contiene
+  antioxidantes, omegas, lactobacilos y proteina de alta calidad que brinda a tu
+  perro una mezcla de nutrientes óptimos a un precio increíble.
 price: lorem-ipsum
 order: 0
 featured: false
