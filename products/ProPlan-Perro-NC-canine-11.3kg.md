@@ -10,7 +10,7 @@ price: '1,960'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Perro NC canine 11.3 kg'
+  title: Pro Plan Perro NC canine 11.3 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Perro   NC canine.png
 default_original_image: images/clever-chili.png
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
