@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Ganador Premium Razas Pequeñas 20 KGS
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
