@@ -26,7 +26,6 @@ sections:
     featured_products:
       - products/product-1o3uhi7at.md
       - products/product-62ejkgzdb.md
-      - products/product-j5hwzujb9.md
       - products/product-mwci6angs.md
       - products/product-6y1iadgfk.md
       - products/product-riwpfdgx9.md
