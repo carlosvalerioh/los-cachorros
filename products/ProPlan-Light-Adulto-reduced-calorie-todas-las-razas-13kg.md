@@ -2,7 +2,7 @@
 layout: product
 id: '7'
 price: '1,440'
-title: 'Pro Plan Light Adulto reduced calorie todas las razas 13 kg'
+title: Pro Plan Light Adulto reduced calorie todas las razas 13 kg
 description: >-
   SKU:PA1213 <br> Pro Plan Reduced Caloría Optifit es el alimento que le
   brindará a tu perro una nutrición avanzada que le ayudará a lograr un peso
@@ -14,7 +14,7 @@ description: >-
 default_thumbnail_image: images/scientific-ant.jpg
 default_original_image: images/remarkable-celery.jpg
 order: 0
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 seo:
   title: Pro Plan Light Adulto reduced calorie  todas las razas 13 kg
   description: Fusce sed tortor id diam rhoncus accumsan
