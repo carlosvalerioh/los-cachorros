@@ -11,14 +11,14 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan  Adulto raza pequeña delicate structure 3 kg'
+  title: Pro Plan  Adulto raza pequeña delicate structure 3 kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
 price: '510'
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_original_image: images/Pro Plan  Adulto raza pequeña delicate structure.jpeg
 default_thumbnail_image: images/robust-potato.jpeg
 ---
