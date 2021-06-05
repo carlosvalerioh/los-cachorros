@@ -9,7 +9,7 @@ price: '200'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec cachorro Razas Pequeñas  2 kgs'
   description: ''
   robots: []
   extra: []
