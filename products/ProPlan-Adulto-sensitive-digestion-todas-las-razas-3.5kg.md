@@ -10,7 +10,7 @@ price: '555'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan  Adulto sensitive digestion todas las razas 3.5 kg'
+  title: Pro Plan  Adulto sensitive digestion todas las razas 3.5 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan  Adulto sensitive digestion todas las razas 3.jpg
 default_original_image: images/Pro Plan  Adulto sensitive digestion todas las razas 3.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
