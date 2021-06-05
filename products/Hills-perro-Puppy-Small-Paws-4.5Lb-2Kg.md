@@ -11,7 +11,7 @@ price: '400'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Puppy Small Paws 4.5 Lb 2 Kg'
+  title: Hills perro Puppy Small Paws 4.5 Lb 2 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_original_image: images/energetic-rosemary.jpg
 default_thumbnail_image: images/fabulous-tulip.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
