@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec senior Longevo 2 kg Razas Pequeñas
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
