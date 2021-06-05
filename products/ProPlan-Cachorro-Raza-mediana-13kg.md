@@ -13,7 +13,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Cachorro Raza mediana 13 kg'
+  title: Pro Plan Cachorro Raza mediana 13 kg
   description: ''
   robots: []
   extra: []
@@ -21,7 +21,7 @@ seo:
 layout: product
 price: '1,515'
 default_thumbnail_image: images/Pro Plan Cachorro Raza mediana.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_original_image: images/polite-giraffe.jpg
 ---
 ## Lorem ipsum
