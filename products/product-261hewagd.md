@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Ganador premium adulto.png
+default_original_image: images/famous-wallaby.png
 ---
 ## Lorem ipsum
 
