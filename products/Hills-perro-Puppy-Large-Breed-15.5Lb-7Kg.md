@@ -12,7 +12,7 @@ price: '940'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Puppy Large Breed 15.5 Lb 7 Kg'
+  title: Hills perro Puppy Large Breed 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ seo:
 layout: product
 default_original_image: images/neat-dolphin.jpg
 default_thumbnail_image: images/friendly-steel.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
