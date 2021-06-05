@@ -12,13 +12,13 @@ price: '1,795'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Adult Original 35 Lb 15.9 Kg'
+  title: Hills perro Adult Original 35 Lb 15.9 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 default_thumbnail_image: images/Hills perro Adult Original.png
 default_original_image: images/curious-elm.png
 ---
