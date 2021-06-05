@@ -10,13 +10,13 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Adult Original 7 Lb 3.2 Kg'
+  title: Hills gato Adult Original 7 Lb 3.2 Kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 default_thumbnail_image: images/splendid-rabbit.jpg
 default_original_image: images/beige-petunia.jpg
 ---
