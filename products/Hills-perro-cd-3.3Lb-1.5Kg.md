@@ -10,7 +10,7 @@ price: '325'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro c/d 3.3 Lb 1.5 Kg'
+  title: Hills perro c/d 3.3 Lb 1.5 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/smart-iron.jpg
 default_original_image: images/incredible-lime.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
