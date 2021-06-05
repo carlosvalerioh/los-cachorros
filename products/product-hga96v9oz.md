@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec Weight Control 15 kgs
 description: >-
   SKU:OO22 <br> Control de peso. Los kilos de más pueden perjudicar la calidad
   de vida de tu mascota al disminuir su movilidad. Este alimento contiene menor
