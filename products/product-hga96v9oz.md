@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Nupec Weight Control 15 kgs
+title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Nupec Weight Control.jpg
 ---
 ## Lorem ipsum
 
