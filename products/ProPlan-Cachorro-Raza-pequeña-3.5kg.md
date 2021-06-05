@@ -14,13 +14,13 @@ price: '515'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Cachorro Raza pequeña 3.5 kg'
+  title: Pro Plan Cachorro Raza pequeña 3.5 kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_thumbnail_image: images/Pro Plan Cachorro Raza pequeña.jpg
 default_original_image: images/splendid-spinach.jpg
 ---
