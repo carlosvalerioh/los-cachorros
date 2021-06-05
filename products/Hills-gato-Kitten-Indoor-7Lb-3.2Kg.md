@@ -5,7 +5,7 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Kitten Indoor 7 Lb 3.2 Kg'
+  title: Hills gato Kitten Indoor 7 Lb 3.2 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ description: >-
   al de un gato de exteriores. El alimento seco para gatos Hill's Science Diet
   Kitten Indoor Cat Receta de Pollo, aporta una nutrición precisa para los
   gatitos de interiores a medida que crecen. 
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
