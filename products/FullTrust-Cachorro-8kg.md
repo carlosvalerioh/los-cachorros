@@ -10,7 +10,7 @@ price: '690'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Cachorro 8 kg'
+  title: Full Trust Cachorro 8 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/elite-squid.jpg
 default_original_image: images/smiling-dolphin.jpg
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 ---
 ## Lorem ipsum
 
