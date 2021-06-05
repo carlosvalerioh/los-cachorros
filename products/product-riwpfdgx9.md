@@ -5,7 +5,7 @@ description: >-
   SKU:MN4 <br> Sin saborizantes artificiales. Garantiza una alimentación 100%
   completa y balanceada. Con el sabor mixto del pollo, verduras y trocitos de
   carne.
-price: lorem-ipsum
+price: '830'
 order: 0
 featured: false
 seo:
