@@ -9,7 +9,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec senior Longevo 2 kg'
   description: ''
   robots: []
   extra: []
