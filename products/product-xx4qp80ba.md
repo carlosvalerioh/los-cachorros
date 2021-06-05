@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/pink-hickory.jpg
 default_original_image: images/modern-moon.jpg
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
