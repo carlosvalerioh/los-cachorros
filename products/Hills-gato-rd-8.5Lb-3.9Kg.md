@@ -10,7 +10,7 @@ price: '795'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato r/d 8.5 Lb 3.9 Kg'
+  title: Hills gato r/d 8.5 Lb 3.9 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Hills gato r-d.jpg
 default_original_image: images/clever-strawberry.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
