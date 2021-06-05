@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Nupec Senior Longevo Razas Pequeñas.jpg
+default_thumbnail_image: images/magical-sycamore.jpg
 ---
 ## Lorem ipsum
 
