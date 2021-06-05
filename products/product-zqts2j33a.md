@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/super-kale.jpg
 default_original_image: images/purple-onion.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
