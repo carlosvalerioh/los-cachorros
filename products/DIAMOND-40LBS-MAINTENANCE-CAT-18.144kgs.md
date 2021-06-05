@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/mighty-olive.png
 default_original_image: images/wonderful-birch.png
-category: category/GATOS-DIAMOND.md
+category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
 
