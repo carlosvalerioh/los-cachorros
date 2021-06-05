@@ -12,7 +12,7 @@ price: '450'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Salmon Adulto raza pequeña sensitive skin 3 kg'
+  title: Pro Plan Salmon Adulto raza pequeña sensitive skin 3 kg
   description: ''
   robots: []
   extra: []
@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Salmon Adulto raza pequeña sensitive skin 3 kg.jpg
 default_original_image: images/Pro Plan Salmon Adulto raza pequeña sensitive skin 3 kg.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
