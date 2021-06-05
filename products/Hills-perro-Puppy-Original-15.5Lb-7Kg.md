@@ -11,7 +11,7 @@ price: '1,010'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro Puppy Original 15.5 Lb 7 Kg'
+  title: Hills perro Puppy Original 15.5 Lb 7 Kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_original_image: images/magenta-spruce.jpg
 default_thumbnail_image: images/marvelous-panda.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
