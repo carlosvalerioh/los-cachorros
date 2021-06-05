@@ -8,7 +8,7 @@ price: '585'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gato  NF advance care feline 3.62kg'
+  title: Pro Plan Gato  NF advance care feline 3.62kg
   description: ''
   robots: []
   extra: []
@@ -16,7 +16,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  NF advance care feline.jpg
 default_original_image: images/magical-daffodil.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
