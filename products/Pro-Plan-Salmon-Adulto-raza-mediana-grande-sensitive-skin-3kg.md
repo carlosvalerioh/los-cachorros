@@ -12,13 +12,13 @@ price: '440'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Salmon Adulto raza mediana/grande sensitive skin 3 kg'
+  title: Pro Plan Salmon Adulto raza mediana/grande sensitive skin 3 kg
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_thumbnail_image: images/61btu8biG2L._AC_SS450_.jpg
 default_original_image: images/61btu8biG2L._AC_SS450_.jpg
 ---
