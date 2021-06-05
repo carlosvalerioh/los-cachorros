@@ -10,7 +10,7 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: 'Hills gato Adult Original 4 Lb 1.8 Kg'
+  title: Hills gato Adult Original 4 Lb 1.8 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_original_image: images/Hills gato Adult Original.jpg
 default_thumbnail_image: images/maroon-comet.jpg
-category: category/category-mstdyun0a.md
+category: category/GATOS-HILLS.md
 ---
 ## Lorem ipsum
 
