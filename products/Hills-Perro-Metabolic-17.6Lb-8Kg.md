@@ -9,7 +9,7 @@ price: '1,160'
 order: 0
 featured: false
 seo:
-  title: 'Hills Perro Metabolic 17.6 Lb 8 Kg'
+  title: Hills Perro Metabolic 17.6 Lb 8 Kg
   description: ''
   robots: []
   extra: []
@@ -17,7 +17,7 @@ seo:
 layout: product
 default_original_image: images/successful-anemone.png
 default_thumbnail_image: images/neat-sparrow.png
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
