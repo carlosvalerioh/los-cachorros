@@ -11,7 +11,7 @@ price: '595'
 order: 0
 featured: false
 seo:
-  title: 'Pro Plan Gato Dm feline dry 6 lb 2.72 kg'
+  title: Pro Plan Gato Dm feline dry 6 lb 2.72 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Dm feline dry 6 lb.jpg
 default_original_image: images/polite-tulip.jpg
-category: category/summer.md
+category: category/category-t4r6q5lvc.md
 ---
 ## Lorem ipsum
 
