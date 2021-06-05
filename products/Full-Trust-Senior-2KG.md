@@ -9,13 +9,13 @@ price: '280'
 order: 0
 featured: false
 seo:
-  title: 'Full Trust Senior 2 KG'
+  title: Full Trust Senior 2 KG
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/category-sytu722fo.md
+category: category/PERROS-FULL-TRUST.md
 default_thumbnail_image: images/Full Trust Senior.jpg
 default_original_image: images/panoramic-broccoli.jpg
 ---
