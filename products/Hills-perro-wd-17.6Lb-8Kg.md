@@ -10,7 +10,7 @@ price: '1,160'
 order: 0
 featured: false
 seo:
-  title: 'Hills perro w/d 17.6 Lb 8 Kg'
+  title: Hills perro w/d 17.6 Lb 8 Kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/super-spinach.jpg
 default_original_image: images/majestic-triceratops.jpg
-category: category/category-e2l57ul4s.md
+category: category/PERROS-HILLS.md
 ---
 ## Lorem ipsum
 
