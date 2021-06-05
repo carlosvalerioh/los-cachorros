@@ -13,7 +13,7 @@ price: '830'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Ganador Premium Razas Pequeñas 20 KGS'
   description: ''
   robots: []
   extra: []
