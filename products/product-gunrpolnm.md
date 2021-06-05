@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: NUPEC SENSITIVE 2 KG
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
