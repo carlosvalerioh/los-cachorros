@@ -10,7 +10,7 @@ price: '294'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC GATO KITTEN 3 KG'
   description: ''
   robots: []
   extra: []
