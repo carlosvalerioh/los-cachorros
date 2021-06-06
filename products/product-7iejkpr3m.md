@@ -5,7 +5,7 @@ price: '325'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC GATO SENIOR 3 KG'
   description: ''
   robots: []
   extra: []
