@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/good-olive.jpg
+default_original_image: images/scientific-tiger.jpg
 ---
 ## Lorem ipsum
 
