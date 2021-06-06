@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec adulto.jpg
 default_original_image: images/magnificent-coriander.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
