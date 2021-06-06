@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/marvelous-lavender.jpg
+default_original_image: images/amazing-stegosaurus.jpg
 ---
 ## Lorem ipsum
 
