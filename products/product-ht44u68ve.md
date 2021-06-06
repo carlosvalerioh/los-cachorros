@@ -11,7 +11,7 @@ price: '1,100'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec adulto 20 kgs'
   description: ''
   robots: []
   extra: []
