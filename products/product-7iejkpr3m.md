@@ -1,7 +1,6 @@
 ---
 id: lorem-ipsum
 title: NUPEC GATO SENIOR 3 KG
-description: lorem-ipsum
 price: lorem-ipsum
 order: 0
 featured: false
