@@ -45,6 +45,7 @@ sections:
       - products/product-ukmltbw9i.md
       - products/product-n9s4vy7wb.md
       - products/product-fqocc1gp7.md
+      - products/product-x9k2i5kit.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
