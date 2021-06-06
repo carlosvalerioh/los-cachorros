@@ -19,6 +19,7 @@ description: >-
   manteniéndolo activo y sano por más tiempo.
 default_thumbnail_image: images/NUPEC GATO SENIOR.jpg
 default_original_image: images/friendly-mars.jpg
+category: category/GATOS-NUPEC.md
 ---
 ## Lorem ipsum
 
