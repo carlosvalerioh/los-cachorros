@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/NUPEC INDOOR.jpg
 default_original_image: images/happy-petunia.jpg
+category: category/category-9n89faha7.md
 ---
 ## Lorem ipsum
 
