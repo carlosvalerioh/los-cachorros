@@ -24,7 +24,6 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - products/product-4ns6mbkbn.md
       - products/product-gunrpolnm.md
       - products/product-94toabbcp.md
   - type: featured_categories_section
