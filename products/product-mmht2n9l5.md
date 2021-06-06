@@ -6,7 +6,7 @@ description: >-
   saludable y jugueton gracias a: Formula balanceada por expertos nutrionistas.
   Alto aceptacion por tu gato (gustosidad) alta digestibilidad (máximo
   provechamiento de nutrimentos).
-price: lorem-ipsum
+price: '184'
 order: 0
 featured: false
 seo:
