@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Nupec adulto.jpg
+default_original_image: images/magnificent-coriander.jpg
 ---
 ## Lorem ipsum
 
