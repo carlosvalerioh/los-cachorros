@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/NUPEC SENSITIVE Razas Pequeñas.jpg
+default_original_image: images/panoramic-triceratops.jpg
 ---
 ## Lorem ipsum
 
