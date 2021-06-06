@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/NUPEC GATO KITTEN.png
+default_original_image: images/pleasant-eucalyptus.png
 ---
 ## Lorem ipsum
 
