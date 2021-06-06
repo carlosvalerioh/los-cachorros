@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Nupec adulto Razas Pequeñas.png
+default_original_image: images/fabulous-primrose.png
 ---
 ## Lorem ipsum
 
