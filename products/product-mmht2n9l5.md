@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/important-parsley.png
 default_original_image: images/beige-hedgehog.png
+category: category/GATOS-NUPEC.md
 ---
 ## Lorem ipsum
 
