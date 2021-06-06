@@ -10,7 +10,7 @@ price: '184'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC GATO KITTEN 1.5 KG'
   description: ''
   robots: []
   extra: []
