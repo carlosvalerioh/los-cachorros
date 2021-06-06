@@ -10,7 +10,7 @@ price: '185'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec adulto Razas Pequeñas 2 kgs'
   description: ''
   robots: []
   extra: []
