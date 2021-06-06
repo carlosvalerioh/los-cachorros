@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: v
+title: NUPEC SENSITIVE Razas Pequeñas 2KG
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
