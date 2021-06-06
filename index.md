@@ -24,7 +24,6 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - products/product-s6mlohhvt.md
       - products/product-97uirnsql.md
       - products/product-gydlpa921.md
       - products/product-7wtkx2svi.md
