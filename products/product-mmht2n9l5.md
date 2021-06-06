@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/important-parsley.png
+default_original_image: images/beige-hedgehog.png
 ---
 ## Lorem ipsum
 
