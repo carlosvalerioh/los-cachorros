@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Nupec adulto Razas Pequeñas 8 kgs
-description: lorem-ipsum
+description: >-
+  SKU:OO10 <br> Es ideal para perros de menos de 15 Kg. Rápido metabolismo de
+  las razas pequeñas. La croqueta es más pequeña, para que sea más cómodo para
+  tu perro. Cuida el organismo de tu perro. Nutrientes esenciales y son de fácil
+  digestión.
 price: lorem-ipsum
 order: 0
 featured: false
