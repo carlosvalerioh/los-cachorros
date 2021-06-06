@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: NUPEC GATO KITTEN 1.5 KG
-description: lorem-ipsum
+description: >-
+  SKU:OO28 <br> NUPEC kitten ayuda a permanecer a tu gato bien nutrido,
+  saludable y jugueton gracias a: Formula balanceada por expertos nutrionistas.
+  Alto aceptacion por tu gato (gustosidad) alta digestibilidad (máximo
+  provechamiento de nutrimentos).
 price: lorem-ipsum
 order: 0
 featured: false
