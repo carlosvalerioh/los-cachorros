@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: NUPEC INDOOR 1.5 KG
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
