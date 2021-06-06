@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: NUPEC SENSITIVE Razas Pequeñas 8 KG
+title: NUPEC INDOOR 3 KG
 description: lorem-ipsum
 price: NUPEC SENSITIVE Razas Pequeñas 8 K
 order: 0
