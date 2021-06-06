@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: NUPEC PREMIOS
 description: lorem-ipsum
-price: lorem-ipsum
+price: 69
 order: 0
 featured: false
 seo:
