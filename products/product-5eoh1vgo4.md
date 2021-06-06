@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/good-olive.jpg
 default_original_image: images/scientific-tiger.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
