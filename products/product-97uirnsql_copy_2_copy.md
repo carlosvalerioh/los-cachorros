@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: NUPEC PREMIOS
-description: lorem-ipsum
+description: SKU:OO29 <br> Linea de premios con ingredientes funcionales, que además de ser ricos y nutritivos, brindan un beneficio en la vida y salud de nuestras mascotas.
 price: 69
 order: 0
 featured: false
