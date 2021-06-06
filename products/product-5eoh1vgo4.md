@@ -11,7 +11,7 @@ price: '153'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec adulto 2 kgs'
   description: ''
   robots: []
   extra: []
