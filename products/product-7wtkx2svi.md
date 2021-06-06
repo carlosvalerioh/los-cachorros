@@ -11,7 +11,7 @@ price: '445'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC INDOOR 5 KG'
   description: ''
   robots: []
   extra: []
