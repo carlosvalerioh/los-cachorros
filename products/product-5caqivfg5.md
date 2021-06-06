@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/NUPEC GATO KITTEN.png
 default_original_image: images/pleasant-eucalyptus.png
+category: category/GATOS-NUPEC.md
 ---
 ## Lorem ipsum
 
