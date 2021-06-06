@@ -2,11 +2,11 @@
 id: lorem-ipsum
 title: NUPEC INDOOR 3 KG
 description: >-
-  SKU:OO25RP <br>  Por una alergia alimentaria diagnosticada por el Médico
-  Veterinario. Porque elimina o atenúa la alergia alimentaria que ya ha
-  desarrollado el perro hacia ciertos ingredientes. ALTA DIGESTIBILIDAD: Gracias
-  a un balance nutricional con la mezcla perfecta entre proteínas, grasa,
-  carbohidratos, vitaminas y minerales, para razas pequeñas.
+  SKU:OO27KI <br> Una alimentación balanceada es esencial para que tu fiel
+  compañero se mantenga sano y fuerte. La dieta de tu gato se refleja en su
+  pelaje, por eso es de vital importancia que contenga todos los nutrientes
+  necesarios para su crecimiento. Asegura la energía y vitalidad de tu amigo
+  para que pueda correr, saltar y jugar todo el día.
 price: '819'
 order: 0
 featured: false
