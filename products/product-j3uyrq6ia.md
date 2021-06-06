@@ -6,7 +6,7 @@ description: >-
   las razas pequeñas. La croqueta es más pequeña, para que sea más cómodo para
   tu perro. Cuida el organismo de tu perro. Nutrientes esenciales y son de fácil
   digestión.
-price: lorem-ipsum
+price: '185'
 order: 0
 featured: false
 seo:
