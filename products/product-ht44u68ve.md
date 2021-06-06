@@ -7,7 +7,7 @@ description: >-
   diseñada que le brinda los mayores nutrientes en la cantidad ideal para
   ayudarlo en su día a día, ademas de ayudarlo a mantener una figura sana,
   evitando así la obesidad en tu mascota.
-price: lorem-ipsum
+price: '1,100'
 order: 0
 featured: false
 seo:
