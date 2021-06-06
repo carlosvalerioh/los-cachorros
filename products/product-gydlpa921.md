@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Nupec adulto 5 kgs
 description: >-
   SKU:OO8 <br> Con Nupec Adultos, podrás nutrir a tu perro de tal manera que lo
   ayudaras a mantenerse sano por años, gracias a su formula científicamente
