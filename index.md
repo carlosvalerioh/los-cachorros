@@ -42,6 +42,7 @@ sections:
       - products/product-88setoakr.md
       - products/product-j5rojxc19.md
       - products/product-abbxcwpf8.md
+      - products/product-ukmltbw9i.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
