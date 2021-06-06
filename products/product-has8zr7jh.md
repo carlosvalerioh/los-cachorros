@@ -11,7 +11,7 @@ price: '500'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec adulto 8 kgs'
   description: ''
   robots: []
   extra: []
