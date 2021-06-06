@@ -11,6 +11,12 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+description: >-
+  SKU:OO38 <br> El metabolismo de un gato senior (+9 años) requiere de un
+  alimento formulado específicamente para cubrir las necesidades propias de un
+  adulto en etapa madura, con los nutrientes esenciales para retrasar el
+  envejecimiento y deterioro del organismo, fortaleciendo el sistema inmune y
+  manteniéndolo activo y sano por más tiempo.
 ---
 ## Lorem ipsum
 
