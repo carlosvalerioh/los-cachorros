@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/pink-eucalyptus.jpg
 default_original_image: images/futuristic-thyme.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
