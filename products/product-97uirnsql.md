@@ -11,7 +11,7 @@ price: '163'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC INDOOR 1.5 KG'
   description: ''
   robots: []
   extra: []
