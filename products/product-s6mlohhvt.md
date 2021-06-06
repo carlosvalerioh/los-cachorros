@@ -11,7 +11,7 @@ price: '305'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC INDOOR 3 KG'
   description: ''
   robots: []
   extra: []
