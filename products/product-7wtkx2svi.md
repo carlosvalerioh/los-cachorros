@@ -7,7 +7,7 @@ description: >-
   pelaje, por eso es de vital importancia que contenga todos los nutrientes
   necesarios para su crecimiento. Asegura la energía y vitalidad de tu amigo
   para que pueda correr, saltar y jugar todo el día.
-price: lorem-ipsum
+price: '445'
 order: 0
 featured: false
 seo:
