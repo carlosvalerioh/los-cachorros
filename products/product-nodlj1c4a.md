@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec adulto Razas Pequeñas.png
 default_original_image: images/fabulous-primrose.png
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
