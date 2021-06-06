@@ -18,6 +18,7 @@ description: >-
   envejecimiento y deterioro del organismo, fortaleciendo el sistema inmune y
   manteniéndolo activo y sano por más tiempo.
 default_thumbnail_image: images/NUPEC GATO SENIOR.jpg
+default_original_image: images/friendly-mars.jpg
 ---
 ## Lorem ipsum
 
