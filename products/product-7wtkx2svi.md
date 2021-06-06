@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/pink-wallaby.jpg
 default_original_image: images/splendid-turtle.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
