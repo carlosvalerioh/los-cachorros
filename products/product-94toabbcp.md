@@ -11,7 +11,7 @@ price: '263'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC SENSITIVE Razas Pequeñas 2KG'
   description: ''
   robots: []
   extra: []
