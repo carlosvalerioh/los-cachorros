@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/smiling-mango.png
+default_thumbnail_image: images/NUPEC GATO KITTEN.png
 ---
 ## Lorem ipsum
 
