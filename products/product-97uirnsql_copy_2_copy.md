@@ -1,12 +1,12 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: NUPEC PREMIOS
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'NUPEC PREMIOS'
   description: ''
   robots: []
   extra: []
