@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/marvelous-lavender.jpg
 default_original_image: images/amazing-stegosaurus.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
