@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: los cachoririytos
+title: v
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
