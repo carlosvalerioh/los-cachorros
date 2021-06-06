@@ -5,7 +5,7 @@ price: '336'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec adulto 5 kgs'
   description: ''
   robots: []
   extra: []
