@@ -10,7 +10,7 @@ price: '560'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Nupec adulto Razas Pequeñas 8 kgs'
   description: ''
   robots: []
   extra: []
