@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Nupec adulto Razas Pequeñas 2 kgs
+title: NUPEC GATO KITTEN 3 KG
 description: >-
   SKU:OO11 <br> Es ideal para perros de menos de 15 Kg. Rápido metabolismo de
   las razas pequeñas. La croqueta es más pequeña, para que sea más cómodo para
