@@ -7,7 +7,7 @@ description: >-
   tu fiel amigo se mantenga sano y fuerte, una alimentación balanceada es
   esencial. Royal Canin le brinda a tu perro todos los nutrientes que necesita
   para que pueda correr, saltar y jugar todo el día.
-price: lorem-ipsum
+price: '1,250'
 order: 0
 featured: false
 seo:
