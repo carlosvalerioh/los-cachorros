@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Perfect sense kitten.png
+default_original_image: images/spectacular-sparrow.png
 ---
 ## Lorem ipsum
 
