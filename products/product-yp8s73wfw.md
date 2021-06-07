@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  SKU:PSARG8 <br> Alimento balanceado para perros adulto de razas medianas,
+  grandes y gigantes perfecto para consentir a tus mascotas completamente
+  PREMIUM. Sin productos químicos 100% Natural. Elaborado c/ingredientes
+  totalmente naturales entre los que destacan.
 price: lorem-ipsum
 order: 0
 featured: false
