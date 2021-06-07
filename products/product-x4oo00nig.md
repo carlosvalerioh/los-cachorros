@@ -9,7 +9,7 @@ description: >-
   benéficos de este tratamiento dietético, deberá transcurrir un mínimo de 6-8
   semanas con este alimento. Este manejo nutricional puede continuarse el resto
   de la vida del perro.
-price: '1,'
+price: '1,575'
 order: 0
 featured: false
 seo:
