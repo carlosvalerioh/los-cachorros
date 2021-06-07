@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect sense kitten.png
 default_original_image: images/spectacular-sparrow.png
+category: category/GATOS - PERFECT SENSE.md
 ---
 ## Lorem ipsum
 
