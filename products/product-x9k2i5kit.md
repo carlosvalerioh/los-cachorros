@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/amazing-birch.jpeg
+default_original_image: images/groovy-dolphin.jpeg
 ---
 ## Lorem ipsum
 
