@@ -10,7 +10,7 @@ price: '955'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Adulto Razas Grandes 15kg'
   description: ''
   robots: []
   extra: []
