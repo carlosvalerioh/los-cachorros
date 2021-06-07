@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Perfect Sense Adulto Razas Grandes 3kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '235'
 order: 0
 featured: false
 seo:
