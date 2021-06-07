@@ -10,7 +10,7 @@ price: '255'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect sense senior 3 kgs'
   description: ''
   robots: []
   extra: []
