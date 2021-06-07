@@ -68,6 +68,7 @@ sections:
       type: action
     type: promotion_section
     image: images/festive-bee.jpg
+    background_image: images/melodic-cabbage.png
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
