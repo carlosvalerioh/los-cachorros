@@ -11,7 +11,7 @@ price: '170'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect sense kitten 1.5 kg'
   description: ''
   robots: []
   extra: []
