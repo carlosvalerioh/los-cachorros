@@ -58,7 +58,7 @@ sections:
           para mi 
   - section_id: lorem-ipsum
     address: lorem-ipsum
-    phone: '5556947398'
+    phone: 'Tel: 5556947398'
     email: lorem-ipsum
     mapUrl: 'https://goo.gl/maps/95QTkJLNbsAPb89s9'
     type: contact_section
