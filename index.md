@@ -60,7 +60,7 @@ sections:
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum
-    mapUrl: 'https://goo.gl/maps/ZZhHypQYwyx2zkoH9'
+    mapUrl: 'https://goo.gl/maps/95QTkJLNbsAPb89s9'
     type: contact_section
   - section_id: lorem-ipsum
     title: 'Encuentra TODAS las marcas y a los mejores precios.  '
