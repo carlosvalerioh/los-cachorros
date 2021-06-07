@@ -37,6 +37,7 @@ sections:
       - products/Hills-perro-Puppy-Small-Paws-15.5Lb-7Kg.md
       - products/product-4h5qe73ke.md
       - products/Royal-Canin-Adult-Giant-14Kg.md
+      - products/product-2v4e1vsnv.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
