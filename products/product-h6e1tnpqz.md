@@ -6,7 +6,7 @@ description: >-
   grandes y gigantes perfecto para consentir a tus mascotas completamente
   PREMIUM. Sin productos químicos 100% Natural. Elaborado c/ingredientes
   totalmente naturales entre los que destacan.
-price: lorem-ipsum
+price: '955'
 order: 0
 featured: false
 seo:
