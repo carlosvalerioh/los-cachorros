@@ -13,7 +13,7 @@ price: '690'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Advanced Mobility Canine 4 Kg'
   description: ''
   robots: []
   extra: []
