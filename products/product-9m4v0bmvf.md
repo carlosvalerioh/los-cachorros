@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/PERROS-PERFECT-SENSE.md
+default_original_image: images/Perfect sense senior 8kg.jpg
 ---
 ## Lorem ipsum
 
