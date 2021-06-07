@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/Perfect sense senior 3kg.jpg
 default_thumbnail_image: images/rainy-tiger.jpg
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
