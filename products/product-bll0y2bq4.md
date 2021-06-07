@@ -11,7 +11,7 @@ price: '1,580'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canine Adult 15 Kg'
   description: ''
   robots: []
   extra: []
