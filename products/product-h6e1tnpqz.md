@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect Sense Adulto Razas Grandes.jpg
 default_original_image: images/smart-rosemary.jpg
-category: category/category-jeon96750.md
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
