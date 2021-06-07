@@ -50,7 +50,7 @@ sections:
           mucho más tiempo. 
       - author:
           name: Sra Marta 64 años
-          location: 'VA, USA'
+          location: 64 años
         text: >-
           Me gusta encontrar todos los tipos de alimentos y de mejores marcas a
           un mejor precio. Así mi mascota come mejor alimento y es más accesible
