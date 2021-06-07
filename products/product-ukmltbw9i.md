@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Club HE Dog 15 kg.jpg
+default_original_image: images/famous-robin.jpg
 ---
 ## Lorem ipsum
 
