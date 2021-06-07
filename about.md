@@ -35,7 +35,7 @@ sections:
           through free content and tools, like this theme. We also believe [the
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
-        image: images/team.jpg
+        image: images/lucrezia-carnelos-8dZRksE0lEg-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
