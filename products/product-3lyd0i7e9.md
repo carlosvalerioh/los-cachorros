@@ -11,7 +11,7 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Light 8 kgs'
   description: ''
   robots: []
   extra: []
