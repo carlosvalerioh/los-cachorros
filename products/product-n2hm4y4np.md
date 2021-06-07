@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/charming-hedgehog.jpg
 default_original_image: images/caring-eucalyptus.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
