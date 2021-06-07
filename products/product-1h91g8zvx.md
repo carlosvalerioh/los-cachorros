@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/magical-pineapple.png
-default_original_image: images/modern-steel.jpg
+default_original_image: images/interesting-olive.png
 category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
