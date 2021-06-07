@@ -10,7 +10,7 @@ price: '1,195'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Small Dog 9.5 Kg'
   description: ''
   robots: []
   extra: []
