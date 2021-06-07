@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/energetic-turtle.jpg
 default_original_image: images/successful-zucchini.jpg
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
