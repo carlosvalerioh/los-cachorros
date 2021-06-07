@@ -9,7 +9,7 @@ price: '1,295'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Club HE Dog 15 kg'
   description: ''
   robots: []
   extra: []
