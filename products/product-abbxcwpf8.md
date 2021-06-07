@@ -1,7 +1,13 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Club CC Dog 15 Kg
-description: lorem-ipsum
+description: >-
+  SKU:CC15 <br> Royal Canin C.C. es un alimento equilibrado, en forma de
+  croquetas expandidas para perros adultos con una actividad física normal. La
+  preparación especial de este alimento garantiza su buena aceptación y
+  digestión. Sus componentes se mantienen en una relación equilibrada, lo cual
+  permite que tu peludo se mantenga sano y fuerte. Su perro se mantendrá en
+  forma con esta comida, ya que tiene un contenido óptimo de energéticos.
 price: lorem-ipsum
 order: 0
 featured: false
