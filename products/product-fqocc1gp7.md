@@ -10,7 +10,7 @@ price: '1,720'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Anallergenic  9 Kg'
   description: ''
   robots: []
   extra: []
