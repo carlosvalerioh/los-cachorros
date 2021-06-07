@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Perfect Sense Adulto Razas Pequeñas 8kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
