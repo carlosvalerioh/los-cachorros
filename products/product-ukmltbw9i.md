@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Club HE Dog 15 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
