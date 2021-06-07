@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Adult Giant 14 Kg.jpg
 default_original_image: images/pleasant-coriander.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
