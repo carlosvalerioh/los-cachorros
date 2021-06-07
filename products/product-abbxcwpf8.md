@@ -8,7 +8,7 @@ description: >-
   digestión. Sus componentes se mantienen en una relación equilibrada, lo cual
   permite que tu peludo se mantenga sano y fuerte. Su perro se mantendrá en
   forma con esta comida, ya que tiene un contenido óptimo de energéticos.
-price: lorem-ipsum
+price: '1,300'
 order: 0
 featured: false
 seo:
