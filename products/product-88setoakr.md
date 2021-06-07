@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Perfect sense kitten 1.5 kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
