@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Club CC Dog 15 Kg.jpg
+default_original_image: images/kind-jupiter.jpg
 ---
 ## Lorem ipsum
 
