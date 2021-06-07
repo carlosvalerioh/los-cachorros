@@ -66,7 +66,7 @@ sections:
     title: 'Encuentra TODAS las marcas y a los mejores precios.  '
     subtitle: desde $ 149.99
     cta:
-      title: descubrir
+      title: Ver Ahora
       url: '#'
       style: primary
       arrow: false
