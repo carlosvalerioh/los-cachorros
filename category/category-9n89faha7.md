@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: PERROS - PERFECT SENSE
 order: 0
 seo:
   title: ''
