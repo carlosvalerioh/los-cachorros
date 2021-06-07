@@ -10,7 +10,7 @@ price: '630'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Small Dog 4 Kg'
   description: ''
   robots: []
   extra: []
