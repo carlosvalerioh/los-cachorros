@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Club HE Dog 15 kg
-description: lorem-ipsum
+description: >-
+  SKU:HE15 <br>  Alimento balanceado para perros adultos a partir de los 12
+  meses de edad con alta actividad física o de alto rendimiento. Favorece la
+  digestión y reduce la cantidad de heces. Con un alto valor energético.
 price: lorem-ipsum
 order: 0
 featured: false
