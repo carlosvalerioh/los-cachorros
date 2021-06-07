@@ -11,7 +11,7 @@ price: '265'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Light 3 kgs'
   description: ''
   robots: []
   extra: []
