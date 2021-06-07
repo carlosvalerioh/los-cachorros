@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Perfect sense senior 3 kgs
-description: lorem-ipsum
+description: >-
+  SKU:PSS3 <br> Alimento balanceado para perro adulto de edad avanzada.
+  Características: Alimento con ingredientes naturales y la cantidad perfecta de
+  nutrientes para perros adultos de edad avanzada, que ayuda a brindar una vida
+  sana y retrasar los efectos del envejecimiento.
 price: lorem-ipsum
 order: 0
 featured: false
