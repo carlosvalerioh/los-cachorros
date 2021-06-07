@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/PERROS-PERFECT-SENSE.md
+default_thumbnail_image: images/splendid-turmeric.jpg
 ---
 ## Lorem ipsum
 
