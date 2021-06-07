@@ -7,7 +7,7 @@ description: >-
   mantenimiento de la masa muscular. Minerales a estos minerales en su forma
   orgánica. Alta concentración de nutrientes y antioxidantes para satisfacer las
   necesidades metabólicas de las RAZAS PEQUEÑAS ADULTAS.
-price: lorem-ipsum
+price: '250'
 order: 0
 featured: false
 seo:
@@ -19,7 +19,6 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect Sense Adulto Razas Pequeñas 3kg.jpg
 default_original_image: images/modern-steel.jpg
-category: category/category-nly4a0c21.md
 ---
 ## Lorem ipsum
 
