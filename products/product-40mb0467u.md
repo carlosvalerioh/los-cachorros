@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Perfect sense senior 3 kgs
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
