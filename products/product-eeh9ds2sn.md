@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Adult Small Dog 9.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RAS95 <br> Alimento para perros adultos de talla pequeña de los 10 meses a
+  los 8 años de edad. Ayuda a mantener el peso ideal en los perros de razas
+  pequeñas gracias a una fórmula que satisface sus elevadas necesidades
+  energéticas y contiene L-carnitina para promover el metabolismo de las grasas.
 price: lorem-ipsum
 order: 0
 featured: false
