@@ -33,6 +33,7 @@ sections:
       - products/product-bll0y2bq4.md
       - products/product-2iuzptjt2.md
       - products/product-32xakx08g.md
+      - products/product-93gxzzx3e.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
