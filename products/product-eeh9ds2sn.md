@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/fierce-artichoke.jpg
 default_thumbnail_image: images/purple-tomato.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
