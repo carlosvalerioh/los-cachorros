@@ -11,7 +11,7 @@ price: '690'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Cachorro Razas Pequeñas 8kg'
   description: ''
   robots: []
   extra: []
