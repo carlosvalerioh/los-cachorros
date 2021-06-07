@@ -58,6 +58,12 @@ sections:
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
   - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
+  - section_id: lorem-ipsum
     title: Un nuevo interior de hogar para el verano
     subtitle: desde $ 149.99
     cta:
@@ -69,12 +75,6 @@ sections:
     type: promotion_section
     image: images/festive-bee.jpg
     background_image: images/melodic-cabbage.png
-  - section_id: lorem-ipsum
-    address: lorem-ipsum
-    phone: lorem-ipsum
-    email: lorem-ipsum
-    mapUrl: lorem-ipsum
-    type: contact_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
