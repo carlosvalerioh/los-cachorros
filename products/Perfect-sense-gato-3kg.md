@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect sense gato.png
 default_original_image: images/superb-mustard.png
-category: category/GATOS - PERFECT SENSE.md
+category: category/GATOS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
