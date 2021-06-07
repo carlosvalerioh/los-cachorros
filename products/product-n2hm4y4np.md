@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/charming-hedgehog.jpg
+default_original_image: images/caring-eucalyptus.jpg
 ---
 ## Lorem ipsum
 
