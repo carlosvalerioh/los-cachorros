@@ -7,7 +7,7 @@ description: >-
   químicos 100% Natural. Elaborado c/ingredientes totalmente naturales entre los
   que destacan. La proteína adecuada de origen animal, como primer ingrediente,
   que ayuda a la formación y mantenimiento de la masa muscular.
-price: lorem-ipsum
+price: '690'
 order: 0
 featured: false
 seo:
