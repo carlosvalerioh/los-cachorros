@@ -19,6 +19,7 @@ layout: product
 default_original_image: images/Royal Adult Large Dog 12 Kg.png
 default_thumbnail_image: images/oval-broccoli.png
 category: category/PERROS-ROYAL-CANIN.md
+title: Royal Canin Adult Large Dog 12 Kg
 ---
 ## Lorem ipsum
 
