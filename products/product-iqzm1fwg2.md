@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Babydog Milk 2 Kg.jpg
 default_original_image: images/pleasant-wallaby.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
