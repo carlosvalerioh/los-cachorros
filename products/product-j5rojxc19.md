@@ -7,7 +7,7 @@ description: >-
   vida, garantizándote una excelente nutrición que le ayudara a desarrollar un
   sistema inmunológico fuerte, además de proteger su sistema digestivo, piel y
   pelaje.
-price: lorem-ipsum
+price: '320'
 order: 0
 featured: false
 seo:
