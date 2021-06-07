@@ -57,7 +57,9 @@ sections:
           un mejor precio. Así mi mascota come mejor alimento y es más accesible
           para mi 
   - section_id: lorem-ipsum
-    address: lorem-ipsum
+    address: >-
+      Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
+      Iztapalapa, CDMX C.P. 09040
     phone: 'Tel: 5556947398'
     email: Cel. 5584787997
     mapUrl: 'https://goo.gl/maps/95QTkJLNbsAPb89s9'
