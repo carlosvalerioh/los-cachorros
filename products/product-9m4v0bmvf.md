@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/PERROS-PERFECT-SENSE.md
 default_original_image: images/Perfect sense senior 8kg.jpg
+default_thumbnail_image: images/perpetual-lavender.jpg
 ---
 ## Lorem ipsum
 
