@@ -6,7 +6,7 @@ description: >-
   los 8 años de edad. Ayuda a mantener el peso ideal en los perros de razas
   pequeñas gracias a una fórmula que satisface sus elevadas necesidades
   energéticas y contiene L-carnitina para promover el metabolismo de las grasas.
-price: lorem-ipsum
+price: '1,195'
 order: 0
 featured: false
 seo:
