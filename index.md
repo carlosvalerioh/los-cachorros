@@ -63,7 +63,7 @@ sections:
     mapUrl: lorem-ipsum
     type: contact_section
   - section_id: lorem-ipsum
-    title: Un nuevo interior de hogar para el verano
+    title: 'Encuentra TODAS las marcas y a los mejores precios.  '
     subtitle: desde $ 149.99
     cta:
       title: descubrir
