@@ -20,6 +20,7 @@ layout: product
 default_original_image: images/green-mustard.jpg
 default_thumbnail_image: images/pleasant-cedar.jpg
 price: '520'
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
