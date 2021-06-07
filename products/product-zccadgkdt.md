@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect Sense Light.png
 default_original_image: images/pink-octopus.png
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
