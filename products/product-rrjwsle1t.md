@@ -1,7 +1,14 @@
 ---
 id: lorem-ipsum
-title: Perfect Sense Adulto Razas Grandes 3kg
-description: lorem-ipsum
+title: lorem-ipsum
+description: >-
+  SKU:PSARG3 <br> Alimento balanceado para perros adulto de razas medianas,
+  grandes y gigantes perfecto para consentir a tus mascotas completamente
+  PREMIUM. Sin productos químicos 100% Natural. Elaborado c/ingredientes
+  totalmente naturales entre los que destacan.Alimento balanceado para perros
+  adulto de razas medianas, grandes y gigantes perfecto para consentir a tus
+  mascotas completamente PREMIUM. Sin productos químicos 100% Natural. Elaborado
+  c/ingredientes totalmente naturales entre los que destacan.
 price: lorem-ipsum
 order: 0
 featured: false
