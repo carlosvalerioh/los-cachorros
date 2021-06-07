@@ -59,7 +59,7 @@ sections:
   - section_id: lorem-ipsum
     address: lorem-ipsum
     phone: 'Tel: 5556947398'
-    email: lorem-ipsum
+    email: Cel. 5584787997
     mapUrl: 'https://goo.gl/maps/95QTkJLNbsAPb89s9'
     type: contact_section
   - section_id: lorem-ipsum
