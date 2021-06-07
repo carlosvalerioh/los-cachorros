@@ -7,7 +7,7 @@ description: >-
   gracias a una adecuada selección de ingredientes que harán que tu mascota
   tenga una buena digestión y un tracto intestinal sano. A demás proporciona la
   energía necesaria para tu cachorro.
-price: lorem-ipsum
+price: '1,375'
 order: 0
 featured: false
 seo:
