@@ -6,7 +6,7 @@ description: >-
   Características: Alimento con ingredientes naturales y la cantidad perfecta de
   nutrientes para perros adultos de edad avanzada, que ayuda a brindar una vida
   sana y retrasar los efectos del envejecimiento.
-price: lorem-ipsum
+price: '255'
 order: 0
 featured: false
 seo:
