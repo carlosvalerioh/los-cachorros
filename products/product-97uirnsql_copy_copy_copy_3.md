@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Royal Canin Bulldog Puppy 2.72 Kg
+title: Royal Canine Adult 15 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
