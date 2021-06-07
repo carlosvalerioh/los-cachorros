@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/clever-celery.png
 default_original_image: images/Perfect Sense Adulto Razas Pequeñas 8kg.png
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
