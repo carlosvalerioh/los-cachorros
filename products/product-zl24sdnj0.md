@@ -1,8 +1,12 @@
 ---
 id: lorem-ipsum
-title: Perfect Sense Cachorro Razas Grandes 15kg
-description: lorem-ipsum
-price: lorem-ipsum
+title: lorem-ipsum
+description: >-
+  SKU:PSCRG15 <br> Perfect sense está formulado con una gran variedad de
+  ingredientes naturales que maximizan el potencial, alargan la vida y previenen
+  los problemas nutricionales más comunes en los perros. Los minerales orgánicos
+  que contiene, hacen que este alimento sea único en su clase. 
+price: '1,065'
 order: 0
 featured: false
 seo:
