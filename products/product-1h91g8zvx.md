@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Perfect Sense Adulto Razas Pequeñas 3kg.jpg
+default_original_image: images/modern-steel.jpg
 ---
 ## Lorem ipsum
 
