@@ -10,7 +10,7 @@ price: '1,310'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Babydog Milk 2 Kg'
   description: ''
   robots: []
   extra: []
