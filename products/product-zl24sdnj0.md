@@ -9,7 +9,7 @@ price: '1,065'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Cachorro Razas Grandes 15kg'
   description: ''
   robots: []
   extra: []
