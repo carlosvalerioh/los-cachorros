@@ -6,7 +6,7 @@ description: >-
   Camadas muy numerosas. Para un crecimiento estable y armonioso, la composición
   de la leche Babycat milk, es lo más cercano posible a la leche materna, con
   altos niveles de energía y proteína.
-price: lorem-ipsum
+price: '430'
 order: 0
 featured: false
 seo:
