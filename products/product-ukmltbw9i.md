@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Club HE Dog 15 kg.jpg
 ---
 ## Lorem ipsum
 
