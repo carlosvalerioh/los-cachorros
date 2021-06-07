@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/melodic-sycamore.png
 default_original_image: images/pink-pluto.png
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
