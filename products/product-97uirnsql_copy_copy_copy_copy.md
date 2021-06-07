@@ -1,6 +1,5 @@
 ---
 id: lorem-ipsum
-title: Royal Canin Adult Large Dog 12 Kg
 description: >-
   SKU:RAL12 <br> Royal Canin Adulto Large Dog Bolsa de 12Kg Alimento Premium.
   Ellos son parte de la familia y nos brindan su compañía y su cariño. Para que
