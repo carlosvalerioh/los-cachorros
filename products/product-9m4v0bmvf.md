@@ -10,7 +10,7 @@ price: '665'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect sense senior 8 kg'
   description: ''
   robots: []
   extra: []
