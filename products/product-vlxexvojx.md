@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/thoughtful-sage.jpg
 default_original_image: images/modern-mahogany.jpg
+category: category/category-3y5u5e33w.md
 ---
 ## Lorem ipsum
 
