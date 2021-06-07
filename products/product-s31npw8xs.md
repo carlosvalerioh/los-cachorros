@@ -2,7 +2,6 @@
 id: lorem-ipsum
 title: Royal Canin Bulldog Puppy 2.72 Kg
 description: lorem-ipsum
-price: .
 order: 0
 featured: false
 seo:
