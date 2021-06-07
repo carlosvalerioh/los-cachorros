@@ -2,11 +2,10 @@
 id: lorem-ipsum
 title: Perfect Sense Cachorro Razas Grandes 3kg
 description: >-
-  SKU:PSARP3 <br>  Sin productos químicos 100% Natural. La proteína adecuada de
-  origen animal, como primer ingrediente, que ayuda a la formación y
-  mantenimiento de la masa muscular. Minerales a estos minerales en su forma
-  orgánica. Alta concentración de nutrientes y antioxidantes para satisfacer las
-  necesidades metabólicas de las RAZAS PEQUEÑAS ADULTAS.
+  SKU:PSCRG3 <br> Perfect sense está formulado con una gran variedad de
+  ingredientes naturales que maximizan el potencial, alargan la vida y previenen
+  los problemas nutricionales más comunes en los perros. Los minerales orgánicos
+  que contiene, hacen que este alimento sea único en su clase. 
 price: '250'
 order: 0
 featured: false
