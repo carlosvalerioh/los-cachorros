@@ -17,9 +17,9 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-category: category/PERROS-PERFECT-SENSE.md
 default_thumbnail_image: images/Perfect Sense Adulto Razas Pequeñas 3kg.jpg
 default_original_image: images/modern-steel.jpg
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
