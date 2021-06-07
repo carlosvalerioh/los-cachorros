@@ -24,7 +24,7 @@ seo:
       value: Big plants
     - name: 'twitter:description'
       value: This is the store page
-    - name: 'twitter:image'
+    - name: 'GATOS - PERFECT SENSE '
       value: images/plant1-lg.jpg
       relativeUrl: true
 title: PERROS - PRO PLAN
