@@ -8,7 +8,7 @@ description: >-
   proteínas altamente digestibles, un contenido preciso de fibras y fuentes de
   carbohidratos de alta calidad. Proteínas seleccionadas por su elevada
   digestibilidad.
-price: lorem-ipsum
+price: '1,670'
 order: 0
 featured: false
 seo:
