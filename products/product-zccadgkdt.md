@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Perfect Sense Light 3 kgs
 description: >-
   SKU:PSL3 <br> Proteínas extraídas de fuentes naturales que combinadas
   perfectamente con altos niveles de fibra y bajas cantidades de grasa, ayudan a
