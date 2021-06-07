@@ -67,6 +67,7 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+    image: images/festive-bee.jpg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
