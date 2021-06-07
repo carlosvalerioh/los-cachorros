@@ -43,7 +43,7 @@ sections:
     title: RESAÑA
     testimonials:
       - author:
-          name: John Dope
+          name: Miguel 26 años
           location: 'Colorado, USA'
         text: >-
           Antes no compraba bultos pequeños de alimento para mi perrito pero se
