@@ -67,7 +67,7 @@ sections:
     subtitle: desde $ 149.99
     cta:
       title: Ver Ahora
-      url: '#tienda'
+      url: '#store'
       style: link
       arrow: false
       type: action
