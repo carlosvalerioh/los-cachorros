@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Anallergenic  9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RANA9 <br> Formulado con péptidos de bajo peso molecular para reducir el
+  riesgo de reacciones alérgicas al alimento. Limitación de Alergénos. La
+  fórmula y el proceso de producción tienen como objetivo evitar el contacto con
+  fuentes de alérgenos de los alimentos.
 price: lorem-ipsum
 order: 0
 featured: false
