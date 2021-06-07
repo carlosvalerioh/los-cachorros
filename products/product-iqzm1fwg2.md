@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Babydog Milk 2 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RBDM2 <br> Este Royal Canin Babydog Milk es un alimento completo perfecto
+  para tus cachorros, desde el nacimiento hasta el destete (0-2 meses). Babydog
+  Milk está muy enriquecida con DHA, que está naturalmente presente en la leche
+  materna para ayudar a apoyar la función cognitiva en sus cachorros.
 price: lorem-ipsum
 order: 0
 featured: false
