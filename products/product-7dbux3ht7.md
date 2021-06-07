@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Baby Cat Milk 0.3 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RBCM300 <br> Leche para gatitos desde el nacimiento hasta el destete.
+  Camadas muy numerosas. Para un crecimiento estable y armonioso, la composición
+  de la leche Babycat milk, es lo más cercano posible a la leche materna, con
+  altos niveles de energía y proteína.
 price: lorem-ipsum
 order: 0
 featured: false
