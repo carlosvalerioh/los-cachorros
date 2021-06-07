@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Club CC Dog 15 Kg.jpg
 ---
 ## Lorem ipsum
 
