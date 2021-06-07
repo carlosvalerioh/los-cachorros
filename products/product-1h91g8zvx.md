@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Perfect Sense Adulto Razas Pequeñas 3kg
-description: lorem-ipsum
+description: >-
+  SKU:PSARP3 <br>  Sin productos químicos 100% Natural. La proteína adecuada de
+  origen animal, como primer ingrediente, que ayuda a la formación y
+  mantenimiento de la masa muscular. Minerales a estos minerales en su forma
+  orgánica. Alta concentración de nutrientes y antioxidantes para satisfacer las
+  necesidades metabólicas de las RAZAS PEQUEÑAS ADULTAS.
 price: lorem-ipsum
 order: 0
 featured: false
