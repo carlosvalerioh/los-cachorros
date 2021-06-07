@@ -9,7 +9,7 @@ price: '1,500'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Giant 14 Kg'
   description: ''
   robots: []
   extra: []
