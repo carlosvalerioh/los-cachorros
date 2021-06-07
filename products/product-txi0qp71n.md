@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/Perfect Sense Cachorro Razas Pequeñas.jpg
+default_thumbnail_image: images/clever-celery.png
 default_original_image: images/Perfect Sense Adulto Razas Pequeñas 8kg.png
 ---
 ## Lorem ipsum
