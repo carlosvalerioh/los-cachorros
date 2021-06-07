@@ -7,7 +7,7 @@ description: >-
   fortalecer una óptima salud intestinal. No contiene: conservadores,
   saborizantes o colorantes artificiales que causen daños a la salud de nuestra
   mascota a largo plazo y que ayudan a fortalecer una óptima salud intestinal.
-price: lorem-ipsum
+price: '170'
 order: 0
 featured: false
 seo:
