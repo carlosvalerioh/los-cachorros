@@ -13,7 +13,7 @@ price: '1,575'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Advanced Mobility Canine 12 Kg'
   description: ''
   robots: []
   extra: []
