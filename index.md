@@ -43,7 +43,7 @@ sections:
     title: RESAÑA
     testimonials:
       - author:
-          name: Miguel 26 años
+          name: 'Miguel '
         text: >-
           Antes no compraba bultos pequeños de alimento para mi perrito pero se
           terminaban pronto, ahora pido bultos de comida más grandes y me rinden
