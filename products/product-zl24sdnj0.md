@@ -1,6 +1,5 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
 description: >-
   SKU:PSCRG15 <br> Perfect sense está formulado con una gran variedad de
   ingredientes naturales que maximizan el potencial, alargan la vida y previenen
