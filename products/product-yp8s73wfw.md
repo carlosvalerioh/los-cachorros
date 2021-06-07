@@ -18,6 +18,7 @@ seo:
 layout: product
 category: category/PERROS-PERFECT-SENSE.md
 default_thumbnail_image: images/splendid-turmeric.jpg
+default_original_image: images/polite-aluminum.jpg
 ---
 ## Lorem ipsum
 
