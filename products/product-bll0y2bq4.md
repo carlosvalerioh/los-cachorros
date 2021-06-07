@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Royal Canine Adult 15 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RCA15 <br> La acción sinérgica del cóctel patentado de 4 vitaminas (ácido
+  Pantoténico, Inositol, Niacina y Colina) y 1 aminoácido (Histidina), para
+  reforzar la efectividad de la barrera de piel y limitar el riesgo de
+  irritación cutánea por medio de la promoción de síntesis de ceramidas y
+  limitando la pérdida de agua transepidérmica.
 price: lorem-ipsum
 order: 0
 featured: false
