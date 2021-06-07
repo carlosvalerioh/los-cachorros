@@ -8,7 +8,7 @@ description: >-
   inmunológico y mantiene su cuerpo creciendo fuerte, contiene las proteínas y
   los prebióticos de alta calidad ayudan a promover una calidad óptima de las
   heces.
-price: lorem-ipsum
+price: '1,730'
 order: 0
 featured: false
 seo:
