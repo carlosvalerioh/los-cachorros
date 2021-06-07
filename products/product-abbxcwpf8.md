@@ -12,7 +12,7 @@ price: '1,300'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Club CC Dog 15 Kg'
   description: ''
   robots: []
   extra: []
