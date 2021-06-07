@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/melodic-sycamore.png
+default_original_image: images/pink-pluto.png
 ---
 ## Lorem ipsum
 
