@@ -10,7 +10,7 @@ price: '430'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Baby Cat Milk 0.3 Kg'
   description: ''
   robots: []
   extra: []
