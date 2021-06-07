@@ -10,7 +10,7 @@ price: '520'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Babydog Milk 0.4 Kg'
   description: ''
   robots: []
   extra: []
