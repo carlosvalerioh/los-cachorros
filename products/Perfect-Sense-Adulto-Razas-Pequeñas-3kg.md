@@ -11,7 +11,7 @@ price: '250'
 order: 0
 featured: false
 seo:
-  title: 'Perfect Sense Adulto Razas Pequeñas 3kg'
+  title: Perfect Sense Adulto Razas Pequeñas 3kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,6 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect Sense Adulto Razas Pequeñas 3kg.jpg
 default_original_image: images/modern-steel.jpg
-category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
