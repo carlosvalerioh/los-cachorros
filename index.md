@@ -26,7 +26,6 @@ sections:
     featured_products:
       - products/product-j3uyrq6ia.md
       - products/ProPlan-Adulto-performance-todas-las-razas-13kg.md
-      - products/product-88setoakr.md
       - products/product-j5rojxc19.md
       - products/product-abbxcwpf8.md
       - products/product-ukmltbw9i.md
