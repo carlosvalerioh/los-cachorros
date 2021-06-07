@@ -41,6 +41,7 @@ sections:
       - products/product-11ydgm2kc.md
       - products/product-h218pdge7.md
       - products/product-6cz8nmc3g.md
+      - products/DIAMOND-40LBS-LAMB-MEAL-&-RICE-ADULT-18.144kgs.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
