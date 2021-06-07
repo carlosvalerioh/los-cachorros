@@ -69,6 +69,12 @@ sections:
     type: promotion_section
     image: images/festive-bee.jpg
     background_image: images/melodic-cabbage.png
+  - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
