@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Perfect sense senior 8 kg
 description: lorem-ipsum
 price: '665'
 order: 0
