@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/thoughtful-broccoli.jpg
 default_original_image: images/rainy-europa.jpg
+category: category/PERROS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
