@@ -10,7 +10,7 @@ price: '255'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Small Dog 1.5 Kg'
   description: ''
   robots: []
   extra: []
