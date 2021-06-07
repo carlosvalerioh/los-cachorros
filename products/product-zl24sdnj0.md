@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Perfect Sense Cachorro Razas Grandes.png
+default_original_image: images/violet-paprika.png
 ---
 ## Lorem ipsum
 
