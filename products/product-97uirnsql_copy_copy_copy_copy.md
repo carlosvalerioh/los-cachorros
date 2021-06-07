@@ -10,7 +10,7 @@ price: '1,250'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Large Dog 12 Kg'
   description: ''
   robots: []
   extra: []
