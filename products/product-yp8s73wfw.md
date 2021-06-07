@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Perfect Sense Adulto Razas Grandes 8kg
 description: >-
   SKU:PSARG8 <br> Alimento balanceado para perros adulto de razas medianas,
   grandes y gigantes perfecto para consentir a tus mascotas completamente
