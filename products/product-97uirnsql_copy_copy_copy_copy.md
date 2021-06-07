@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Royal Adult Large Dog 12 Kg.png
+default_thumbnail_image: images/oval-broccoli.png
 ---
 ## Lorem ipsum
 
