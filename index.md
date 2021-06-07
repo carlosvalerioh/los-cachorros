@@ -44,6 +44,7 @@ sections:
     testimonials:
       - author:
           name: 'Miguel '
+          location: 26 años
         text: >-
           Antes no compraba bultos pequeños de alimento para mi perrito pero se
           terminaban pronto, ahora pido bultos de comida más grandes y me rinden
