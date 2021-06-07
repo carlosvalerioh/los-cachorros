@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/amazing-birch.jpeg
 default_original_image: images/groovy-dolphin.jpeg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
