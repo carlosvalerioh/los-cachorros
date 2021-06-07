@@ -64,7 +64,7 @@ sections:
     type: contact_section
   - section_id: lorem-ipsum
     title: 'Encuentra TODAS las marcas y a los mejores precios.  '
-    subtitle: desde $ 180.00
+    subtitle: desde $ 180
     cta:
       title: Ver Ahora
       url: /store
