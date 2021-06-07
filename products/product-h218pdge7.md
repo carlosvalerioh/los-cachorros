@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Bulldog Puppy.jpg
+default_original_image: images/rainy-primrose.jpg
 ---
 ## Lorem ipsum
 
