@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Anallergenic  9 Kg.jpg
 default_original_image: images/spectacular-chili.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
