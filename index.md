@@ -59,7 +59,7 @@ sections:
           recruits.
   - section_id: lorem-ipsum
     title: Un nuevo interior de hogar para el verano
-    subtitle: lorem-ipsum
+    subtitle: desde $ 149.99
     cta:
       title: lorem-ipsum
       url: '#'
