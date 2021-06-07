@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Bulldog Puppy 2.72 Kg'
   description: ''
   robots: []
   extra: []
