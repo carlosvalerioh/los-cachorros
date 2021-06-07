@@ -6,7 +6,7 @@ description: >-
   para tus cachorros, desde el nacimiento hasta el destete (0-2 meses). Babydog
   Milk está muy enriquecida con DHA, que está naturalmente presente en la leche
   materna para ayudar a apoyar la función cognitiva en sus cachorros.
-price: lorem-ipsum
+price: '1,310'
 order: 0
 featured: false
 seo:
