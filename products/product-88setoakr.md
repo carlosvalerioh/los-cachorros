@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Perfect sense kitten 1.5 kg
-description: lorem-ipsum
+description: >-
+  SKU:PSK15 <br> Ingredientes 100% naturales. Alimento para gato elaborado con
+  ingredientes 100% naturales,como la fibra y los prebióticos, que ayudan a
+  fortalecer una óptima salud intestinal. No contiene: conservadores,
+  saborizantes o colorantes artificiales que causen daños a la salud de nuestra
+  mascota a largo plazo y que ayudan a fortalecer una óptima salud intestinal.
 price: lorem-ipsum
 order: 0
 featured: false
