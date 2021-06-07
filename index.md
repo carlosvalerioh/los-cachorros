@@ -68,7 +68,7 @@ sections:
     cta:
       title: Ver Ahora
       url: '#'
-      style: primary
+      style: link
       arrow: false
       type: action
     type: promotion_section
