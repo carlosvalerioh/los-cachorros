@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canine Adult 15 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
