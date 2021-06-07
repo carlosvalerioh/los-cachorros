@@ -11,7 +11,7 @@ price: '320'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect sense gato 3 kg'
   description: ''
   robots: []
   extra: []
