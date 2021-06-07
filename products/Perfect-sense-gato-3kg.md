@@ -11,7 +11,7 @@ price: '320'
 order: 0
 featured: false
 seo:
-  title: 'Perfect sense gato 3 kg'
+  title: Perfect sense gato 3 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,6 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect sense gato.png
 default_original_image: images/superb-mustard.png
-category: category/GATOS - PERFECT SENSE.md
 ---
 ## Lorem ipsum
 
