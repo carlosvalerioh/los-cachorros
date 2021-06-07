@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/energetic-turtle.jpg
-default_original_image: images/scientific-squid.png
+default_original_image: images/successful-zucchini.jpg
 ---
 ## Lorem ipsum
 
