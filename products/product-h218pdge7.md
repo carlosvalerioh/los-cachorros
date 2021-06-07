@@ -14,7 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Bulldog Puppy.jpg
 default_original_image: images/rainy-primrose.jpg
-category: category/category-hp344soow.md
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
