@@ -7,7 +7,7 @@ description: >-
   reforzar la efectividad de la barrera de piel y limitar el riesgo de
   irritación cutánea por medio de la promoción de síntesis de ceramidas y
   limitando la pérdida de agua transepidérmica.
-price: lorem-ipsum
+price: '1,580'
 order: 0
 featured: false
 seo:
