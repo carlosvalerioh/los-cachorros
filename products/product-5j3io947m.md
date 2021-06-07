@@ -20,6 +20,7 @@ seo:
 layout: product
 default_original_image: images/Royal Canin Bulldog.jpg
 default_thumbnail_image: images/charming-zebra.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
