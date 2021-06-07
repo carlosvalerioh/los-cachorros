@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Perfect sense gato 3 kg
-description: lorem-ipsum
+description: >-
+  SKU:PSG3 <br> Perfect Sense está creado para gatos a partir de 12 meses de
+  edad. Brindara a tu gatito una óptima nutrición durante sus primeros años de
+  vida, garantizándote una excelente nutrición que le ayudara a desarrollar un
+  sistema inmunológico fuerte, además de proteger su sistema digestivo, piel y
+  pelaje.
 price: lorem-ipsum
 order: 0
 featured: false
