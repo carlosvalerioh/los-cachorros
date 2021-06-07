@@ -11,7 +11,7 @@ price: '270'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Cachorro Razas Pequeñas 3kg'
   description: ''
   robots: []
   extra: []
