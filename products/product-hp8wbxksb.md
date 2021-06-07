@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/Royal Canin Boxer 13.6 Kg.jpg
 ---
 ## Lorem ipsum
 
