@@ -50,7 +50,7 @@ sections:
           terminaban pronto, ahora pido bultos de comida más grandes y me rinden
           mucho más tiempo. 
       - author:
-          name: Sra Marta 64 años
+          name: 'Sra Marta '
           location: 64 años
         text: >-
           Me gusta encontrar todos los tipos de alimentos y de mejores marcas a
