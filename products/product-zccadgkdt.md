@@ -7,7 +7,7 @@ description: >-
   obtener y mantener el peso corporal indicado. Elaborado con ingredientes 100%
   naturales, no contiene aromas, sabores, colorantes ni conservadores
   artificiales añadidos, por lo que el perro amará su olor y sabor.
-price: lorem-ipsum
+price: '265'
 order: 0
 featured: false
 seo:
