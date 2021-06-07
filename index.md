@@ -39,6 +39,7 @@ sections:
       - products/Royal-Canin-Adult-Giant-14Kg.md
       - products/product-2v4e1vsnv.md
       - products/product-11ydgm2kc.md
+      - products/product-h218pdge7.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
