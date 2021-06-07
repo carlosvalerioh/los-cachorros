@@ -67,6 +67,9 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
