@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/PERROS-ROYAL-CANIN.md
+default_original_image: images/Royal Adult Small Dog.jpg
 ---
 ## Lorem ipsum
 
