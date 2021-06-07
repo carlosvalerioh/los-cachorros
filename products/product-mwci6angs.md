@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Club A3 Dog 15 Kg
-description: lorem-ipsum
+description: >-
+  SKU:CA315 <br> El alimento Royal Canin Club A3 es para cachorros (de 2 a 12
+  meses de edad) de todos los tamaños y razas. Es de una elevada digestibilidad
+  gracias a una adecuada selección de ingredientes que harán que tu mascota
+  tenga una buena digestión y un tracto intestinal sano. A demás proporciona la
+  energía necesaria para tu cachorro.
 price: lorem-ipsum
 order: 0
 featured: false
