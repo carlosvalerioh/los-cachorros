@@ -61,7 +61,7 @@ sections:
     title: Un nuevo interior de hogar para el verano
     subtitle: desde $ 149.99
     cta:
-      title: lorem-ipsum
+      title: descu
       url: '#'
       style: primary
       arrow: false
