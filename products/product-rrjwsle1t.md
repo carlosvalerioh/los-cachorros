@@ -6,7 +6,7 @@ price: '235'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Adulto Razas Grandes 3kg'
   description: ''
   robots: []
   extra: []
