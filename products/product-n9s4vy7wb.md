@@ -5,7 +5,7 @@ description: >-
   SKU:RAG14 <br> Las Croquetas Adult Giant Dog de Royal Canin son ideales si tu
   perro pesa 45 kg o más y tiene sensibilidad articular y digestiva. Se
   recomienda su consumo a partir de los 18/24 meses de edad.
-price: lorem-ipsum
+price: '1,500'
 order: 0
 featured: false
 seo:
