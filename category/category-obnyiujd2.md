@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: PERROS - ROYAL CANIN
 order: 0
 seo:
   title: ''
