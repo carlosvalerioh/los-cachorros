@@ -35,6 +35,7 @@ sections:
       - products/product-32xakx08g.md
       - products/product-93gxzzx3e.md
       - products/Hills-perro-Puppy-Small-Paws-15.5Lb-7Kg.md
+      - products/product-4h5qe73ke.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
