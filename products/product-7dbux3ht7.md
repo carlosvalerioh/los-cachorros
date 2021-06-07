@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Baby Cat Milk 0.3 Kg.jpg
 default_original_image: images/magenta-plankton.jpg
+category: category/category-20wnwmniz.md
 ---
 ## Lorem ipsum
 
