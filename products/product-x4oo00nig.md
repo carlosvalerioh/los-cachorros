@@ -21,6 +21,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Advanced Mobility Canine 12 Kg.jpeg
 default_original_image: images/blue-saturn.jpeg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
