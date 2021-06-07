@@ -58,7 +58,7 @@ sections:
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Un nuevo interior de hogar para el verano
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
