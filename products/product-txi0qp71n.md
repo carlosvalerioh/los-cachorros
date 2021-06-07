@@ -11,7 +11,7 @@ price: '580'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Perfect Sense Adulto Razas Pequeñas 8kg'
   description: ''
   robots: []
   extra: []
