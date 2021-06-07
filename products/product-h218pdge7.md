@@ -8,11 +8,11 @@ description: >-
   inmunológico y mantiene su cuerpo creciendo fuerte, contiene las proteínas y
   los prebióticos de alta calidad ayudan a promover una calidad óptima de las
   heces.
-price: '1,730'
+price: lorem-ipsum
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Bulldog Puppy 13.6 Kg'
   description: ''
   robots: []
   extra: []
