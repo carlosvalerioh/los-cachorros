@@ -2,7 +2,13 @@
 id: lorem-ipsum
 title: Royal Canin Bulldog Puppy 2.72 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: >-
+  SKU:RBP272 <br> El alimento seco para cachorros Royal Canin Bulldog representa
+  una nutrición hecha a medida creada para su cachorro Bulldog, con una mezcla
+  exclusiva de antioxidantes y vitamina E que apoya el desarrollo de su sistema
+  inmunológico y mantiene su cuerpo creciendo fuerte, contiene las proteínas y
+  los prebióticos de alta calidad ayudan a promover una calidad óptima de las
+  heces.
 order: 0
 featured: false
 seo:
