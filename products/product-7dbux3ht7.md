@@ -16,6 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Royal Canin Baby Cat Milk 0.3 Kg.jpg
 ---
 ## Lorem ipsum
 
