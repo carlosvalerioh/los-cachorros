@@ -7,7 +7,7 @@ description: >-
   de calidad que brindan a tu Boxer la nutrición a la medida que necesita.
   Además, cada croqueta de Royal Canin es extremadamente deliciosa por lo que
   devorará su comida.
-price: '1,160'
+price: '1,670'
 order: 0
 featured: false
 seo:
