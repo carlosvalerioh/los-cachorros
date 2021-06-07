@@ -6,7 +6,7 @@ description: >-
   ingredientes naturales que maximizan el potencial, alargan la vida y previenen
   los problemas nutricionales más comunes en los perros. Los minerales orgánicos
   que contiene, hacen que este alimento sea único en su clase. 
-price: lorem-ipsum
+price: '575'
 order: 0
 featured: false
 seo:
