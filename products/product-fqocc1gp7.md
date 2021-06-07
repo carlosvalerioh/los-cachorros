@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Anallergenic  9 Kg.jpg
+default_original_image: images/spectacular-chili.jpg
 ---
 ## Lorem ipsum
 
