@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Advanced Mobility Canine 4 Kg
 description: >-
   SKU:RAM4 <br>  MOBILITY es un alimento completo para perros con sensibilidad
   articular o con problemas de movilidad. Ayuda a mantener la movilidad en
