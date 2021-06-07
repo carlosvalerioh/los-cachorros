@@ -6,7 +6,7 @@ description: >-
   riesgo de reacciones alérgicas al alimento. Limitación de Alergénos. La
   fórmula y el proceso de producción tienen como objetivo evitar el contacto con
   fuentes de alérgenos de los alimentos.
-price: lorem-ipsum
+price: '1,720'
 order: 0
 featured: false
 seo:
