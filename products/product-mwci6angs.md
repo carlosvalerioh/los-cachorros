@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Club A3 Dog.jpg
+default_original_image: images/pink-elm.jpg
 ---
 ## Lorem ipsum
 
