@@ -40,7 +40,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: images/diligent-moon.jpg
+    image: images/modern-avocado.jpg
     background_image: /images/leaf.svg
     cta:
       title: Discover
