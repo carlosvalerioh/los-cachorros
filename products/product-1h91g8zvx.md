@@ -17,6 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Perfect Sense Adulto Razas Pequeñas 3kg.jpg
 ---
 ## Lorem ipsum
 
