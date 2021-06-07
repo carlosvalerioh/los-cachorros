@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canine Adult.jpg
+default_original_image: images/terrific-birch.jpg
 ---
 ## Lorem ipsum
 
