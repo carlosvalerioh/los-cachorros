@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/PERROS-ROYAL-CANIN.md
 default_original_image: images/Royal Adult Small Dog.jpg
+default_thumbnail_image: images/unique-octopus.jpg
 ---
 ## Lorem ipsum
 
