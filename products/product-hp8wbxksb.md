@@ -19,6 +19,7 @@ seo:
 layout: product
 default_original_image: images/Royal Canin Boxer 13.6 Kg.jpg
 default_thumbnail_image: images/spectacular-spinach.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
