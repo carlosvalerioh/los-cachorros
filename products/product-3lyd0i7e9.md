@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/groovy-dolphin.png
+default_original_image: images/remarkable-strawberry.png
 ---
 ## Lorem ipsum
 
