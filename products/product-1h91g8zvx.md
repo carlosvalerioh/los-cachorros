@@ -7,7 +7,7 @@ description: >-
   mantenimiento de la masa muscular. Minerales a estos minerales en su forma
   orgánica. Alta concentración de nutrientes y antioxidantes para satisfacer las
   necesidades metabólicas de las RAZAS PEQUEÑAS ADULTAS.
-price: lorem-ipsum
+price: '250'
 order: 0
 featured: false
 seo:
