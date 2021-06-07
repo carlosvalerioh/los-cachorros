@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/magical-lavender.jpg
 default_thumbnail_image: images/perpetual-iron.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
