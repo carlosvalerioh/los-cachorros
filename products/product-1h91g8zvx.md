@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Perfect Sense Adulto Razas Pequeñas 3kg
+title: Perfect Sense Cachorro Razas Grandes 3kg
 description: >-
   SKU:PSARP3 <br>  Sin productos químicos 100% Natural. La proteína adecuada de
   origen animal, como primer ingrediente, que ayuda a la formación y
@@ -11,7 +11,7 @@ price: '250'
 order: 0
 featured: false
 seo:
-  title: 'Perfect Sense Adulto Razas Pequeñas 3kg'
+  title: Perfect Sense Adulto Razas Pequeñas 3kg
   description: ''
   robots: []
   extra: []
