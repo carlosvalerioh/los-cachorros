@@ -68,7 +68,7 @@ sections:
     cta:
       title: Ver Ahora
       url: /store
-      style: link
+      style: secondary
       arrow: false
       type: action
     type: promotion_section
