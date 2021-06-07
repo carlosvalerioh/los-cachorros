@@ -11,7 +11,7 @@ price: '1,375'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Club A3 Dog 15 Kg'
   description: ''
   robots: []
   extra: []
