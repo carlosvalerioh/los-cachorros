@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Babydog Milk 2 Kg.jpg
+default_original_image: images/pleasant-wallaby.jpg
 ---
 ## Lorem ipsum
 
