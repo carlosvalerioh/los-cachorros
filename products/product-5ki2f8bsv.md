@@ -9,7 +9,7 @@ price: '585'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Development Puppy Large Dog 4 Kg'
   description: ''
   robots: []
   extra: []
