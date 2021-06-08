@@ -20,7 +20,7 @@ sections:
     type: contact_section
     image: images/pleasant-triceratops.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: En
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
