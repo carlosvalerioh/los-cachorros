@@ -23,6 +23,16 @@ sections:
     title: lorem-ipsum
     featured_categories: []
     type: featured_categories_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+      type: action
+    type: promotion_section
 seo:
   title: FAQ
   description: This is the faq page
