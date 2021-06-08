@@ -12,7 +12,7 @@ price: '290'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Chihuahua 1.1 Kg'
   description: ''
   robots: []
   extra: []
