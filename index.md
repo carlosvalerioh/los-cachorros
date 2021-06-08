@@ -28,7 +28,6 @@ sections:
       - products/DIAMOND-20LBS-ADULTO-PREMIUM-9.72Kgs.md
       - products/FullTrust-Adulto-20KG.md
       - products/ProPlan-Cachorro-Raza-grande-13kg.md
-      - products/Nupec-cachorro-Razas-Pequeñas-8kgs.md
       - products/Ganador-Premium-Razas-Pequeñas-20KG.md
       - products/ProPlan-Perro-canine-EN-18lb-8.16kg.md
       - products/Hills-perro-rd-27.5Lb-12.5Kg.md
