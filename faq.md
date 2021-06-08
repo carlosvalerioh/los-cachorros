@@ -18,7 +18,7 @@ sections:
       arrow: false
       type: action
     type: promotion_section
-    background_image: images/majestic-whale.jpg
+    background_image: images/beige-giraffe.png
     image: images/clever-velociraptor.jpg
   - section_id: lorem-ipsum
     address: >-
