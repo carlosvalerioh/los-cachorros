@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin French Bulldog.jpg
 default_original_image: images/square-sage.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
