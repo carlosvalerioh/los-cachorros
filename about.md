@@ -26,7 +26,7 @@ sections:
       url: /store
       style: primary
       arrow: true
-    title: 'Todas las '
+    title: Todas las marcas de alimento
 seo:
   title: About
   description: This is the about page
