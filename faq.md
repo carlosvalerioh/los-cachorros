@@ -28,7 +28,7 @@ sections:
       type: action
       title: UBICACIONES
     type: promotion_section
-    background_image: images/oceanic-sage.png
+    background_image: images/royal-sloth.png
     image: images/nervous-primrose.jpg
     subtitle: 10 tiendas en la CDMX
 seo:
