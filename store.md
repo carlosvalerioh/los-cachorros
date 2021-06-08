@@ -12,7 +12,7 @@ sections:
       - products/FullTrust-Adulto-15KG.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Conoce todas nuestras ubicaciones
     subtitle: from $149.99
     image: images/brooke-cagle-EyCEX1e9EiY-unsplash.jpg
     background_image: /images/leaf.svg
