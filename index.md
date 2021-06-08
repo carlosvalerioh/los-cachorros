@@ -28,8 +28,6 @@ sections:
       - products/ProPlan-Adulto-performance-todas-las-razas-13kg.md
       - products/Hills-perro-Puppy-Small-Paws-15.5Lb-7Kg.md
       - products/Royal-Canin-Adult-Giant-14Kg.md
-      - products/product-4h5qe73ke.md
-      - products/product-2v4e1vsnv.md
       - products/product-11ydgm2kc.md
       - products/product-6cz8nmc3g.md
       - products/Hills-gato-Adult-Multi-Benefit-15.5Lb-7Kg.md
