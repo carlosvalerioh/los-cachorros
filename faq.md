@@ -26,6 +26,7 @@ sections:
       style: primary
       arrow: false
       type: action
+      title: UBICACIONES
     type: promotion_section
     background_image: images/beige-giraffe.png
     image: images/clever-velociraptor.jpg
