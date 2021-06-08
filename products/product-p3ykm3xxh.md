@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Development Puppy 10 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RDP10 <br> Las Croquetas Development Puppy de Royal Canin están diseñadas
+  para el óptimo desarrollo de los cachorros más pequeñitos hasta los 12 meses
+  de edad o hasta la esterilización.
 price: lorem-ipsum
 order: 0
 featured: false
