@@ -29,7 +29,7 @@ sections:
       title: UBICACIONES
     type: promotion_section
     background_image: images/beige-giraffe.png
-    image: images/clever-velociraptor.jpg
+    image: images/nervous-primrose.jpg
     subtitle: 10 tiendas en la CDMX
 seo:
   title: FAQ
