@@ -9,7 +9,7 @@ price: '600'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Early Cardiac 3.5 Kg'
   description: ''
   robots: []
   extra: []
