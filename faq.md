@@ -22,7 +22,6 @@ sections:
   - section_id: lorem-ipsum
     title: Conoce todas nuestras ubicaciones
     cta:
-      title: lorem-ipsum
       url: '#'
       style: primary
       arrow: false
