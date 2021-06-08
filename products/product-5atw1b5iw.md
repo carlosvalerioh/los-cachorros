@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Early Cardiac 8 Kg
 description: >-
   SKU:REC8 <br> Royal Canin produce alimentos centrados en las necesidades
   únicas de tu mascota, brinda una nutrición específica y eficaz, y lo ayuda a
