@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/interesting-sycamore.png
+    background_image: images/blue-tulip.png
     headline: Behold our FAQ
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
