@@ -76,7 +76,7 @@ sections:
       type: action
     type: promotion_section
     image: images/festive-bee.jpg
-    background_image: images/melodic-cabbage.png
+    background_image: images/noun_Dog_3587160-6.png
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
