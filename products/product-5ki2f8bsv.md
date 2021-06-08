@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/maroon-turmeric.jpg
 default_original_image: images/diligent-basil.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
