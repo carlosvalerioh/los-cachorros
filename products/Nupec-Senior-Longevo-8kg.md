@@ -10,7 +10,7 @@ price: '735'
 order: 0
 featured: false
 seo:
-  title: 'Nupec Senior Longevo 8 kg'
+  title: Nupec Senior Longevo 8 kg
   description: ''
   robots: []
   extra: []
@@ -18,6 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Nupec Senior Longevo.jpg
 default_original_image: images/marvelous-kangaroo.jpg
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
