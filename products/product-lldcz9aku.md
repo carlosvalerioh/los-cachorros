@@ -20,6 +20,7 @@ layout: product
 default_original_image: images/smart-giraffe.jpg
 default_thumbnail_image: images/rainy-aspen.jpg
 price: '830'
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
