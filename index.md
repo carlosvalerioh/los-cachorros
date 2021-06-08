@@ -33,6 +33,7 @@ sections:
       - products/ProPlan-Perro-canine-EN-18lb-8.16kg.md
       - products/Hills-perro-rd-27.5Lb-12.5Kg.md
       - products/DIAMOND-40LBS-LARGE-BREED-PUPPY-LAMB-&-RICE-18.144kgs.md
+      - products/FullTrust-Cachorro-Raza-Pequeña-8kg.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
