@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Development Puppy Large Dog.jpg
+default_original_image: images/royal-olive.jpg
 ---
 ## Lorem ipsum
 
