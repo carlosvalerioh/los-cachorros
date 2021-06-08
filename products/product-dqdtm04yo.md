@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/wonderful-ant.jpg
 default_original_image: images/majestic-neptune.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
