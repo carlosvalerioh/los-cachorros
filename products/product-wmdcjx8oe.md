@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Royal Canin Glycobalance Canine 3.5 Kg
+title: Royal Canin Giant Adult 15.9 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
