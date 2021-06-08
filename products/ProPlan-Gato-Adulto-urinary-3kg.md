@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Adulto urinary.jpg
 default_original_image: images/spectacular-bee.jpg
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
