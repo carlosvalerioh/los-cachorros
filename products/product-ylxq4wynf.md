@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Development Junior Giant Dog.png
+default_original_image: images/clever-artichoke.png
 ---
 ## Lorem ipsum
 
