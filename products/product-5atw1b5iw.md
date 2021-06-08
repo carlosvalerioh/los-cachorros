@@ -9,7 +9,7 @@ price: '1,090'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Early Cardiac 8 Kg'
   description: ''
   robots: []
   extra: []
