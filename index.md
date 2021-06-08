@@ -24,7 +24,6 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - products/Hills-perro-Puppy-Small-Paws-15.5Lb-7Kg.md
       - products/Royal-Canin-Adult-Giant-14Kg.md
       - products/product-6cz8nmc3g.md
       - products/Hills-gato-Adult-Multi-Benefit-15.5Lb-7Kg.md
