@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Chihuahua Puppy 1.13 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RCP113 <br> Mientras crece, su cachorro experimenta grandes cambios y
+  nuevos descubrimientos. Durante este periodo clave, el sistema inmunológico
+  del cachorro sigue desarrollándose. Chihuahua Cachorro ayuda a reforzar las
+  defensas naturales de su cachorro gracias a un exclusivo complejo de
+  antioxidantes incluyendo vitamina E.
 price: lorem-ipsum
 order: 0
 featured: false
