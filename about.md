@@ -21,7 +21,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/modern-avocado.jpg
-    background_image: /images/leaf.svg
+    background_image: images/energetic-thyme.png
     cta:
       title: Discover
       url: /store
