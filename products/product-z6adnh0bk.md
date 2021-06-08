@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Development Puppy Large Dog 13 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
