@@ -5,7 +5,7 @@ price: '405'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Development Puppy Small Dog 2 Kg'
   description: ''
   robots: []
   extra: []
