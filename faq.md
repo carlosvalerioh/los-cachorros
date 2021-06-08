@@ -24,6 +24,7 @@ sections:
     email: lorem-ipsum
     mapUrl: lorem-ipsum
     type: contact_section
+    image: images/pleasant-triceratops.png
 seo:
   title: FAQ
   description: This is the faq page
