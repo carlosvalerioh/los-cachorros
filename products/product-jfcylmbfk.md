@@ -19,6 +19,7 @@ seo:
 layout: product
 default_original_image: images/Royal Canin Chihuahua Puppy.jpg
 default_thumbnail_image: images/magical-turtle.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
