@@ -10,7 +10,7 @@ price: '490'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin French Bulldog 2.72 Kg'
   description: ''
   robots: []
   extra: []
