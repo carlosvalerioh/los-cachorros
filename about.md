@@ -11,7 +11,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: NUESTRAS UBICACIONES
         description: "**GRAND PUPPY**\n\nAv. Frutas y Legumbres, Caracol 1 G-H,\_ Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\nTel: 5570902496\n\nCel: 5624418690\n\n**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local 15, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\nTel: 5556001586\n\nCel: 5548073513\n\n**CACHORRITOS**\n\nAv Frutas y Legumbres Edif 3 Local 1 y 2, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\nTel: 5556949266\n\nCel: 5539598129\n\n**GRAND PUPPY ROMA**\n\nCalle Medellín No. 209, Col. Roma Sur\n\nAlc. Cuauhtémoc, CDMX. C.P. 06760\n\nTel: 5572625500\n\nCel: 5517789125\n\n"
         image: images/magenta-eucalyptus.jpg
       - title: We think plants are the future
