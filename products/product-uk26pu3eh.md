@@ -9,7 +9,7 @@ price: '435'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Gato 2 Kg'
   description: ''
   robots: []
   extra: []
