@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  feline HA 4 lb us.jpg
 default_original_image: images/interesting-basil.jpg
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
