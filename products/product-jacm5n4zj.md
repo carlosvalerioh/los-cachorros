@@ -20,6 +20,7 @@ seo:
 layout: product
 default_original_image: images/Royal Canin Chihuahua 1.1 Kg.jpg
 default_thumbnail_image: images/terrific-goose.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
