@@ -9,7 +9,7 @@ price: '1,420'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Gato 10 Kg'
   description: ''
   robots: []
   extra: []
