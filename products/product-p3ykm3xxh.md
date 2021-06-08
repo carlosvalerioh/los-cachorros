@@ -9,7 +9,7 @@ price: '1,365'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Development Puppy 10 Kg'
   description: ''
   robots: []
   extra: []
