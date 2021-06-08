@@ -8,7 +8,7 @@ sections:
     background_image: images/blue-tulip.png
     headline: Los Cachorros
     subtitle: >
-      Inicia  o abaste tu negocio con nuestros precios de mayoreo. También
+      Inicia  o abastece tu negocio con nuestros precios de mayoreo. También
       precios especiales para veterinarias.
   - section_id: lorem-ipsum
     address: >-
