@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Early Cardiac.jpg
 default_original_image: images/famous-neptune.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
