@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Development Junior Giant Dog.png
 default_original_image: images/clever-artichoke.png
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
