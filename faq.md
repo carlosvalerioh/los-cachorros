@@ -7,7 +7,12 @@ sections:
     section_id: header_section
     background_image: images/blue-tulip.png
     headline: Los Cachorros
-    subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Inicia tu negocio con nuestros precios de mayoreo. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti. \n"
+    subtitle: |
+      # **Inicia  o abaste tu negocio con nuestros precios de mayoreo. **
+
+      # **También precios especiales para veterinarias.  **
+
+      ****![](/\_static/app-assets/green-chestnut.jpg)
   - section_id: lorem-ipsum
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
