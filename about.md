@@ -8,17 +8,6 @@ sections:
     background_image: images/ultra-olive.png
     headline: Los Cachorros
     subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti.\n"
-  - type: promotion_section
-    section_id: promotion_section
-    subtitle: Desde $180
-    image: images/modern-avocado.jpg
-    background_image: images/maroon-steel.png
-    cta:
-      title: Ir al Catálogo
-      url: /store
-      style: primary
-      arrow: true
-    title: Todas las marcas de alimento
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
@@ -30,6 +19,17 @@ sections:
   - section_id: lorem-ipsum
     type: promotion_section
     background_image: images/festive-rabbit.jpg
+  - type: promotion_section
+    section_id: promotion_section
+    subtitle: Desde $180
+    image: images/modern-avocado.jpg
+    background_image: images/maroon-steel.png
+    cta:
+      title: Ir al Catálogo
+      url: /store
+      style: primary
+      arrow: true
+    title: Todas las marcas de alimento
 seo:
   title: About
   description: This is the about page
