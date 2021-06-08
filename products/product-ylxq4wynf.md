@@ -9,7 +9,7 @@ price: '1,530'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Development Junior Giant Dog 13.6 Kg'
   description: ''
   robots: []
   extra: []
