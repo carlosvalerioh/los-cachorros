@@ -29,6 +29,7 @@ sections:
       - products/FullTrust-Adulto-20KG.md
       - products/ProPlan-Cachorro-Raza-grande-13kg.md
       - products/DIAMOND-20LBS-PUPPY-9.72Kgs.md
+      - products/Pro-Plan-Senior-Razas-Medianas-y-Grandes-Active-Mind-13kg.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
