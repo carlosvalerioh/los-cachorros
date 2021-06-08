@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  NF early care feline.jpg
 default_original_image: images/panoramic-birch.jpg
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 price: '575'
 ---
 ## Lorem ipsum
