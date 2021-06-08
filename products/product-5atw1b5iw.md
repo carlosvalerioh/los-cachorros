@@ -17,6 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/superb-aluminum.jpg
 default_original_image: images/neat-goose.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
