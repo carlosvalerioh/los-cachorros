@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Glycobalance Canine 3.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RG35 <br> Royal Canin Prescripcion Glycobalance es un alimento seco
+  desarrollado para perros con Diabetes Mellitus e hiperlipidemia asociada a un
+  sobrepeso.
 price: lorem-ipsum
 order: 0
 featured: false
