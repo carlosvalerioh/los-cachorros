@@ -16,6 +16,9 @@ sections:
         image: images/lucrezia-carnelos-0liYTl4dJxk-unsplash.jpg
       - description: "# **THE GIANT DOG**\n\nAV SUR 16 No.\_ 80, Esq. Oriente 243 – A\n\nCol. Agrícola Oriental. CDMX, C.P. 08500\n\nTel: 5541683632\n\nCel: 5539261478\n\n# <br> **GRAND DOG ORIENTAL**\n\nSur 24 No. 412 esq. Ote. 253 Col. Agrícola Oriental Alc. Iztacalco, 08500 CDMX\n\n*   Tel : 5568403891\n\n<!---->\n\n*   Cel: 5520835339\n\n##### <br> **CACHORRITOS ORIENTAL**\n\nSur 24 No. 31, Col. Agrícola Oriental Alc. Iztacalco, 08500 CDMX\n\n*   Tel : 5588499036\n\n<!---->\n\n*   Cel: 5548060687\n\n##### <br> **GRAND PUPPY ORIENTAL**\n\nAV SUR 16 No.\_ 449 Local B, Entre calle 2 de Sur 16 y Retorno 3 de Sur 16\n\nCol. Agrícola Oriental, Alc. Iztacalco, CDMX, C.P. 08500\n\n*   Tel: 5587557387\n\n<!---->\n\n*   Cel: 5539241690\n\n##### <br> **UNIDAD RASTRO**\n\nInterior del Mercado Unidad Rastro Locales 92 - 92 – 94.\n\nEstaño 350, Col. Felipe Ángeles, Alc. Venustiano Carranza, C.P. 15310 CDMX\n\n*   Tel: 5588793527\n\n<!---->\n\n*   Cel: 5535062116\n"
         image: images/violet-hickory.jpg
+  - section_id: lorem-ipsum
+    type: promotion_section
+    background_image: images/festive-rabbit.jpg
   - type: promotion_section
     section_id: promotion_section
     subtitle: Desde $180
@@ -27,9 +30,6 @@ sections:
       style: primary
       arrow: true
     title: Todas las marcas de alimento
-  - section_id: lorem-ipsum
-    type: promotion_section
-    background_image: images/festive-rabbit.jpg
 seo:
   title: About
   description: This is the about page
