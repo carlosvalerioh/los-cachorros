@@ -20,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  feline EN 6 lb 2.png
 default_original_image: images/rainy-europa.png
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
