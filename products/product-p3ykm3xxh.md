@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Development Puppy 10 Kg.jpg
+default_original_image: images/panoramic-cabbage.jpg
 ---
 ## Lorem ipsum
 
