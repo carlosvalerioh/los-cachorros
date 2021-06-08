@@ -18,7 +18,7 @@ sections:
         image: images/lucrezia-carnelos-8dZRksE0lEg-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
-    subtitle: Desde $80
+    subtitle: Desde $180
     image: images/modern-avocado.jpg
     background_image: images/energetic-thyme.png
     cta:
