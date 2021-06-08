@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/melodic-daffodil.jpg
+default_original_image: images/thoughtful-kangaroo.jpg
 ---
 ## Lorem ipsum
 
