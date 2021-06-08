@@ -42,6 +42,7 @@ sections:
       - products/product-ejb48m3zp.md
       - products/product-lv9n33ogx.md
       - products/product-8189rs646.md
+      - products/product-dpc08qo9k.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
