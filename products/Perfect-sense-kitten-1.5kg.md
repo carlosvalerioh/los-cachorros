@@ -11,7 +11,7 @@ price: '170'
 order: 0
 featured: false
 seo:
-  title: 'Perfect sense kitten 1.5 kg'
+  title: Perfect sense kitten 1.5 kg
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Perfect sense kitten.png
 default_original_image: images/spectacular-sparrow.png
-category: category/GATOS - PERFECT SENSE.md
+category: category/GATOS-PERFECT-SENSE.md
 ---
 ## Lorem ipsum
 
