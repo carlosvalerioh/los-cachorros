@@ -21,10 +21,6 @@ sections:
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    featured_categories: []
-    type: featured_categories_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
