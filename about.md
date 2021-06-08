@@ -37,6 +37,7 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+    background_image: images/festive-rabbit.jpg
 seo:
   title: About
   description: This is the about page
