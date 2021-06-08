@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/melodic-daffodil.jpg
 default_original_image: images/thoughtful-kangaroo.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
