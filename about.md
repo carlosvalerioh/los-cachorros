@@ -29,7 +29,6 @@ sections:
     title: Todas las marcas de alimento
   - section_id: lorem-ipsum
     cta:
-      title: lorem-ipsum
       url: '#'
       style: primary
       arrow: false
