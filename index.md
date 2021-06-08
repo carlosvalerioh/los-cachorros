@@ -29,7 +29,6 @@ sections:
       - products/FullTrust-Adulto-20KG.md
       - products/ProPlan-Cachorro-Raza-grande-13kg.md
       - products/FullTrust-Cachorro-Raza-Pequeña-8kg.md
-      - products/Royal-Canin-Adult-Large-Dog-12Kg.md
       - products/DIAMOND-20LBS-PUPPY-9.72Kgs.md
   - type: featured_categories_section
     section_id: featured_categories_section
