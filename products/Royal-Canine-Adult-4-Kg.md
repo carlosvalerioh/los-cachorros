@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Royal Canine Adult 4 Kg
+title: Royal Canine Adult 4 KRoyal Canin Early Cardiac 8 Kg
 description: >-
   SKU:RCA4 <br> La acción sinérgica del cóctel patentado de 4 vitaminas (ácido
   Pantoténico, Inositol, Niacina y Colina) y 1 aminoácido (Histidina), para
