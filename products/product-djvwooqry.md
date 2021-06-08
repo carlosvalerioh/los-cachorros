@@ -6,7 +6,7 @@ description: >-
   una musculatura poderosa. Bulldog Francés adulto ayuda a mantener la masa
   muscular gracias a un contenido adecuado de proteínas (24% mín.). Enriquecido
   con L-carnitina.
-price: lorem-ipsum
+price: '490'
 order: 0
 featured: false
 seo:
