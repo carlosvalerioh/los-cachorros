@@ -9,7 +9,7 @@ price: '1,485'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Development Puppy Large Dog 13 Kg'
   description: ''
   robots: []
   extra: []
