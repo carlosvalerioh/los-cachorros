@@ -1,7 +1,6 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Development Puppy Small Dog 2 Kg
-description: lorem-ipsum
 price: lorem-ipsum
 order: 0
 featured: false
