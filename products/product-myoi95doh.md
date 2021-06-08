@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Glycobalance Canine.jpg
 default_original_image: images/charming-tiger.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
