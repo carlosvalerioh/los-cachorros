@@ -18,7 +18,7 @@ main_menu:
   - title: CATÁLOGO
     url: /store
     style: link
-  - title: SOBRE NOSOTROS
+  - title: UBICACIONES
     url: /about
     style: link
   - title: INFORMACIÓN
