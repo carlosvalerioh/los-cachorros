@@ -17,7 +17,7 @@ sections:
     image: images/brooke-cagle-EyCEX1e9EiY-unsplash.jpg
     background_image: images/amazing-lettuce.png
     cta:
-      title: Discover
+      title: UBICACIONES
       url: /store
       style: secondary
       arrow: true
