@@ -25,6 +25,7 @@ sections:
     light_title: true
     featured_products:
       - products/Hills-gato-Adult-Multi-Benefit-15.5Lb-7Kg.md
+      - products/DIAMOND-20LBS-ADULTO-PREMIUM-9.72Kgs.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
