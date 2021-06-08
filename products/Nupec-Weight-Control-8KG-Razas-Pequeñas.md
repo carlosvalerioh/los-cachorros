@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Nupec Weight Control 8 KG Razas Pequeñas'
+  title: Nupec Weight Control 8 KG Razas Pequeñas
   description: ''
   robots: []
   extra: []
@@ -19,6 +19,7 @@ layout: product
 default_thumbnail_image: images/Nupec Weight Control Razas Pequeñas.jpg
 default_original_image: images/successful-mustard.jpg
 price: '809'
+category: category/PERROS-NUPEC.md
 ---
 ## Lorem ipsum
 
