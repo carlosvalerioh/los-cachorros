@@ -18,7 +18,6 @@ sections:
         image: images/lucrezia-carnelos-8dZRksE0lEg-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
     subtitle: from $149.99
     image: images/modern-avocado.jpg
     background_image: images/energetic-thyme.png
