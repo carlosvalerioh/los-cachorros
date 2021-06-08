@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/Royal Canin Chihuahua 1.1 Kg.jpg
 ---
 ## Lorem ipsum
 
