@@ -22,7 +22,7 @@ sections:
   - section_id: lorem-ipsum
     title: Conoce todas nuestras ubicaciones
     cta:
-      url: '#'
+      url: /about
       style: primary
       arrow: false
       type: action
