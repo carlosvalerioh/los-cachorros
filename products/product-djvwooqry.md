@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin French Bulldog 2.72 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RFB272 <br> Condición de la masa muscular. El Bulldog Francés suele tener
+  una musculatura poderosa. Bulldog Francés adulto ayuda a mantener la masa
+  muscular gracias a un contenido adecuado de proteínas (24% mín.). Enriquecido
+  con L-carnitina.
 price: lorem-ipsum
 order: 0
 featured: false
