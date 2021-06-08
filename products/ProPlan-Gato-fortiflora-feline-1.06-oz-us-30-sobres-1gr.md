@@ -18,7 +18,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato  fortiflora feline 1.06 oz us 30 sobres 1 gr.jpg
 default_original_image: images/mighty-lettuce.jpg
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
