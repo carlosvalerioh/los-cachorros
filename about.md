@@ -28,17 +28,7 @@ sections:
           *   Cel: 5517789125
         title: ROMA
       - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: "##### **THE GIANT DOG**\n\nAV SUR 16 No.\_ 80, Esq. Oriente 243 – A\n\nCol. Agrícola Oriental. CDMX, C.P. 08500\n\n*   Tel: 5541683632\n\n*   Cel: 5539261478\n\n"
       - description: "##### **GRAND DOG ORIENTAL**\n\nSur 24 No. 412 esq. Ote. 253 Col. Agrícola Oriental Alc. Iztacalco, 08500 CDMX\n\n*   Tel : 5568403891\n\n<!---->\n\n*   Cel: 5520835339\n\n##### **CACHORRITOS ORIENTAL**\n\nSur 24 No. 31, Col. Agrícola Oriental Alc. Iztacalco, 08500 CDMX\n\n*   Tel : 5588499036\n\n<!---->\n\n*   Cel: 5548060687\n\n##### **GRAND PUPPY ORIENTAL**\n\nAV SUR 16 No.\_ 449 Local B, Entre calle 2 de Sur 16 y Retorno 3 de Sur 16\n\nCol. Agrícola Oriental, Alc. Iztacalco, CDMX, C.P. 08500\n\n*   Tel: 5587557387\n\n<!---->\n\n*   Cel: 5539241690\n\n##### **UNIDAD RASTRO**\n\nInterior del Mercado Unidad Rastro Locales 92 - 92 – 94.\n\nEstaño 350, Col. Felipe Ángeles, Alc. Venustiano Carranza, C.P. 15310 CDMX\n\n*   Tel: 5588793527\n\n<!---->\n\n*   Cel: 5535062116\n"
         image: images/violet-hickory.jpg
   - type: promotion_section
