@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Giant Adult.png
 default_original_image: images/royal-artichoke.png
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
