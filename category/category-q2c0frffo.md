@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: GATOS - PRO PLAN
 order: 0
 seo:
   title: ''
