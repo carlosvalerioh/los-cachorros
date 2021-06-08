@@ -44,7 +44,7 @@ sections:
     featured_categories: []
   - type: testimonials_section
     section_id: testimonials_section
-    title: RESEÑA
+    title: RESEÑAS
     testimonials:
       - author:
           name: 'Miguel '
