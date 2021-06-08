@@ -14,7 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Adult Gato.jpg
 default_original_image: images/festive-aluminum.jpg
-category: category/category-q5v5slw4m.md
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
