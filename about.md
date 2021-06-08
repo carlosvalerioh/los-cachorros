@@ -22,7 +22,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     subtitle: Desde $180
-    image: images/modern-avocado.jpg
+    image: images/neat-spruce.jpg
     background_image: images/maroon-steel.png
     cta:
       title: Ir al Catálogo
