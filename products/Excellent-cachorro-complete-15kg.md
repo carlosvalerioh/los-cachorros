@@ -5,7 +5,7 @@ price: '960'
 order: 960
 featured: false
 seo:
-  title: 'Excellent cachorro complete 15 kg'
+  title: Excellent cachorro complete 15 kg
   description: ''
   robots: []
   extra: []
@@ -18,7 +18,7 @@ description: >-
   desarrollo de músculos sanos y fuertes, traduciéndose esto en una conformación
   corporal ideal y una gran vitalidad.
 default_thumbnail_image: images/perro-excellent-cachorro-complete-15-kg.jpg
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 default_original_image: images/perpetual-lettuce.jpg
 ---
 ## Lorem ipsum
