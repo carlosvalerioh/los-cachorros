@@ -7,7 +7,7 @@ sections:
     section_id: header_section
     background_image: images/ultra-olive.png
     headline: Los Cachorros
-    subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Inicia tu negocio con nuestros precios de mayoreo. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti. \n"
+    subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti.\n"
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
