@@ -1,7 +1,13 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Chihuahua 1.1 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RCA11 <br> Alimento específico para perros adultos Chihuahua a partir de
+  los 8 meses de edad. El Chihuahua suele tener un apetito caprichoso. Por ello
+  se recomienda una alimentación de gran palatabilidad. Chihuahua Adulto
+  satisface el apetito del Chihuahua gracias a una combinación de tres factores:
+  una selección cuidadosa de sabores y aromas excepcionales y una croqueta con
+  forma y tamaño personalizados.
 price: lorem-ipsum
 order: 0
 featured: false
