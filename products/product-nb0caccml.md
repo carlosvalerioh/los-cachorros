@@ -10,7 +10,7 @@ price: '650'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Development Puppy Small Dog 4 Kg'
   description: ''
   robots: []
   extra: []
