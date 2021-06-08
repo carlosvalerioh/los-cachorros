@@ -5,7 +5,7 @@ description: >-
   SKU:RG8 <br> Royal Canin Prescripcion Glycobalance es un alimento seco
   desarrollado para perros con Diabetes Mellitus e hiperlipidemia asociada a un
   sobrepeso.
-price: lorem-ipsum
+price: '1,040'
 order: 0
 featured: false
 seo:
