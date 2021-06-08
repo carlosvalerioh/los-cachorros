@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/amazing-steel.jpg
 default_original_image: images/modern-ant.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
