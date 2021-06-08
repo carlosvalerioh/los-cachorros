@@ -11,7 +11,7 @@ price: '595'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: ' Royal Canine Adult 4 Kg'
   description: ''
   robots: []
   extra: []
