@@ -7,9 +7,7 @@ sections:
     section_id: header_section
     background_image: images/blue-tulip.png
     headline: Behold our FAQ
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Inicia tu negocio con nuestros precios de mayoreo. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti. \n"
   - type: contact_section
     image: images/mamaps-3.png
     section_id: contact_section
