@@ -5,7 +5,7 @@ description: >-
   SKU:RDPL13 <br> Alimento para cachorrros de raza grandecon peso adulto
   objetivo de más 25 hasta 45 kg, con sensibilidad articular y digestiva. De los
   2 a los 15 meses de edad o hasta la esterilización.
-price: lorem-ipsum
+price: '1,485'
 order: 0
 featured: false
 seo:
