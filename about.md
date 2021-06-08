@@ -20,7 +20,7 @@ sections:
     section_id: promotion_section
     subtitle: Desde $180
     image: images/modern-avocado.jpg
-    background_image: images/energetic-thyme.png
+    background_image: images/scientific-goose.png
     cta:
       title: Ir al Catálogo
       url: /store
