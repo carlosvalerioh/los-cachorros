@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Development Puppy Small Dog 4 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RDPS4 <br> Las Croquetas Development Puppy Small Dog de Royal Canin están
+  diseñadas el óptimo desarrollo de los cachorros más pequeñitos de talla
+  chiquita (de peso adulto menor a 10 kg) de los 2 a los 13 meses de edad o
+  hasta la esterilización.
 price: lorem-ipsum
 order: 0
 featured: false
