@@ -30,6 +30,7 @@ sections:
       - products/ProPlan-Cachorro-Raza-grande-13kg.md
       - products/Nupec-cachorro-Razas-Pequeñas-8kgs.md
       - products/Ganador-Premium-Razas-Pequeñas-20KG.md
+      - products/ProPlan-Perro-canine-EN-18lb-8.16kg.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
