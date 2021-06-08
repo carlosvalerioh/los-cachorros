@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Pro Plan Gato Dm feline dry 6 lb.jpg
 default_original_image: images/polite-tulip.jpg
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
