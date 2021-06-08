@@ -7,12 +7,9 @@ sections:
     section_id: header_section
     background_image: images/blue-tulip.png
     headline: Los Cachorros
-    subtitle: |
-      # **Inicia  o abaste tu negocio con nuestros precios de mayoreo. **
-
-      # **También precios especiales para veterinarias.  **
-
-      ****![](/\_static/app-assets/green-chestnut.jpg)
+    subtitle: >
+      **Inicia  o abaste tu negocio con nuestros precios de mayoreo. También
+      precios especiales para veterinarias. **
   - section_id: lorem-ipsum
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
