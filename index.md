@@ -39,6 +39,7 @@ sections:
       - products/product-5ki2f8bsv.md
       - products/product-c61271pf3.md
       - products/product-nb0caccml.md
+      - products/product-pwnj4fwm3.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
