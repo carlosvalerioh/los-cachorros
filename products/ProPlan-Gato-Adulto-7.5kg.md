@@ -19,7 +19,7 @@ layout: product
 price: '1,075'
 default_thumbnail_image: images/elite-paprika.jpg
 default_original_image: images/oceanic-petunia.jpg
-category: category/category-t4r6q5lvc.md
+category: category/GATOS-PRO-PLAN.md
 ---
 ## Lorem ipsum
 
