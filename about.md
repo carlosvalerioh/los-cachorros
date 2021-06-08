@@ -28,11 +28,6 @@ sections:
       arrow: true
     title: Todas las marcas de alimento
   - section_id: lorem-ipsum
-    cta:
-      url: '#'
-      style: primary
-      arrow: false
-      type: action
     type: promotion_section
     background_image: images/festive-rabbit.jpg
 seo:
