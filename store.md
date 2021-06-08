@@ -18,7 +18,7 @@ sections:
     background_image: images/amazing-lettuce.png
     cta:
       title: UBICACIONES
-      url: /store
+      url: /about
       style: secondary
       arrow: true
 seo:
