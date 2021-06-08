@@ -11,7 +11,7 @@ sections:
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions for e-commerce merchants.
   - type: contact_section
-    image: images/purple-mars.png
+    image: images/mamaps-2.png
     section_id: contact_section
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
