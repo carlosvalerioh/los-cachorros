@@ -55,7 +55,7 @@ sections:
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
       Iztapalapa, CDMX C.P. 09040
-    phone: +1-202-555-0112
+    phone: 'Tel: 5556947398'
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
