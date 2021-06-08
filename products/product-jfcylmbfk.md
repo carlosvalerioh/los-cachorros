@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/Royal Canin Chihuahua Puppy.jpg
+default_thumbnail_image: images/magical-turtle.jpg
 ---
 ## Lorem ipsum
 
