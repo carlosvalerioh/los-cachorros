@@ -15,7 +15,7 @@ sections:
     title: Conoce todas nuestras ubicaciones
     subtitle: 10 tiendas en la CDMX
     image: images/brooke-cagle-EyCEX1e9EiY-unsplash.jpg
-    background_image: /images/leaf.svg
+    background_image: images/amazing-lettuce.png
     cta:
       title: Discover
       url: /store
