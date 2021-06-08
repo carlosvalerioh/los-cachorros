@@ -5,7 +5,7 @@ description: >-
   SKU:RGAF10 <br> Royal Canin produce alimentos centrados en las necesidades
   únicas de tu mascota, brinda una nutrición específica y eficaz, y lo ayuda a
   convertirse en su mejor versión.
-price: lorem-ipsum
+price: '1,420'
 order: 0
 featured: false
 seo:
