@@ -26,6 +26,7 @@ sections:
           <!---->
 
           *   Cel: 5517789125
+        title: ROMA
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
