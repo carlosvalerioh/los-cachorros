@@ -26,6 +26,7 @@ sections:
       url: /store
       style: primary
       arrow: true
+    title: 'Todas las '
 seo:
   title: About
   description: This is the about page
