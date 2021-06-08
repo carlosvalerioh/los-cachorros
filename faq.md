@@ -18,6 +18,7 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+    background_image: images/majestic-whale.jpg
   - section_id: lorem-ipsum
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
