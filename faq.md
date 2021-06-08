@@ -8,15 +8,6 @@ sections:
     background_image: images/blue-tulip.png
     headline: Los Cachorros
     subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Inicia tu negocio con nuestros precios de mayoreo. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti. \n"
-  - type: contact_section
-    image: images/mamaps-3.png
-    section_id: contact_section
-    address: >-
-      Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,  Alc.
-      Iztapalapa, CDMX C.P. 09040
-    phone: 'Tel: 5556947398'
-    email: 'Cel: 5584787997'
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
