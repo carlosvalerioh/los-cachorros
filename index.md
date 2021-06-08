@@ -38,6 +38,7 @@ sections:
       - products/Perfect-Sense-Light-8kgs.md
       - products/product-myoi95doh.md
       - products/product-14xxigz2h.md
+      - products/product-s1vvumjjw.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
