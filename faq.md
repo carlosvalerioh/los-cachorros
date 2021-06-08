@@ -19,6 +19,10 @@ sections:
     phone: 'Tel: 5556947398'
     email: 'Cel: 5584787997'
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
 seo:
   title: FAQ
   description: This is the faq page
