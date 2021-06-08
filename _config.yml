@@ -13,7 +13,7 @@ bg_image_primary_opacity: 60
 bg_image_secondary: images/amazing-sloth.png
 bg_image_product: images/adorable-primrose.png
 snipcart_api_key: ''
-palette: cyan
+palette: green
 main_menu:
   - title: CATÁLOGO
     url: /store
