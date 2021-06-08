@@ -43,6 +43,7 @@ sections:
       - products/product-lv9n33ogx.md
       - products/product-8189rs646.md
       - products/product-dpc08qo9k.md
+      - products/product-6nu273v63.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
