@@ -21,7 +21,6 @@ sections:
     image: images/pleasant-triceratops.png
   - section_id: lorem-ipsum
     title: Conoce todas nuestras ubicaciones
-    subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
       url: '#'
