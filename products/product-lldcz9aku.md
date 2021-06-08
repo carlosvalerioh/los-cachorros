@@ -11,7 +11,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Chihuahua 4.5 Kg'
   description: ''
   robots: []
   extra: []
