@@ -24,7 +24,6 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - products/product-6cz8nmc3g.md
       - products/Hills-gato-Adult-Multi-Benefit-15.5Lb-7Kg.md
   - type: featured_categories_section
     section_id: featured_categories_section
