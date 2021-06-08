@@ -2,7 +2,7 @@
 layout: product
 id: '8'
 price: '515'
-title: 'Pro Plan Gato Adulto 3 kg'
+title: Pro Plan Gato Adulto 3 kg
 description: >-
   SKU:PGA3 <br> Alimento completo y balanceado para gatos adultos de todas las
   razas. Es una tecnología exclusiva, con una combinación de prebióticos y
@@ -12,7 +12,7 @@ description: >-
 default_thumbnail_image: images/Pro Plan Gato Adulto  3 kg.jpg
 default_original_image: images/caring-rabbit.jpg
 order: 8
-category: category/summer.md
+category: category/GATOS-PRO-PLAN.md
 seo:
   title: Pro Plan Gato Adulto 3 kg
   description: In cursus sagittis eros non congue
