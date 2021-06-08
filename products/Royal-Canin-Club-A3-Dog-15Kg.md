@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Club A3 Dog.jpg
 default_original_image: images/pink-elm.jpg
-category: category/GATOS-PRO-PLAN.md
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
