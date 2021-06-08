@@ -28,7 +28,6 @@ sections:
       - products/DIAMOND-20LBS-ADULTO-PREMIUM-9.72Kgs.md
       - products/FullTrust-Adulto-20KG.md
       - products/ProPlan-Cachorro-Raza-grande-13kg.md
-      - products/ProPlan-Perro-canine-EN-18lb-8.16kg.md
       - products/FullTrust-Cachorro-Raza-Pequeña-8kg.md
       - products/Royal-Canin-Adult-Large-Dog-12Kg.md
       - products/DIAMOND-20LBS-PUPPY-9.72Kgs.md
