@@ -30,6 +30,7 @@ sections:
     type: promotion_section
     background_image: images/beige-giraffe.png
     image: images/clever-velociraptor.jpg
+    subtitle: 10 tiendas en la CDMX
 seo:
   title: FAQ
   description: This is the faq page
