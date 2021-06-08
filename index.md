@@ -28,6 +28,7 @@ sections:
       - products/DIAMOND-20LBS-ADULTO-PREMIUM-9.72Kgs.md
       - products/FullTrust-Adulto-20KG.md
       - products/ProPlan-Cachorro-Raza-grande-13kg.md
+      - products/Nupec-cachorro-Razas-Pequeñas-8kgs.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
