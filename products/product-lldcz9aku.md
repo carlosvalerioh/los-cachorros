@@ -8,7 +8,6 @@ description: >-
   satisface el apetito del Chihuahua gracias a una combinación de tres factores:
   una selección cuidadosa de sabores y aromas excepcionales y una croqueta con
   forma y tamaño personalizados.
-price: lorem-ipsum
 order: 0
 featured: false
 seo:
