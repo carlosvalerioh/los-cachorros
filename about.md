@@ -22,7 +22,7 @@ sections:
     image: images/modern-avocado.jpg
     background_image: images/energetic-thyme.png
     cta:
-      title: Ir al Catalogo
+      title: Ir al Catálogo
       url: /store
       style: primary
       arrow: true
