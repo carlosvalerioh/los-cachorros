@@ -6,7 +6,7 @@ description: >-
   diseñadas el óptimo desarrollo de los cachorros más pequeñitos de talla
   chiquita (de peso adulto menor a 10 kg) de los 2 a los 13 meses de edad o
   hasta la esterilización.
-price: lorem-ipsum
+price: '650'
 order: 0
 featured: false
 seo:
