@@ -33,6 +33,7 @@ sections:
       - products/Hills-perro-Adult-Original-15Lb-6.8Kg.md
       - products/Hills-gato-Adult-Hairball-Control-Light-7Lb-3.2Kg.md
       - products/NUPEC-GATO-SENIOR-3KG.md
+      - products/ProPlan-Perro-Jm-canine-dry-18lb-8.16kg.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
