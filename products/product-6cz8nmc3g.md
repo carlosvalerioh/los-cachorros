@@ -19,6 +19,7 @@ seo:
 layout: product
 category: category/PERROS-ROYAL-CANIN.md
 default_thumbnail_image: images/graceful-octopus.jpg
+default_original_image: images/scientific-tomato.jpg
 ---
 ## Lorem ipsum
 
