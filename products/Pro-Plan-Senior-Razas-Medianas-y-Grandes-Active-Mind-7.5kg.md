@@ -40,7 +40,7 @@ seo:
       value: images/plant3-lg.jpg
       relativeUrl: true
 title: ' Pro Plan Senior Razas Medianas y Grandes Active Mind 7.5 kg'
-category: category/bigplants.md
+category: category/PERROS-PRO-PLAN.md
 ---
 
 # Curabitur eu tempor
