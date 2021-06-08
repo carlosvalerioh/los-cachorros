@@ -8,7 +8,7 @@ description: >-
   sulfato de condroitina y ácidos grasos omega 3, particularmente EPA y DHA para
   proteger y nutrir las articulaciones y también ayudar a combatir los
   mecanismos inflamatorios comunes en razas con grandes pesos.
-price: lorem-ipsum
+price: '1,650'
 order: 0
 featured: false
 seo:
