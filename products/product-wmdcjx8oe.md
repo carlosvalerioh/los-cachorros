@@ -1,7 +1,13 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Giant Adult 15.9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGA159 <br> Este alimento seco de Royal Canin es para perros adultos de
+  raza gigante de más de 45 kg de peso y más de 18/24 meses de edad. El alimento
+  para perros Royal Canin para perros adultos gigantes contiene glucosamina,
+  sulfato de condroitina y ácidos grasos omega 3, particularmente EPA y DHA para
+  proteger y nutrir las articulaciones y también ayudar a combatir los
+  mecanismos inflamatorios comunes en razas con grandes pesos.
 price: lorem-ipsum
 order: 0
 featured: false
