@@ -18,6 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/category-q2c0frffo.md
+default_thumbnail_image: images/graceful-octopus.jpg
 ---
 ## Lorem ipsum
 
