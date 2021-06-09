@@ -6,7 +6,7 @@ description: >-
   los 8 meses de edad. Giant Puppy ayuda a reforzar las defensas naturales de su
   cachorro gracias a un exclusivo complejo de antioxidantes incluyendo vitamina
   E.
-price: lorem-ipsum
+price: '1,525'
 order: 0
 featured: false
 seo:
