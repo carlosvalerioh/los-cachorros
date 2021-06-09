@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/oceanic-planet.jpg
+default_original_image: images/polite-apple.jpg
 ---
 ## Lorem ipsum
 
