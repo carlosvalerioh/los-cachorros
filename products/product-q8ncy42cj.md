@@ -8,7 +8,7 @@ price: '750'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Hydrolyzed Protein Adult HP SmallDog 4 Kg'
   description: ''
   robots: []
   extra: []
