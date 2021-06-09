@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin Gastro-Intestinal Low Fat  13 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,500'
 order: 0
 featured: false
 seo:
