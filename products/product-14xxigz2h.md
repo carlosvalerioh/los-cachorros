@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/ultra-panda.jpg
+default_original_image: images/thoughtful-eucalyptus.jpg
 ---
 ## Lorem ipsum
 
