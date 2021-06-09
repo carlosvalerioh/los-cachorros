@@ -21,6 +21,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Hydrolyzed Protein Moderate Calorie.jpg
 default_original_image: images/incredible-goose.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
