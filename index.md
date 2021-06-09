@@ -65,7 +65,7 @@ sections:
     email: 'Cel: 5584787997'
     mapUrl: 'https://goo.gl/maps/4g4whpBeWryh6Jym9'
     type: contact_section
-    image: images/kind-jupiter.png
+    image: images/maroon-mahogany.png
   - section_id: lorem-ipsum
     title: 'Encuentra TODAS las marcas y a los mejores precios.  '
     subtitle: desde $ 180
