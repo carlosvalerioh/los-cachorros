@@ -77,7 +77,7 @@ sections:
       arrow: false
       type: action
     type: promotion_section
-    image: images/festive-bee.jpg
+    image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
     background_image: images/noun_Dog_3587160-7.png
 seo:
   title: Planty Theme
