@@ -10,7 +10,7 @@ price: '630'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Gastro-Intestinal High Energy 4 Kg'
   description: ''
   robots: []
   extra: []
