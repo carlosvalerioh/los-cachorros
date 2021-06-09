@@ -8,7 +8,7 @@ price: '1,540'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Hepatic 12 Kg'
   description: ''
   robots: []
   extra: []
