@@ -4,11 +4,7 @@ title: Royal Canin Hydrolyzed Protein Moderate Calorie  3.5 Kg
 description: >-
   SKU:RHM35 <br> Royal Canin Prescripción Hydrolized Protein Moderate Calorie es
   un alimento seco diseñado para perros adultos con una reacción adversa al
-  alimento y con sobrepeso, esterilizados o maduros en caso de: Dieta de
-  eliminación, Alergias alimentarias con signos dermatológicos y/o
-  gastrointestinales, Enfermedad Inflamatoria Intestinal, Insuficiencia
-  Pancreática Exocrina, Diarrea Crónica, Sobre crecimiento bacteriano e
-  Intolerancia alimentaria.
+  alimento y con sobrepeso, esterilizados o maduros en caso de.
 price: '700'
 order: 0
 featured: false
