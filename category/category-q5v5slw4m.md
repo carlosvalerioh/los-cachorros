@@ -2,7 +2,7 @@
 title: PERROS - GANADOR
 order: 0
 seo:
-  title: ''
+  title: 'PERROS - GANADOR'
   description: ''
   robots: []
   extra: []
