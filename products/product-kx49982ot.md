@@ -9,7 +9,7 @@ description: >-
   gastrointestinales, Enfermedad Inflamatoria Intestinal, Insuficiencia
   Pancreática Exocrina, Diarrea Crónica, Sobre crecimiento bacteriano e
   Intolerancia alimentaria.
-price: lorem-ipsum
+price: '1,'
 order: 0
 featured: false
 seo:
