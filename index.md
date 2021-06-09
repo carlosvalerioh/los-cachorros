@@ -36,7 +36,6 @@ sections:
       - products/ProPlan-Perro-Jm-canine-dry-18lb-8.16kg.md
       - products/Royal-Canin-Bulldog-Puppy-13.6Kg.md
       - products/Perfect-Sense-Light-8kgs.md
-      - products/product-8189rs646.md
       - products/product-dpc08qo9k.md
       - products/product-6nu273v63.md
   - type: featured_categories_section
