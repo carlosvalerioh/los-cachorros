@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/terrific-iron.jpg
 default_original_image: images/marvelous-thyme.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
