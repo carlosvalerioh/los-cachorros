@@ -11,7 +11,7 @@ price: '480'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Gastro-Intestinal Low Fat  3 Kg'
   description: ''
   robots: []
   extra: []
