@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: 
 description: >-
   SKU:RIA136 <br> Indoor Adult de Royal Canin es un alimento especial para gatos
   adultos de interior a partir de 1 año de edad. Mejora la digestibilidad del
