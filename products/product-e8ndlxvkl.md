@@ -14,6 +14,7 @@ layout: product
 title: Royal Canin Indoor Intense Hairball 2.7 Kg
 default_thumbnail_image: images/Royal Canin Indoor Intense Hairball.jpg
 default_original_image: images/enthusiastic-robin.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
