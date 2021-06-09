@@ -10,7 +10,7 @@ price: '1,525'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Giant Puppy 13.6 Kg'
   description: ''
   robots: []
   extra: []
