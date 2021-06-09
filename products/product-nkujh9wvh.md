@@ -7,7 +7,7 @@ description: >-
   de los perros grandes que afrontan los primeros signos de la edad. Contiene un
   complejo de antioxidantes exclusivo que ayuda a neutralizar a los radicales
   libres.
-price: lorem-ipsum
+price: '1,650'
 order: 0
 featured: false
 seo:
