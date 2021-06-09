@@ -14,7 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Hydrolyzed Protein Adult HP Canine.jpg
 default_original_image: images/maroon-hedgehog.jpg
-category: category/category-5g4ix49n8.md
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
