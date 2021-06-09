@@ -1,7 +1,13 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  SKU:RHP35 <br> Royal Canin Hydrolized Protein Adult HP es un alimento seco
+  diseñado para perros adultos con una reacción adversa al alimento en caso de:
+  Dieta de eliminación, Alergias alimentarias con signos dermatológicos y/o
+  gastrointestinales, Enfermedad Inflamatoria Intestinal, Insuficiencia
+  Pancreática Exocrina, Diarrea Crónica, Sobre crecimiento bacteriano e
+  Intolerancia alimentaria.
 price: '705'
 order: 0
 featured: false
