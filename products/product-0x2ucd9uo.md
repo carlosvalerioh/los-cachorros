@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Royal Canin Gastro-Intestinal Fiber Response.jpg
 ---
 ## Lorem ipsum
 
