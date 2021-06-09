@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Hepatic.png
 default_original_image: images/adorable-spruce.png
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
