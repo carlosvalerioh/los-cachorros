@@ -1,5 +1,5 @@
 ---
-title: GANADOR - MININO
+title: GATOS - MININO
 order: 0
 seo:
   title: ''
