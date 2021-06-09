@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/oceanic-planet.jpg
 default_original_image: images/polite-apple.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
