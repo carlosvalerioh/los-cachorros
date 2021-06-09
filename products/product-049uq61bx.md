@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin German Shepherd 13.6 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,670'
 order: 0
 featured: false
 seo:
