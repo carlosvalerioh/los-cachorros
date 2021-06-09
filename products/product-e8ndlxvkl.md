@@ -10,7 +10,7 @@ price: '530'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Indoor Intense Hairball 2.7 Kg'
   description: ''
   robots: []
   extra: []
