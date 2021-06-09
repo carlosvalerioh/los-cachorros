@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin Hepatic 12 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,540'
 order: 0
 featured: false
 seo:
