@@ -19,7 +19,7 @@ sections:
     cta:
       title: UBICACIONES
       url: /about
-      style: secondary
+      style: primary
       arrow: true
 seo:
   title: Store
