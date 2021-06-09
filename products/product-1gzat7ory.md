@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Royal Canin Indoor Adult Cat 1.36 Kg
+title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_thumbnail_image: images/Royal Canin Indoor Adult Cat.jpg
 ---
 ## Lorem ipsum
 
