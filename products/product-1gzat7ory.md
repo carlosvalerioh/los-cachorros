@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: 
-title: 
+title: Royal Canin Indoor Adult Cat 1.36 Kg
 description: >-
   SKU:RIA136 <br> Indoor Adult de Royal Canin es un alimento especial para gatos
   adultos de interior a partir de 1 año de edad. Mejora la digestibilidad del
@@ -12,7 +12,7 @@ price: '300'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Indoor Adult Cat 1.36 Kg'
   description: ''
   robots: []
   extra: []
