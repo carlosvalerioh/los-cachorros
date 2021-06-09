@@ -10,7 +10,7 @@ price: '590'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Indoor Adult Cat 3.18 Kg'
   description: ''
   robots: []
   extra: []
