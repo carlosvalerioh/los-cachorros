@@ -1,7 +1,14 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Labrador Retriever 13.63 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RLA136 <br>El alimento para perros Labrador Retriever de Royal Canin es
+  una nutrición hecha a medida creada especialmente para los perros de su raza.
+  Con la cantidad precisa de calorías y grasas para mantenerlo en un peso
+  saludable. Contiene nutrientes esenciales como EPA, DHA y glucosamina que
+  apoyan la salud de los huesos y las articulaciones. Además de nutrientes
+  exclusivos que refuerzan la barrera cutánea para mantener la salud de la piel
+  y el pelaje.
 price: '1,670'
 order: 0
 featured: false
