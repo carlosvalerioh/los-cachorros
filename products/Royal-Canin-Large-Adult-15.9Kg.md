@@ -19,7 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Large Adult.jpg
 default_original_image: images/pleasant-planet.jpg
-category: category/category-yi5u4al5r.md
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
