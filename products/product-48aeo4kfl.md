@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal CaninHematuria Detection Box.jpg
 default_original_image: images/important-chestnut.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
