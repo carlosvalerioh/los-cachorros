@@ -37,6 +37,7 @@ sections:
       - products/Royal-Canin-Bulldog-Puppy-13.6Kg.md
       - products/Perfect-Sense-Light-8kgs.md
       - products/product-vf6rtw8p4.md
+      - products/product-adz07ud7v.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
