@@ -8,7 +8,7 @@ price: '620'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Hepatic 3.5 Kg'
   description: ''
   robots: []
   extra: []
