@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Giant Puppy.jpg
+default_original_image: images/wonderful-basil.jpg
 ---
 ## Lorem ipsum
 
