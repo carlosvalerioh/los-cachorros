@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Hydrolyzed Protein Adult HP Canine 3.5 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
