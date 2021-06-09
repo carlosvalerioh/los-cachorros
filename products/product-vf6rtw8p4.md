@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Hydrolyzed Protein Adult HP Canine.jpg
+default_original_image: images/maroon-hedgehog.jpg
 ---
 ## Lorem ipsum
 
