@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Gastro-Intestinal Puppy 4 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/Royal Canin Gastro-Intestinal Puppy.png
+default_original_image: images/magnificent-oak.png
 ---
 ## Lorem ipsum
 
