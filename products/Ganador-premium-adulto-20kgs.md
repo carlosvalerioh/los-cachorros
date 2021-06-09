@@ -10,7 +10,7 @@ description: >-
 order: 0
 featured: false
 seo:
-  title: 'Ganador premium adulto 20 kgs'
+  title: Ganador premium adulto 20 kgs
   description: ''
   robots: []
   extra: []
@@ -19,7 +19,6 @@ layout: product
 default_thumbnail_image: images/Ganador premium adulto.png
 default_original_image: images/famous-wallaby.png
 price: '795'
-category: category/GANADOR-MININO.md
 ---
 ## Lorem ipsum
 
