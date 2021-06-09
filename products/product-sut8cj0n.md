@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/remarkable-eggplant.png
 default_original_image: images/perpetual-zebra.png
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
