@@ -11,7 +11,7 @@ price: '1,650'
 order: 0
 featured: false
 seo:
-  title: 'Royal Canin Large Adult 15.9 Kg'
+  title: Royal Canin Large Adult 15.9 Kg
   description: ''
   robots: []
   extra: []
@@ -19,6 +19,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Large Adult.jpg
 default_original_image: images/pleasant-planet.jpg
+category: category/category-yi5u4al5r.md
 ---
 ## Lorem ipsum
 
