@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Labrador Retriever.jpg
+default_original_image: images/maroon-oak.jpg
 ---
 ## Lorem ipsum
 
