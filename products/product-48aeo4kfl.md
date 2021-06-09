@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal CaninHematuria Detection Box 2x20g 0.04 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '490'
 order: 0
 featured: false
 seo:
