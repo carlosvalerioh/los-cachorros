@@ -44,6 +44,7 @@ sections:
       - products/product-cc4zoifde.md
       - products/product-sl3bj1lus.md
       - products/product-m2dn222fp.md
+      - products/product-e8ndlxvkl.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
