@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-favicon: images/violet-chestnut.png
+favicon: images/Los-Cachorros-favicon.png
 logo_dark: images/melodic-neptune.png
 logo_light: images/thoughtful-paprika.png
 hamburger_background_image: images/noun_Dog_3587160-5.png
