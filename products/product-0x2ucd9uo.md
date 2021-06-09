@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Gastro-Intestinal Fiber Response.jpg
 default_original_image: images/smart-lettuce.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
