@@ -14,7 +14,7 @@ sections:
     section_id: promotion_section
     title: Conoce todas nuestras ubicaciones
     subtitle: 10 tiendas en la CDMX
-    image: images/robust-zucchini.jpg
+    image: images/ultra-mango.jpg
     background_image: images/square-eggplant.png
     cta:
       title: UBICACIONES
