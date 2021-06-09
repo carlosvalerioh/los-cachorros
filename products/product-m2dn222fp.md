@@ -9,7 +9,7 @@ price: '700'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Hydrolyzed Protein Moderate Calorie  3.5 Kg'
   description: ''
   robots: []
   extra: []
