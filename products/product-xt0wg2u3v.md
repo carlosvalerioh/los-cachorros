@@ -14,6 +14,7 @@ layout: product
 title: Royal Canin Indoor Adult Cat 3.18 Kg
 default_thumbnail_image: images/diligent-bee.jpg
 default_original_image: images/wonderful-crane.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
