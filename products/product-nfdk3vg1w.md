@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Giant Puppy.jpg
 default_original_image: images/wonderful-basil.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
