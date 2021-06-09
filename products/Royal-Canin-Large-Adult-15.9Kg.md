@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/Royal Canin Large Adult.jpg
+default_thumbnail_image: images/futuristic-broccoli.jpg
 default_original_image: images/pleasant-planet.jpg
 category: category/PERROS-ROYAL-CANIN.md
 ---
