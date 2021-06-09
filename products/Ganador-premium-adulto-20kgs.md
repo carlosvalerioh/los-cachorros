@@ -19,6 +19,7 @@ layout: product
 default_thumbnail_image: images/Ganador premium adulto.png
 default_original_image: images/famous-wallaby.png
 price: '795'
+category: category/PERROS-GANADOR.md
 ---
 ## Lorem ipsum
 
