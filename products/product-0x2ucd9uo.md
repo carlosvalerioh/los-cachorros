@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Gastro-Intestinal Fiber Response 4 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGIF4 <br> Royal Canin Gastrointestinal Fiber Response es un alimento seco
+  para perros con trastornos gastro intestinales, diarrea fibro responsiva,
+  diarrea por ansiedad y estreñimiento.
 price: '650'
 order: 0
 featured: false
