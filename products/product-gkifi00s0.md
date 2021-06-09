@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/parallel-giraffe.jpg
 default_original_image: images/thoughtful-tomato.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
