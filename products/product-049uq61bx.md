@@ -13,7 +13,7 @@ price: '1,670'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin German Shepherd 13.6 Kg'
   description: ''
   robots: []
   extra: []
