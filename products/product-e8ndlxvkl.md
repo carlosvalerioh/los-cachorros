@@ -1,6 +1,11 @@
 ---
 id: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  SKU:RIIH27 <br> Hairball de Royal Canin es para gatos a partir de 1 año de
+  edad, con mayor predisposición a la formación de bolas de pelo (ej. gatos de
+  pelo largo). Una combinación de diferentes tipos de fibras que estimula el
+  tránsito intestinal y ayuda a facilitar la eliminación del pelo que su gato
+  traga todos los días.
 price: lorem-ipsum
 order: 0
 featured: false
