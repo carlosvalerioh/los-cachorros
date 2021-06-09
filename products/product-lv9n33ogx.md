@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Gastro-Intestinal High Energy 4 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGIHE4 <br> Royal Canin Gastrointestinal High Energy es un alimento seco
+  desarrollado para perros con diarrea aguda y crónica, gastritis, enteritis,
+  colitis, insuficiencia pancreática exocrina(IPE), mala digestión, mala
+  absorción y enfermedad intestinal inflamatoria (EII).
 price: '630'
 order: 0
 featured: false
