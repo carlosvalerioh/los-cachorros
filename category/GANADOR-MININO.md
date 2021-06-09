@@ -2,7 +2,7 @@
 title: GATOS - MININO
 order: 0
 seo:
-  title: ''
+  title: 'GATOS - MININO'
   description: ''
   robots: []
   extra: []
