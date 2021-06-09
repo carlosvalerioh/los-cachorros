@@ -11,7 +11,7 @@ price: '1,650'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Large Adult 15.9 Kg'
   description: ''
   robots: []
   extra: []
