@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin Gastro-Intestinal High Energy 4 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '630'
 order: 0
 featured: false
 seo:
