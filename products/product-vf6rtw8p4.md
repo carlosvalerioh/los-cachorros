@@ -12,7 +12,7 @@ price: '1,725'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Hydrolyzed Protein Adult HP Canine 11.5 Kg'
   description: ''
   robots: []
   extra: []
