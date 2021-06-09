@@ -1,7 +1,11 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Giant Puppy 13.6 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGP136 <br> Alimento para cachorros de talla gigante desde los 2 meses a
+  los 8 meses de edad. Giant Puppy ayuda a reforzar las defensas naturales de su
+  cachorro gracias a un exclusivo complejo de antioxidantes incluyendo vitamina
+  E.
 price: lorem-ipsum
 order: 0
 featured: false
