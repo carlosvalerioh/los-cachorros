@@ -11,7 +11,7 @@ price: '490'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal CaninHematuria Detection Box 2x20g 0.04 Kg'
   description: ''
   robots: []
   extra: []
