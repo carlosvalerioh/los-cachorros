@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin Labrador Retriever 13.63 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,670'
 order: 0
 featured: false
 seo:
