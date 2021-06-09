@@ -1,7 +1,9 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Hepatic 3.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RHEP35 <br> Royal Canin Hepatic para Adulto Bolsa de 3Kg Alimento Premium,
+  producto 100% Original y al mejor precio.
 price: '620'
 order: 0
 featured: false
