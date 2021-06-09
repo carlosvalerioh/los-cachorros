@@ -9,7 +9,7 @@ price: '825'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Adult Gato 4.5 Kg'
   description: ''
   robots: []
   extra: []
