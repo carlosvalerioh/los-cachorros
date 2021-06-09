@@ -20,6 +20,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Hydrolyzed Protein Moderate Calorie.jpg
+default_original_image: images/incredible-goose.jpg
 ---
 ## Lorem ipsum
 
