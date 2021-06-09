@@ -15,7 +15,7 @@ sections:
     title: Conoce todas nuestras ubicaciones
     subtitle: 10 tiendas en la CDMX
     image: images/brooke-cagle-EyCEX1e9EiY-unsplash.jpg
-    background_image: images/amazing-lettuce.png
+    background_image: images/square-eggplant.png
     cta:
       title: UBICACIONES
       url: /about
