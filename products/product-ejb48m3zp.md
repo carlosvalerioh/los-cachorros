@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Gastro-Intestinal High Energy.jpg
+default_original_image: images/spectacular-olive.jpg
 ---
 ## Lorem ipsum
 
