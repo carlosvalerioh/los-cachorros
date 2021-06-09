@@ -12,7 +12,7 @@ price: '675'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Gastro-Intestinal Puppy 4 Kg'
   description: ''
   robots: []
   extra: []
