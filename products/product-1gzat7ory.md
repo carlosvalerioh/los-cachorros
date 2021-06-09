@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Indoor Adult Cat 1.36 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
