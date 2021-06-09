@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: PERROS - GANADOR
 order: 0
 seo:
   title: ''
