@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin Hydrolyzed Protein Adult HP Canine 11.5 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '1,725'
 order: 0
 featured: false
 seo:
