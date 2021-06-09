@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal Canin Indoor Adult Cat.jpg
+default_original_image: images/festive-spider.jpg
 ---
 ## Lorem ipsum
 
