@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Royal CaninHematuria Detection Box 2x20g 0.04 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RHDB04 <br> Royal Canin lanza el primer producto que no es alimento;
+  innovador en la detección de sangre en la orina (hematuria) en gatos.
+  Hematuria Detection tecnología desarrollada por Blücare, es una prueba casera,
+  sencilla y muy eficaz para detectar de forma temprana problemas urinarios en
+  gatos.
 price: '490'
 order: 0
 featured: false
