@@ -9,7 +9,7 @@ price: '440'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Glycobalance Gato 2 Kg'
   description: ''
   robots: []
   extra: []
