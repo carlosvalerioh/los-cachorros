@@ -6,7 +6,7 @@ description: >-
   pelo largo). Una combinación de diferentes tipos de fibras que estimula el
   tránsito intestinal y ayuda a facilitar la eliminación del pelo que su gato
   traga todos los días.
-price: lorem-ipsum
+price: '530'
 order: 0
 featured: false
 seo:
