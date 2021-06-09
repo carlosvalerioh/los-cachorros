@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Gastro-Intestinal Low Fat  3 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGLF3 <br> Royal Canin Prescripcion Gastrointestinal Low Fat es un
+  alimento seco diseñado para perros con pancreatitis aguda y crónica, diarrea
+  aguda y crónica, insuficiencia ancreática exócrina (IPE), hiperlipidemia,
+  síndrome de mala absorción, deficiencia de ácidos biliares, parásitos
+  intestinales, diarrea por cambio de dieta y síndrome del intestino delgado.
 price: '480'
 order: 0
 featured: false
