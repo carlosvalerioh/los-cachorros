@@ -41,7 +41,6 @@ sections:
       - products/product-q8ncy42cj.md
       - products/product-1gzat7ory.md
       - products/product-cc4zoifde.md
-      - products/product-sl3bj1lus.md
       - products/product-m2dn222fp.md
       - products/product-e8ndlxvkl.md
       - products/product-xt0wg2u3v.md
