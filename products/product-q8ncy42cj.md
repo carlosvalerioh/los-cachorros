@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/splendid-broccoli.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
