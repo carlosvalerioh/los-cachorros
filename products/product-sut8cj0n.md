@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Royal Canin Hepatic 3.5 Kg
 description: lorem-ipsum
-price: lorem-ipsum
+price: '620'
 order: 0
 featured: false
 seo:
