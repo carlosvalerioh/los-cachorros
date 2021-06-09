@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Royal Canin Hydrolyzed Protein Adult HP SmallDog 4 Kg
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
