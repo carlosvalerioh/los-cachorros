@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+title: Royal Canin Indoor Adult Cat 3.18 Kg
 ---
 ## Lorem ipsum
 
