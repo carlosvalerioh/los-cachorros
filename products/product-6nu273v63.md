@@ -14,6 +14,7 @@ seo:
 layout: product
 default_original_image: images/Royal Canin Gastro-Intestinal Low Fat.jpg
 default_thumbnail_image: images/beige-basil.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
