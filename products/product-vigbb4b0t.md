@@ -1,7 +1,9 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Hepatic 12 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RHEP12 <br> Royal Canin Hepatic para Adulto Bolsa de 3Kg Alimento Premium,
+  producto 100% Original y al mejor precio.
 price: '1,540'
 order: 0
 featured: false
