@@ -21,6 +21,7 @@ seo:
 layout: product
 default_original_image: images/nervous-celery.jpg
 default_thumbnail_image: images/oceanic-elm.jpg
+category: category/PERROS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
