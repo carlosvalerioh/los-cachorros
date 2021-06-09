@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/ultra-panda.jpg
 default_original_image: images/thoughtful-eucalyptus.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
