@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+title: Royal Canin Indoor Intense Hairball 2.7 Kg
 ---
 ## Lorem ipsum
 
