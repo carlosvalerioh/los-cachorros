@@ -77,7 +77,7 @@ sections:
       type: action
     type: promotion_section
     image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
-    background_image: images/noun_Dog_3587160-7.png
+    background_image: images/elite-kale.png
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
