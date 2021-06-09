@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Glycobalance Gato 2 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGG2 <br> Royal Canin Prescripción Glycobalance es un alimento seco para
+  gatos con diabetes mellitus, estabilización del peso después de
+  adelgazamiento.
 price: '440'
 order: 0
 featured: false
