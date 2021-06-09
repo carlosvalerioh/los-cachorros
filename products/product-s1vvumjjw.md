@@ -14,6 +14,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Royal Canin Glycobalance Gato.jpg
 default_original_image: images/maroon-amaranth.jpg
+category: category/GATOS-ROYAL-CANIN.md
 ---
 ## Lorem ipsum
 
