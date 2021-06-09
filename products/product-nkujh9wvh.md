@@ -1,7 +1,12 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Large Adult 15.9 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RLA159 <br> El alimento de Royal Canin para adultos de mas de 5 años es un
+  alimento con contenido de nutrientes apto para ayudar a mantener la vitalidad
+  de los perros grandes que afrontan los primeros signos de la edad. Contiene un
+  complejo de antioxidantes exclusivo que ayuda a neutralizar a los radicales
+  libres.
 price: lorem-ipsum
 order: 0
 featured: false
