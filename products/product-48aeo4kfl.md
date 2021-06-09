@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Royal CaninHematuria Detection Box.jpg
+default_original_image: images/important-chestnut.jpg
 ---
 ## Lorem ipsum
 
