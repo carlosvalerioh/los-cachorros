@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Royal Canin Adult Gato 4.5 Kg
-description: lorem-ipsum
+description: >-
+  SKU:RGAF45 <br> Royal Canin produce alimentos centrados en las necesidades
+  únicas de tu mascota, brinda una nutrición específica y eficaz, y lo ayuda a
+  convertirse en su mejor versión.
 price: lorem-ipsum
 order: 0
 featured: false
